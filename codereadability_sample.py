@@ -28,14 +28,11 @@ from tensorflow.keras.callbacks import ReduceLROnPlateau, EarlyStopping
 
 """PREPROCESSING USING THE DATASET - PYTHON"""
 
-# Code based from Maheshwari (2023)
-df = pd.read_csv('data_python.csv')
+# Code and dataset "data_python.csv" based from Maheshwari (2023)
+df = pd.read_csv('updated_dataset.csv')
 
 # Remove the "class Solution:/n"
 df['python_solutions'] = df['python_solutions'].str.replace(r'^class Solution:\n', '', regex=True)
-
-# Save the updated dataset (optional)
-df.to_csv('updated_dataset.csv', index=False)
 
 df.head()
 
@@ -73,6 +70,95 @@ def count_identifiers(code):
     identifiers = [':', '=', '==', '<', '>', ',']
     count = sum(code.lower().count(keyword) for keyword in identifiers)
     return count
+
+"""ADDED ADDITIONAL FEATURES"""
+def nesting_depth(code):
+    depth = 0
+    max_depth = 0
+    for line in code.split('\n'):
+        if line.strip().startswith(('if ', 'for ', 'while ', 'def ', 'class ')):
+            depth += 1
+            if depth > max_depth:
+                max_depth = depth
+        elif line.strip().startswith(('else:', 'elif ')):
+            pass  # Do not increase depth for else/elif
+        else:
+            depth = 0
+    return max_depth
+
+df['nesting_depth'] = df['python_solutions'].apply(nesting_depth)
+
+def function_length(code):
+    functions = code.split('def ')
+    lengths = []
+    for func in functions[1:]:  # Skip the first element as it's not a function
+        lines = func.split('\n')
+        lengths.append(len(lines))
+    return max(lengths) if lengths else 0
+
+df['function_length'] = df['python_solutions'].apply(function_length)
+
+def average_variable_name_length(code):
+    variables = re.findall(r'\b[a-zA-Z_][a-zA-Z0-9_]*\b', code)
+    if not variables:
+        return 0
+    total_length = sum(len(var) for var in variables)
+    return total_length / len(variables)
+
+df['avg_var_name_length'] = df['python_solutions'].apply(average_variable_name_length)
+
+def detect_code_smells(code):
+    # Example: Detect long methods (more than 20 lines)
+    functions = code.split('def ')
+    long_methods = 0
+    for func in functions[1:]:
+        lines = func.split('\n')
+        if len(lines) > 20:
+            long_methods += 1
+    return long_methods
+
+df['code_smells'] = df['python_solutions'].apply(detect_code_smells)
+
+def whitespace_usage(code):
+    lines = code.split('\n')
+    blank_lines = sum(1 for line in lines if line.strip() == '')
+    return blank_lines
+
+df['whitespace_usage'] = df['python_solutions'].apply(whitespace_usage)
+
+def comment_quality(code):
+    comments = re.findall(r'#.*', code)
+    if not comments:
+        return 0
+    total_length = sum(len(comment) for comment in comments)
+    return total_length / len(comments)
+
+df['comment_quality'] = df['python_solutions'].apply(comment_quality)
+
+def code_structure(code):
+    classes = code.count('class ')
+    functions = code.count('def ')
+    return classes + functions
+
+df['code_structure'] = df['python_solutions'].apply(code_structure)
+
+def operator_complexity(code):
+    complex_ops = ['+=', '-=', '*=', '/=', '%=', '//=', '**=', '&=', '|=', '^=', '>>=', '<<=', '?']
+    count = 0
+    for op in complex_ops:
+        count += code.count(op)
+    return count
+
+df['operator_complexity'] = df['python_solutions'].apply(operator_complexity)
+
+def count_imports(code):
+    imports = re.findall(r'import \w+', code) + re.findall(r'from \w+ import', code)
+    return len(imports)
+
+df['imports'] = df['python_solutions'].apply(count_imports)
+
+# Save the updated dataset (if decided to make more features)
+# df.to_csv('updated_dataset.csv', index=False)
 
 """CNN TRAINING & TESTING"""
 
