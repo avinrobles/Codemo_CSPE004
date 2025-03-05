@@ -1,4 +1,4 @@
 #ignore virtual environment
 .venv
 .env
-code_image.png
+#code_image.png
