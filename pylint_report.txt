@@ -1,2 +1,2 @@
-************* Module tmpg9k3dnc9
-C:\Users\Lenovo\AppData\Local\Temp\tmpg9k3dnc9.py:1:0: E0001: Parsing failed: 'invalid or missing encoding declaration for 'C:\\Users\\Lenovo\\AppData\\Local\\Temp\\tmpg9k3dnc9.py'' (syntax-error)
+************* Module tmpwrndye2c
+C:\Users\Lenovo\AppData\Local\Temp\tmpwrndye2c.py:1:0: E0001: Parsing failed: 'invalid or missing encoding declaration for 'C:\\Users\\Lenovo\\AppData\\Local\\Temp\\tmpwrndye2c.py'' (syntax-error)

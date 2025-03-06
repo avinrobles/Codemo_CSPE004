@@ -5,13 +5,15 @@ import tempfile
 import os
 import flake8
 import pylint
+#import cnnmodel as cnn
 #import easyocr
 
+#paths just in case imports dont work
 pytesseract.pytesseract.tesseract_cmd = r"C:\Program Files\Tesseract-OCR\tesseract.exe"
 PYLINT = r"C:\Projects\Repository\Codemo_CSPE004\.venv\Scripts\pylint.exe"
 FLAKE8 = r"C:\Projects\Repository\Codemo_CSPE004\.venv\Scripts\flake8.exe"
 
-def extract_code_from_image(image_path):
+def scan_text(image_path):
     """Extracts text from an image using Tesseract OCR."""
     try:
         image = Image.open(image_path)
@@ -61,9 +63,8 @@ def check_readability_pylint(code, output_filename="pylint_report.txt"):
 
 def main():
     image_path = "code_image.png"  # Replace with your image file path
-    
     print("Extracting code from image...")
-    code = extract_code_from_image(image_path)
+    code = scan_text(image_path)
     print("Extracted Code:\n")
     print(code if code else "No code found.")
     
