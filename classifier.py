@@ -5,13 +5,16 @@ import tempfile
 import os
 import flake8
 import pylint
+#import cnnmodel as cnn
 #import easyocr
+import black
 
+#paths just in case imports dont work
 pytesseract.pytesseract.tesseract_cmd = r"C:\Program Files\Tesseract-OCR\tesseract.exe"
 PYLINT = r"C:\Projects\Repository\Codemo_CSPE004\.venv\Scripts\pylint.exe"
 FLAKE8 = r"C:\Projects\Repository\Codemo_CSPE004\.venv\Scripts\flake8.exe"
 
-def extract_code_from_image(image_path):
+def scan_text(image_path):
     """Extracts text from an image using Tesseract OCR."""
     try:
         image = Image.open(image_path)
@@ -20,6 +23,15 @@ def extract_code_from_image(image_path):
     except Exception as e:
         print(f"Error extracting text: {e}")
         return ""
+
+def format_code_black(code):
+    """Formats the extracted code using Black to fix spacing and indentation."""
+    try:
+        formatted_code = black.format_str(code, mode=black.Mode())
+        return formatted_code
+    except Exception as e:
+        print(f"Black formatting error: {e}")
+        return code
 
 def check_readability_flake8(code, output_filename="flake8_report.txt"):
     """Checks the readability of the extracted code using flake8 and saves the report."""
@@ -52,7 +64,7 @@ def check_readability_pylint(code, output_filename="pylint_report.txt"):
     try:
         report_path = os.path.join(os.getcwd(), output_filename)
         with open(report_path, "w") as report_file:
-            result = subprocess.run([PYLINT, "--disable=all", "--enable=C,W,E,F", temp_file_path], capture_output=True, text=True, check=False)
+            result = subprocess.run([PYLINT,  temp_file_path], capture_output=True, text=True, check=False)
             report_file.write(result.stdout if result.stdout else "No issues detected!\n")
         return f"Pylint report saved at {report_path}"
     finally:
@@ -61,9 +73,9 @@ def check_readability_pylint(code, output_filename="pylint_report.txt"):
 
 def main():
     image_path = "code_image.png"  # Replace with your image file path
-    
     print("Extracting code from image...")
-    code = extract_code_from_image(image_path)
+    code = scan_text(image_path)
+    code = format_code_black(code)
     print("Extracted Code:\n")
     print(code if code else "No code found.")
     
