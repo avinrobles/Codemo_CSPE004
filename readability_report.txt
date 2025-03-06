@@ -1,0 +1,6 @@
+************* Module tmpnt5vjuvm
+C:\Users\Lenovo\AppData\Local\Temp\tmpnt5vjuvm.py:1:0: C0114: Missing module docstring (missing-module-docstring)
+
+-----------------------------------
+Your code has been rated at 5.00/10
+
