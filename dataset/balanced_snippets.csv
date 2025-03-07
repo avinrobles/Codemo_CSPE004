@@ -1,0 +1,6381 @@
+python_solutions,label
+,1
+,0
+,1
+,0
+,0
+,1
+,1
+,1
+,0
+,1
+,0
+,0
+,1
+,1
+,1
+,1
+,0
+,0
+,1
+,1
+,1
+,1
+,1
+,1
+,1
+,1
+,0
+,1
+,1
+,1
+,1
+,1
+,1
+,0
+,0
+,1
+,0
+,0
+,1
+,1
+,0
+,1
+,0
+,1
+,0
+,0
+,0
+,1
+,1
+,1
+,1
+,1
+,1
+,0
+,1
+,1
+,0
+,1
+,1
+,0
+,0
+,1
+,0
+,0
+,1
+,1
+,1
+,1
+,1
+,1
+,0
+,1
+,1
+,1
+,0
+,1
+,1
+,0
+,1
+,1
+,1
+,1
+,0
+,0
+,1
+,0
+,0
+,1
+,1
+,1
+,0
+,1
+,1
+,1
+,1
+,0
+,0
+,0
+,0
+,0
+,0
+,1
+,0
+,0
+,0
+,1
+,0
+,1
+,0
+,0
+,0
+,1
+,1
+,0
+,0
+,1
+,0
+,1
+,1
+,0
+,0
+,0
+,1
+,1
+,1
+,1
+,0
+,1
+,0
+,1
+,1
+,1
+,0
+,0
+,1
+,1
+,0
+,1
+,1
+,0
+,1
+,0
+,0
+,0
+,0
+,0
+,1
+,1
+,1
+,1
+,1
+,0
+,0
+,1
+,0
+,0
+,1
+,0
+,1
+,0
+,0
+,1
+,0
+,0
+,1
+,1
+,1
+,0
+,1
+,0
+,0
+,0
+,0
+,0
+,1
+,0
+,0
+,1
+,1
+,1
+,1
+,1
+,1
+,0
+,1
+,1
+,1
+,1
+,1
+,1
+,0
+,1
+,1
+,0
+,1
+,0
+,0
+,1
+,0
+,0
+,0
+,1
+,0
+,1
+,0
+,1
+,1
+,0
+,1
+,0
+,0
+,1
+,0
+,1
+,0
+,1
+,0
+,1
+,0
+,0
+,0
+,1
+,0
+,1
+,0
+,1
+,1
+,0
+,1
+,0
+,0
+,1
+,1
+,1
+,1
+,0
+,1
+,0
+,0
+,1
+,1
+,1
+,1
+,1
+,1
+,0
+,0
+,0
+,1
+,1
+,1
+,1
+,0
+,0
+,1
+,0
+,1
+,1
+,0
+,0
+,0
+,1
+,1
+,1
+,1
+,1
+,1
+,1
+,1
+,1
+,0
+,1
+,1
+,0
+,0
+,1
+,1
+,0
+,0
+,1
+,0
+,0
+,1
+,1
+,0
+,1
+,1
+,1
+,0
+,0
+,0
+,1
+,0
+,1
+,1
+,1
+,1
+,1
+,0
+,1
+,1
+,0
+,1
+,1
+,0
+,1
+,1
+,0
+,0
+,0
+,1
+,0
+,0
+,0
+,1
+,0
+,1
+,1
+,1
+,0
+,1
+,1
+,1
+,1
+,0
+,1
+,1
+,0
+,0
+,1
+,0
+,1
+,0
+,1
+,1
+,1
+,0
+,1
+,0
+,1
+,1
+,1
+,0
+,0
+,1
+,0
+,1
+,0
+,0
+,1
+,1
+,0
+,1
+,0
+,1
+,0
+,1
+,0
+,0
+,0
+,1
+,1
+,1
+,1
+,1
+,0
+,1
+,1
+,0
+,1
+,0
+,0
+,1
+,0
+,0
+,1
+,0
+,0
+,1
+,0
+,0
+,0
+,0
+,0
+,0
+,1
+,0
+,0
+,0
+,1
+,1
+,0
+,0
+,0
+,1
+,0
+,0
+,1
+,0
+,0
+,0
+,0
+,0
+,1
+,1
+,1
+,1
+,1
+,1
+,0
+,1
+,0
+,1
+,0
+,0
+,1
+,0
+,0
+,1
+,1
+,0
+,1
+,0
+,0
+,0
+,0
+,0
+,1
+,1
+,1
+,0
+,0
+,1
+,1
+,1
+,1
+,0
+,0
+,1
+,1
+,0
+,1
+,0
+,1
+,1
+,0
+,0
+,1
+,1
+,0
+,1
+,1
+,0
+,1
+,0
+,0
+,0
+,0
+,1
+,0
+,1
+,1
+,0
+,0
+,0
+,0
+,1
+,1
+,1
+,1
+,0
+,0
+,1
+,0
+,1
+,1
+,0
+,0
+,0
+,0
+,1
+,1
+,0
+,0
+,0
+,0
+,0
+,0
+,1
+,0
+,0
+,0
+,0
+,1
+,1
+,1
+,1
+,1
+,0
+,0
+,0
+,0
+,1
+,1
+,0
+,1
+,0
+,0
+,1
+,0
+,0
+,0
+,1
+,0
+,0
+,0
+,0
+,1
+,1
+,0
+,0
+,0
+,1
+,1
+,0
+,1
+,0
+,1
+,0
+,0
+,1
+,1
+,0
+,0
+,0
+,0
+,1
+,1
+,1
+,1
+,1
+,1
+,0
+,0
+,1
+,1
+,1
+,0
+,0
+,0
+,1
+,0
+,1
+,0
+,0
+,1
+,1
+,1
+,0
+,1
+,0
+,0
+,0
+,1
+,1
+,1
+,0
+,0
+,1
+,1
+,0
+,0
+,0
+,1
+,0
+,1
+,1
+,0
+,1
+,0
+,0
+,0
+,0
+,1
+,1
+,0
+,0
+,1
+,1
+,0
+,0
+,1
+,1
+,1
+,1
+,0
+,0
+,0
+,1
+,0
+,0
+,1
+,1
+,1
+,0
+,1
+,1
+,1
+,0
+,1
+,0
+,1
+,0
+,0
+,0
+,0
+,0
+,0
+,0
+,1
+,0
+,0
+,1
+,1
+,0
+,0
+,1
+,0
+,0
+,0
+,0
+,0
+,0
+,1
+,0
+,1
+,0
+,1
+,1
+,0
+,1
+,0
+,1
+,1
+,0
+,0
+,0
+,0
+,0
+,1
+,0
+,1
+,0
+,0
+,0
+,1
+,0
+,0
+,1
+,0
+,0
+,0
+,0
+,1
+,1
+,1
+,1
+,1
+,1
+,1
+,1
+,0
+,0
+,1
+,1
+,1
+,1
+,1
+,1
+,0
+,0
+,1
+,1
+,1
+,0
+,1
+,0
+,1
+,0
+,0
+,0
+,0
+,0
+,0
+,0
+,0
+,1
+,1
+,1
+,0
+,0
+,0
+,1
+,0
+,1
+,1
+,1
+,1
+,1
+,0
+,1
+,0
+,0
+,0
+,1
+,0
+,1
+,0
+,1
+,1
+,0
+,0
+,0
+,1
+,0
+,0
+,0
+,0
+,0
+,1
+,1
+,1
+,1
+,0
+,1
+,1
+,0
+,1
+,0
+,1
+,1
+,0
+,0
+,1
+,0
+,0
+,0
+,1
+,0
+,0
+,0
+,1
+,1
+,0
+,1
+,0
+,1
+,1
+,0
+,0
+,0
+,1
+,0
+,1
+,0
+,1
+,0
+,0
+,0
+,1
+,0
+,0
+,0
+,1
+,1
+,1
+,0
+,1
+,1
+,0
+,0
+,1
+,0
+,0
+,1
+,1
+,1
+,0
+,0
+,0
+,1
+,0
+,0
+,1
+,0
+,0
+,1
+,1
+,0
+,0
+,0
+,1
+,0
+,1
+,0
+,1
+,0
+,0
+,0
+,0
+,0
+,1
+,1
+,1
+,0
+,1
+,0
+,0
+,1
+,0
+,0
+,0
+,1
+,1
+,1
+,0
+,1
+,0
+,0
+,1
+,1
+,1
+,1
+,0
+,1
+,0
+,1
+,1
+,0
+,1
+,1
+,0
+,0
+,1
+,1
+,1
+,0
+,0
+,1
+,0
+,0
+,1
+,1
+,0
+,0
+,1
+,1
+,1
+,0
+,0
+,0
+,1
+,1
+,1
+,1
+,0
+,1
+,1
+,1
+,1
+,0
+,1
+,0
+,0
+,1
+,0
+,0
+,0
+,1
+,0
+,1
+,0
+,1
+,1
+,0
+,0
+,0
+,0
+,1
+,1
+,1
+,0
+,0
+,0
+,1
+,1
+,0
+,1
+,1
+,0
+,0
+,1
+,1
+,0
+,1
+,1
+,0
+,0
+,1
+,1
+,0
+,1
+,1
+,0
+,0
+,1
+,0
+,0
+,1
+,0
+,0
+,1
+,1
+,0
+,1
+,0
+,0
+,0
+,1
+,1
+,0
+,1
+,1
+,1
+,1
+,0
+,1
+,1
+,1
+,1
+,0
+,0
+,1
+,0
+,1
+,0
+,0
+,0
+,0
+,0
+,0
+,0
+,1
+,0
+,1
+,0
+,0
+,0
+,0
+,1
+,0
+,0
+,1
+,1
+,0
+,1
+,1
+,0
+,0
+,1
+,1
+,0
+,0
+,1
+,1
+,1
+,0
+,1
+,0
+,0
+,0
+,0
+,1
+,0
+,1
+,1
+,0
+,0
+,0
+,1
+,0
+,0
+,1
+,1
+,1
+,0
+,1
+,1
+,1
+,1
+,0
+,0
+,1
+,1
+,0
+,1
+,0
+,1
+,0
+,1
+,1
+,1
+,0
+,1
+,1
+,1
+,1
+,1
+,0
+,0
+,0
+,1
+,1
+,0
+,0
+,0
+,0
+,0
+,1
+,0
+,0
+,0
+,0
+,1
+,0
+,0
+,0
+,0
+,1
+,0
+,0
+,0
+,0
+,1
+,0
+,0
+,1
+,0
+,0
+,0
+,0
+,0
+,0
+,0
+,0
+,1
+,1
+,1
+,0
+,0
+,1
+,0
+,1
+,1
+,0
+,0
+,1
+,1
+,0
+,0
+,1
+,1
+,0
+,0
+,1
+,1
+,0
+,0
+,1
+,0
+,0
+,0
+,1
+,1
+,0
+,1
+,0
+,0
+,0
+,1
+,0
+,1
+,1
+,1
+,0
+,1
+,0
+,1
+,0
+,1
+,1
+,1
+,1
+,1
+,1
+,1
+,0
+,1
+,1
+,0
+,0
+,0
+,1
+,1
+,0
+,1
+,1
+,0
+,1
+,0
+,1
+,0
+,0
+,0
+,1
+,0
+,0
+,1
+,0
+,0
+,0
+,1
+,1
+,0
+,0
+,1
+,1
+,1
+,0
+,0
+,1
+,1
+,0
+,0
+,1
+,1
+,1
+,0
+,0
+,0
+,0
+,1
+,1
+,0
+,1
+,1
+,1
+,0
+,0
+,0
+,1
+,1
+,0
+,0
+,1
+,0
+,0
+,1
+,1
+,0
+,1
+,0
+,0
+,0
+,0
+,1
+,1
+,0
+,1
+,0
+,0
+,0
+,0
+,1
+,0
+,0
+,1
+,1
+,0
+,1
+,0
+,0
+,1
+,1
+,1
+,0
+,0
+,0
+,1
+,0
+,1
+,1
+,0
+,1
+,1
+,0
+,0
+,1
+,1
+,0
+,0
+,1
+,1
+,0
+,1
+,1
+,1
+,0
+,0
+,1
+,0
+,0
+,1
+,0
+,0
+,0
+,1
+,0
+,0
+,0
+,1
+,1
+,1
+,0
+,1
+,0
+,1
+,1
+,0
+,1
+,1
+,1
+,0
+,1
+,0
+,0
+,0
+,0
+,1
+,0
+,0
+,0
+,1
+,1
+,1
+,0
+,0
+,1
+,0
+,0
+,0
+,1
+,1
+,0
+,0
+,0
+,1
+,1
+,1
+,1
+,0
+,1
+,1
+,1
+,1
+,1
+,0
+,0
+,0
+,0
+,1
+,1
+,0
+,0
+,1
+,0
+,0
+,1
+,0
+,1
+,1
+,0
+,1
+,0
+,0
+,0
+,1
+,1
+,1
+,1
+,0
+,1
+,1
+,0
+,1
+,1
+,0
+,0
+,0
+,0
+,1
+,1
+,0
+,0
+,1
+,0
+,0
+,1
+,1
+,0
+,1
+,1
+,0
+,0
+,1
+,1
+,1
+,1
+,1
+,0
+,0
+,1
+,1
+,0
+,1
+,1
+,0
+,0
+,1
+,1
+,0
+,0
+,1
+,1
+,0
+,0
+,0
+,1
+,0
+,0
+,0
+,1
+,0
+,1
+,1
+,0
+,1
+,1
+,1
+,0
+,0
+,1
+,0
+,0
+,0
+,0
+,0
+,0
+,1
+,0
+,1
+,0
+,0
+,1
+,1
+,0
+,1
+,0
+,0
+,1
+,0
+,0
+,0
+,1
+,1
+,0
+,0
+,0
+,0
+,0
+,1
+,1
+,1
+,0
+,1
+,1
+,0
+,0
+,1
+,0
+,0
+,0
+,1
+,0
+,0
+,1
+,1
+,1
+,1
+,1
+,0
+,0
+,0
+,1
+,0
+,0
+,0
+,1
+,0
+,0
+,0
+,1
+,0
+,0
+,0
+,1
+,1
+,0
+,1
+,1
+,0
+,1
+,1
+,1
+,0
+,0
+,0
+,1
+,1
+,1
+,0
+,1
+,1
+,0
+,1
+,1
+,0
+,0
+,0
+,1
+,0
+,1
+,0
+,1
+,0
+,1
+,1
+,1
+,0
+,1
+,1
+,0
+,0
+,1
+,0
+,1
+,0
+,1
+,1
+,1
+,0
+,0
+,0
+,0
+,0
+,0
+,0
+,0
+,0
+,1
+,1
+,0
+,1
+,0
+,0
+,1
+,0
+,0
+,0
+,1
+,1
+,0
+,0
+,0
+,1
+,0
+,0
+,0
+,0
+,0
+,1
+,1
+,1
+,1
+,0
+,1
+,1
+,0
+,0
+,0
+,1
+,0
+,0
+,0
+,1
+,0
+,0
+,1
+,1
+,0
+,1
+,1
+,1
+,0
+,0
+,1
+,1
+,0
+,0
+,1
+,0
+,1
+,1
+,1
+,1
+,0
+,1
+,0
+,0
+,1
+,0
+,1
+,1
+,1
+,1
+,0
+,0
+,1
+,1
+,1
+,0
+,1
+,1
+,1
+,0
+,1
+,0
+,1
+,1
+,1
+,0
+,1
+,1
+,0
+,0
+,1
+,0
+,1
+,0
+,1
+,0
+,0
+,1
+,1
+,0
+,0
+,1
+,1
+,1
+,1
+,1
+,1
+,1
+,1
+,1
+,0
+,1
+,0
+,0
+,1
+,0
+,1
+,1
+,0
+,1
+,1
+,0
+,1
+,1
+,0
+,0
+,0
+,1
+,1
+,0
+,0
+,0
+,0
+,0
+,1
+,0
+,0
+,0
+,1
+,1
+,0
+,0
+,0
+,0
+,0
+,1
+,1
+,1
+,0
+,0
+,1
+,0
+,1
+,1
+,1
+,0
+,1
+,0
+,1
+,0
+,0
+,1
+,0
+,1
+,1
+,1
+,0
+,1
+,1
+,1
+,0
+,0
+,0
+,1
+,0
+,1
+,1
+,1
+,0
+,0
+,1
+,1
+,0
+,1
+,1
+,0
+,1
+,1
+,0
+,1
+,0
+,1
+,0
+,0
+,0
+,1
+,0
+,0
+,0
+,0
+,1
+,0
+,0
+,1
+,0
+,0
+"print(""The fruit is: grape"")
+print(""The fruit is: grape"")",1
+"print(""The fruit is: apple"")
+print(""The fruit is: fig"")
+print(""The fruit is: date"")
+print(""The fruit is: elderberry"")
+print(""The fruit is: grape"")",1
+"print(""The fruit is: honeydew"")",1
+"print(""The fruit is: banana"")
+print(""The fruit is: banana"")
+print(""The fruit is: date"")",1
+"print(""The fruit is: honeydew"")
+print(""The fruit is: grape"")
+print(""The fruit is: elderberry"")",1
+"print(""The fruit is: fig"")
+print(""The fruit is: elderberry"")
+print(""The fruit is: elderberry"")",1
+"print(""The fruit is: banana"")",1
+"print(""The fruit is: cherry"")
+print(""The fruit is: elderberry"")
+print(""The fruit is: date"")
+print(""The fruit is: fig"")",1
+"print(""The fruit is: fig"")
+print(""The fruit is: date"")
+print(""The fruit is: banana"")",1
+"print(""The fruit is: grape"")
+print(""The fruit is: apple"")
+print(""The fruit is: date"")
+print(""The fruit is: grape"")
+print(""The fruit is: banana"")",1
+"print(""The fruit is: date"")
+print(""The fruit is: apple"")",1
+"print(""The fruit is: apple"")",1
+"print(""The fruit is: apple"")
+print(""The fruit is: cherry"")",1
+"print(""The fruit is: cherry"")
+print(""The fruit is: honeydew"")",1
+"print(""The fruit is: grape"")
+print(""The fruit is: honeydew"")
+print(""The fruit is: cherry"")
+print(""The fruit is: honeydew"")
+print(""The fruit is: cherry"")",1
+"print(""The fruit is: fig"")
+print(""The fruit is: date"")",1
+"print(""The fruit is: fig"")
+print(""The fruit is: date"")
+print(""The fruit is: elderberry"")
+print(""The fruit is: apple"")",1
+"print(""The fruit is: cherry"")",1
+"print(""The fruit is: honeydew"")
+print(""The fruit is: fig"")
+print(""The fruit is: elderberry"")",1
+"print(""The fruit is: fig"")",1
+"print(""The fruit is: elderberry"")
+print(""The fruit is: fig"")",1
+"print(""The fruit is: fig"")
+print(""The fruit is: apple"")
+print(""The fruit is: grape"")
+print(""The fruit is: banana"")
+print(""The fruit is: honeydew"")",1
+"print(""The fruit is: grape"")
+print(""The fruit is: date"")",1
+"print(""The fruit is: fig"")
+print(""The fruit is: fig"")",1
+"print(""The fruit is: date"")
+print(""The fruit is: apple"")",1
+"print(""The fruit is: cherry"")",1
+"print(""The fruit is: date"")
+print(""The fruit is: apple"")
+print(""The fruit is: date"")",1
+"print(""The fruit is: elderberry"")
+print(""The fruit is: date"")",1
+"print(""The fruit is: date"")
+print(""The fruit is: honeydew"")
+print(""The fruit is: elderberry"")
+print(""The fruit is: grape"")",1
+"print(""The fruit is: apple"")
+print(""The fruit is: cherry"")
+print(""The fruit is: date"")
+print(""The fruit is: date"")
+print(""The fruit is: elderberry"")",1
+"print(""The fruit is: elderberry"")",1
+"print(""The fruit is: banana"")
+print(""The fruit is: date"")
+print(""The fruit is: date"")
+print(""The fruit is: elderberry"")",1
+"print(""The fruit is: honeydew"")
+print(""The fruit is: date"")",1
+"print(""The fruit is: cherry"")",1
+"print(""The fruit is: cherry"")
+print(""The fruit is: fig"")
+print(""The fruit is: date"")
+print(""The fruit is: date"")",1
+"print(""The fruit is: apple"")
+print(""The fruit is: cherry"")
+print(""The fruit is: grape"")
+print(""The fruit is: honeydew"")",1
+"print(""The fruit is: date"")",1
+"print(""The fruit is: elderberry"")
+print(""The fruit is: grape"")
+print(""The fruit is: cherry"")
+print(""The fruit is: grape"")
+print(""The fruit is: elderberry"")",1
+"print(""The fruit is: banana"")",1
+"print(""The fruit is: fig"")
+print(""The fruit is: apple"")",1
+"print(""The fruit is: cherry"")
+print(""The fruit is: honeydew"")
+print(""The fruit is: fig"")
+print(""The fruit is: date"")",1
+"print(""The fruit is: honeydew"")
+print(""The fruit is: banana"")
+print(""The fruit is: banana"")",1
+"print(""The fruit is: honeydew"")
+print(""The fruit is: elderberry"")
+print(""The fruit is: banana"")
+print(""The fruit is: honeydew"")",1
+"print(""The fruit is: grape"")
+print(""The fruit is: honeydew"")
+print(""The fruit is: grape"")
+print(""The fruit is: date"")
+print(""The fruit is: date"")",1
+"print(""The fruit is: fig"")
+print(""The fruit is: grape"")
+print(""The fruit is: fig"")
+print(""The fruit is: banana"")",1
+"print(""The fruit is: grape"")
+print(""The fruit is: cherry"")
+print(""The fruit is: apple"")
+print(""The fruit is: banana"")
+print(""The fruit is: date"")",1
+"print(""The fruit is: elderberry"")
+print(""The fruit is: elderberry"")",1
+"print(""The fruit is: honeydew"")
+print(""The fruit is: cherry"")
+print(""The fruit is: cherry"")
+print(""The fruit is: honeydew"")",1
+"print(""The fruit is: apple"")
+print(""The fruit is: banana"")",1
+"print(""The fruit is: elderberry"")",1
+"print(""The fruit is: cherry"")
+print(""The fruit is: honeydew"")
+print(""The fruit is: grape"")
+print(""The fruit is: elderberry"")
+print(""The fruit is: grape"")",1
+"print(""The fruit is: banana"")
+print(""The fruit is: date"")
+print(""The fruit is: honeydew"")
+print(""The fruit is: apple"")
+print(""The fruit is: cherry"")",1
+"print(""The fruit is: apple"")
+print(""The fruit is: banana"")
+print(""The fruit is: elderberry"")",1
+"print(""The fruit is: grape"")
+print(""The fruit is: elderberry"")
+print(""The fruit is: grape"")
+print(""The fruit is: grape"")",1
+"print(""The fruit is: apple"")
+print(""The fruit is: grape"")",1
+"print(""The fruit is: fig"")
+print(""The fruit is: elderberry"")",1
+"print(""The fruit is: apple"")
+print(""The fruit is: banana"")
+print(""The fruit is: honeydew"")",1
+"print(""The fruit is: apple"")
+print(""The fruit is: honeydew"")",1
+"print(""The fruit is: banana"")
+print(""The fruit is: elderberry"")
+print(""The fruit is: cherry"")
+print(""The fruit is: cherry"")
+print(""The fruit is: date"")",1
+"print(""The fruit is: date"")
+print(""The fruit is: grape"")
+print(""The fruit is: cherry"")",1
+"print(""The fruit is: banana"")
+print(""The fruit is: elderberry"")
+print(""The fruit is: date"")",1
+"print(""The fruit is: cherry"")
+print(""The fruit is: honeydew"")",1
+"print(""The fruit is: honeydew"")
+print(""The fruit is: grape"")
+print(""The fruit is: honeydew"")
+print(""The fruit is: cherry"")",1
+"print(""The fruit is: cherry"")
+print(""The fruit is: cherry"")
+print(""The fruit is: apple"")
+print(""The fruit is: honeydew"")",1
+"print(""The fruit is: apple"")
+print(""The fruit is: elderberry"")",1
+"print(""The fruit is: fig"")",1
+"print(""The fruit is: apple"")",1
+"print(""The fruit is: fig"")
+print(""The fruit is: honeydew"")
+print(""The fruit is: grape"")
+print(""The fruit is: banana"")",1
+"print(""The fruit is: date"")",1
+"print(""The fruit is: apple"")
+print(""The fruit is: grape"")",1
+"print(""The fruit is: cherry"")",1
+"print(""The fruit is: date"")
+print(""The fruit is: cherry"")
+print(""The fruit is: honeydew"")",1
+"print(""The fruit is: cherry"")
+print(""The fruit is: cherry"")",1
+"print(""The fruit is: apple"")
+print(""The fruit is: fig"")
+print(""The fruit is: elderberry"")",1
+"print(""The fruit is: cherry"")
+print(""The fruit is: grape"")
+print(""The fruit is: banana"")
+print(""The fruit is: cherry"")",1
+"print(""The fruit is: elderberry"")
+print(""The fruit is: banana"")",1
+"print(""The fruit is: fig"")
+print(""The fruit is: apple"")
+print(""The fruit is: fig"")
+print(""The fruit is: elderberry"")
+print(""The fruit is: fig"")",1
+"print(""The fruit is: honeydew"")
+print(""The fruit is: elderberry"")
+print(""The fruit is: fig"")
+print(""The fruit is: elderberry"")",1
+"print(""The fruit is: elderberry"")
+print(""The fruit is: cherry"")
+print(""The fruit is: elderberry"")",1
+"print(""The fruit is: elderberry"")
+print(""The fruit is: elderberry"")",1
+"print(""The fruit is: date"")
+print(""The fruit is: honeydew"")",1
+"print(""The fruit is: apple"")
+print(""The fruit is: grape"")
+print(""The fruit is: fig"")
+print(""The fruit is: apple"")",1
+"print(""The fruit is: date"")
+print(""The fruit is: grape"")",1
+"print(""The fruit is: fig"")",1
+"print(""The fruit is: apple"")
+print(""The fruit is: grape"")
+print(""The fruit is: banana"")
+print(""The fruit is: honeydew"")",1
+"print(""The fruit is: banana"")",1
+"print(""The fruit is: fig"")
+print(""The fruit is: apple"")",1
+"print(""The fruit is: grape"")
+print(""The fruit is: grape"")",1
+"print(""The fruit is: honeydew"")",1
+"print(""The fruit is: grape"")
+print(""The fruit is: honeydew"")
+print(""The fruit is: cherry"")",1
+"print(""The fruit is: banana"")",1
+"print(""The fruit is: apple"")
+print(""The fruit is: banana"")
+print(""The fruit is: fig"")
+print(""The fruit is: fig"")
+print(""The fruit is: date"")",1
+"print(""The fruit is: cherry"")
+print(""The fruit is: apple"")
+print(""The fruit is: apple"")
+print(""The fruit is: elderberry"")
+print(""The fruit is: apple"")",1
+"print(""The fruit is: fig"")
+print(""The fruit is: honeydew"")
+print(""The fruit is: honeydew"")",1
+"print(""The fruit is: banana"")
+print(""The fruit is: honeydew"")",1
+"print(""The fruit is: grape"")
+print(""The fruit is: elderberry"")",1
+"print(""The fruit is: apple"")
+print(""The fruit is: banana"")",1
+"print(""The fruit is: date"")
+print(""The fruit is: honeydew"")
+print(""The fruit is: grape"")",1
+"print(""The fruit is: cherry"")
+print(""The fruit is: grape"")
+print(""The fruit is: grape"")
+print(""The fruit is: date"")",1
+"print(""The fruit is: grape"")
+print(""The fruit is: elderberry"")
+print(""The fruit is: grape"")",1
+"print(""The fruit is: cherry"")
+print(""The fruit is: honeydew"")",1
+"print(""The fruit is: fig"")
+print(""The fruit is: grape"")
+print(""The fruit is: date"")",1
+"print(""The fruit is: elderberry"")
+print(""The fruit is: grape"")
+print(""The fruit is: cherry"")
+print(""The fruit is: banana"")
+print(""The fruit is: grape"")",1
+"print(""The fruit is: date"")
+print(""The fruit is: apple"")
+print(""The fruit is: apple"")
+print(""The fruit is: date"")",1
+"print(""The fruit is: banana"")
+print(""The fruit is: banana"")",1
+"print(""The fruit is: grape"")
+print(""The fruit is: grape"")",1
+"print(""The fruit is: honeydew"")",1
+"print(""The fruit is: elderberry"")",1
+"print(""The fruit is: banana"")
+print(""The fruit is: apple"")
+print(""The fruit is: cherry"")",1
+"print(""The fruit is: date"")",1
+"print(""The fruit is: honeydew"")
+print(""The fruit is: date"")
+print(""The fruit is: elderberry"")",1
+"print(""The fruit is: honeydew"")
+print(""The fruit is: elderberry"")
+print(""The fruit is: date"")",1
+"print(""The fruit is: elderberry"")",1
+"print(""The fruit is: fig"")
+print(""The fruit is: grape"")
+print(""The fruit is: elderberry"")",1
+"print(""The fruit is: date"")",1
+"print(""The fruit is: fig"")
+print(""The fruit is: banana"")
+print(""The fruit is: grape"")",1
+"print(""The fruit is: elderberry"")
+print(""The fruit is: date"")
+print(""The fruit is: date"")
+print(""The fruit is: grape"")
+print(""The fruit is: honeydew"")",1
+"print(""The fruit is: elderberry"")",1
+"print(""The fruit is: honeydew"")",1
+"print(""The fruit is: grape"")
+print(""The fruit is: apple"")
+print(""The fruit is: date"")
+print(""The fruit is: apple"")",1
+"print(""The fruit is: banana"")
+print(""The fruit is: apple"")",1
+"print(""The fruit is: apple"")",1
+"print(""The fruit is: honeydew"")
+print(""The fruit is: elderberry"")
+print(""The fruit is: elderberry"")",1
+"print(""The fruit is: banana"")
+print(""The fruit is: banana"")
+print(""The fruit is: fig"")",1
+"print(""The fruit is: banana"")
+print(""The fruit is: grape"")
+print(""The fruit is: banana"")
+print(""The fruit is: cherry"")
+print(""The fruit is: banana"")",1
+"print(""The fruit is: fig"")
+print(""The fruit is: fig"")
+print(""The fruit is: fig"")
+print(""The fruit is: banana"")
+print(""The fruit is: grape"")",1
+"print(""The fruit is: honeydew"")
+print(""The fruit is: honeydew"")
+print(""The fruit is: apple"")
+print(""The fruit is: honeydew"")
+print(""The fruit is: banana"")",1
+"print(""The fruit is: honeydew"")
+print(""The fruit is: cherry"")
+print(""The fruit is: apple"")
+print(""The fruit is: grape"")",1
+"print(""The fruit is: grape"")
+print(""The fruit is: date"")",1
+"print(""The fruit is: elderberry"")
+print(""The fruit is: date"")
+print(""The fruit is: elderberry"")
+print(""The fruit is: elderberry"")
+print(""The fruit is: grape"")",1
+"print(""The fruit is: apple"")",1
+"print(""The fruit is: cherry"")
+print(""The fruit is: apple"")
+print(""The fruit is: elderberry"")
+print(""The fruit is: elderberry"")
+print(""The fruit is: fig"")",1
+"print(""The fruit is: elderberry"")
+print(""The fruit is: date"")
+print(""The fruit is: banana"")
+print(""The fruit is: grape"")
+print(""The fruit is: fig"")",1
+"print(""The fruit is: grape"")
+print(""The fruit is: fig"")",1
+"print(""The fruit is: date"")
+print(""The fruit is: honeydew"")
+print(""The fruit is: grape"")
+print(""The fruit is: honeydew"")",1
+"print(""The fruit is: banana"")
+print(""The fruit is: elderberry"")",1
+"print(""The fruit is: honeydew"")
+print(""The fruit is: elderberry"")",1
+"print(""The fruit is: elderberry"")
+print(""The fruit is: banana"")",1
+"print(""The fruit is: elderberry"")",1
+"print(""The fruit is: fig"")
+print(""The fruit is: fig"")
+print(""The fruit is: grape"")
+print(""The fruit is: apple"")
+print(""The fruit is: cherry"")",1
+"print(""The fruit is: fig"")
+print(""The fruit is: grape"")
+print(""The fruit is: date"")",1
+"print(""The fruit is: elderberry"")
+print(""The fruit is: apple"")
+print(""The fruit is: elderberry"")
+print(""The fruit is: cherry"")",1
+"print(""The fruit is: honeydew"")",1
+"print(""The fruit is: fig"")
+print(""The fruit is: honeydew"")
+print(""The fruit is: banana"")
+print(""The fruit is: apple"")",1
+"print(""The fruit is: date"")
+print(""The fruit is: cherry"")
+print(""The fruit is: fig"")
+print(""The fruit is: banana"")",1
+"print(""The fruit is: grape"")",1
+"print(""The fruit is: honeydew"")",1
+"print(""The fruit is: banana"")
+print(""The fruit is: cherry"")
+print(""The fruit is: grape"")
+print(""The fruit is: date"")",1
+"print(""The fruit is: elderberry"")
+print(""The fruit is: date"")",1
+"print(""The fruit is: date"")
+print(""The fruit is: honeydew"")
+print(""The fruit is: banana"")
+print(""The fruit is: grape"")
+print(""The fruit is: elderberry"")",1
+"print(""The fruit is: apple"")",1
+"print(""The fruit is: fig"")
+print(""The fruit is: banana"")
+print(""The fruit is: date"")
+print(""The fruit is: fig"")
+print(""The fruit is: honeydew"")",1
+"print(""The fruit is: grape"")
+print(""The fruit is: honeydew"")
+print(""The fruit is: date"")
+print(""The fruit is: cherry"")",1
+"print(""The fruit is: cherry"")",1
+"print(""The fruit is: fig"")
+print(""The fruit is: honeydew"")
+print(""The fruit is: cherry"")
+print(""The fruit is: date"")",1
+"print(""The fruit is: fig"")",1
+"print(""The fruit is: elderberry"")
+print(""The fruit is: banana"")",1
+"print(""The fruit is: honeydew"")
+print(""The fruit is: honeydew"")
+print(""The fruit is: apple"")
+print(""The fruit is: grape"")",1
+"print(""The fruit is: apple"")
+print(""The fruit is: banana"")
+print(""The fruit is: banana"")
+print(""The fruit is: honeydew"")",1
+"print(""The fruit is: grape"")
+print(""The fruit is: grape"")",1
+"print(""The fruit is: honeydew"")
+print(""The fruit is: cherry"")
+print(""The fruit is: honeydew"")",1
+"print(""The fruit is: fig"")
+print(""The fruit is: date"")
+print(""The fruit is: fig"")",1
+"print(""The fruit is: date"")",1
+"print(""The fruit is: honeydew"")
+print(""The fruit is: apple"")
+print(""The fruit is: grape"")
+print(""The fruit is: apple"")",1
+"print(""The fruit is: apple"")
+print(""The fruit is: fig"")
+print(""The fruit is: honeydew"")",1
+"print(""The fruit is: cherry"")
+print(""The fruit is: grape"")
+print(""The fruit is: elderberry"")",1
+"print(""The fruit is: honeydew"")
+print(""The fruit is: apple"")
+print(""The fruit is: honeydew"")
+print(""The fruit is: cherry"")",1
+"print(""The fruit is: apple"")
+print(""The fruit is: banana"")
+print(""The fruit is: elderberry"")",1
+"print(""The fruit is: grape"")
+print(""The fruit is: apple"")",1
+"print(""The fruit is: honeydew"")
+print(""The fruit is: apple"")
+print(""The fruit is: cherry"")
+print(""The fruit is: fig"")",1
+"print(""The fruit is: grape"")
+print(""The fruit is: date"")",1
+"print(""The fruit is: date"")
+print(""The fruit is: date"")
+print(""The fruit is: cherry"")
+print(""The fruit is: honeydew"")",1
+"print(""The fruit is: date"")
+print(""The fruit is: apple"")",1
+"print(""The fruit is: apple"")
+print(""The fruit is: grape"")
+print(""The fruit is: banana"")
+print(""The fruit is: honeydew"")
+print(""The fruit is: cherry"")",1
+"print(""The fruit is: date"")
+print(""The fruit is: fig"")
+print(""The fruit is: banana"")",1
+"print(""The fruit is: cherry"")",1
+"print(""The fruit is: cherry"")
+print(""The fruit is: apple"")",1
+"print(""The fruit is: elderberry"")
+print(""The fruit is: fig"")
+print(""The fruit is: grape"")
+print(""The fruit is: grape"")",1
+"print(""The fruit is: fig"")",1
+"print(""The fruit is: apple"")
+print(""The fruit is: elderberry"")
+print(""The fruit is: apple"")
+print(""The fruit is: cherry"")",1
+"print(""The fruit is: date"")
+print(""The fruit is: fig"")
+print(""The fruit is: fig"")
+print(""The fruit is: elderberry"")
+print(""The fruit is: elderberry"")",1
+"print(""The fruit is: grape"")
+print(""The fruit is: banana"")
+print(""The fruit is: apple"")
+print(""The fruit is: elderberry"")
+print(""The fruit is: grape"")",1
+"print(""The fruit is: elderberry"")
+print(""The fruit is: cherry"")
+print(""The fruit is: banana"")",1
+"print(""The fruit is: elderberry"")
+print(""The fruit is: cherry"")
+print(""The fruit is: apple"")
+print(""The fruit is: elderberry"")",1
+"print(""The fruit is: apple"")
+print(""The fruit is: elderberry"")
+print(""The fruit is: date"")
+print(""The fruit is: elderberry"")",1
+"print(""The fruit is: banana"")
+print(""The fruit is: banana"")
+print(""The fruit is: cherry"")",1
+"print(""The fruit is: banana"")
+print(""The fruit is: apple"")
+print(""The fruit is: elderberry"")",1
+"print(""The fruit is: fig"")
+print(""The fruit is: elderberry"")
+print(""The fruit is: date"")
+print(""The fruit is: cherry"")
+print(""The fruit is: elderberry"")",1
+"print(""The fruit is: apple"")
+print(""The fruit is: apple"")
+print(""The fruit is: honeydew"")
+print(""The fruit is: apple"")
+print(""The fruit is: cherry"")",1
+"print(""The fruit is: apple"")
+print(""The fruit is: banana"")",1
+"print(""The fruit is: elderberry"")
+print(""The fruit is: apple"")
+print(""The fruit is: cherry"")
+print(""The fruit is: date"")",1
+"print(""The fruit is: grape"")
+print(""The fruit is: grape"")
+print(""The fruit is: honeydew"")
+print(""The fruit is: date"")
+print(""The fruit is: apple"")",1
+"print(""The fruit is: apple"")
+print(""The fruit is: honeydew"")
+print(""The fruit is: banana"")",1
+"print(""The fruit is: apple"")
+print(""The fruit is: elderberry"")",1
+"print(""The fruit is: elderberry"")",1
+"print(""The fruit is: fig"")",1
+"print(""The fruit is: fig"")
+print(""The fruit is: fig"")",1
+"print(""The fruit is: fig"")",1
+"print(""The fruit is: honeydew"")
+print(""The fruit is: honeydew"")",1
+"print(""The fruit is: apple"")
+print(""The fruit is: apple"")
+print(""The fruit is: cherry"")
+print(""The fruit is: fig"")",1
+"print(""The fruit is: elderberry"")
+print(""The fruit is: elderberry"")
+print(""The fruit is: date"")
+print(""The fruit is: cherry"")",1
+"print(""The fruit is: fig"")",1
+"print(""The fruit is: honeydew"")
+print(""The fruit is: grape"")",1
+"print(""The fruit is: elderberry"")",1
+"print(""The fruit is: honeydew"")
+print(""The fruit is: fig"")
+print(""The fruit is: fig"")
+print(""The fruit is: fig"")",1
+"print(""The fruit is: honeydew"")
+print(""The fruit is: apple"")
+print(""The fruit is: elderberry"")",1
+"print(""The fruit is: apple"")
+print(""The fruit is: honeydew"")
+print(""The fruit is: fig"")
+print(""The fruit is: apple"")
+print(""The fruit is: date"")",1
+"print(""The fruit is: fig"")
+print(""The fruit is: apple"")",1
+"print(""The fruit is: honeydew"")
+print(""The fruit is: banana"")
+print(""The fruit is: honeydew"")",1
+"print(""The fruit is: cherry"")",1
+"print(""The fruit is: banana"")",1
+"print(""The fruit is: banana"")
+print(""The fruit is: banana"")
+print(""The fruit is: grape"")
+print(""The fruit is: apple"")
+print(""The fruit is: honeydew"")",1
+"print(""The fruit is: elderberry"")
+print(""The fruit is: banana"")
+print(""The fruit is: elderberry"")",1
+"print(""The fruit is: grape"")
+print(""The fruit is: cherry"")
+print(""The fruit is: fig"")",1
+"print(""The fruit is: honeydew"")
+print(""The fruit is: elderberry"")
+print(""The fruit is: banana"")",1
+"print(""The fruit is: date"")",1
+"print(""The fruit is: grape"")
+print(""The fruit is: banana"")
+print(""The fruit is: elderberry"")",1
+"print(""The fruit is: cherry"")
+print(""The fruit is: honeydew"")
+print(""The fruit is: grape"")",1
+"print(""The fruit is: date"")",1
+"print(""The fruit is: elderberry"")
+print(""The fruit is: fig"")
+print(""The fruit is: banana"")
+print(""The fruit is: apple"")
+print(""The fruit is: apple"")",1
+"print(""The fruit is: elderberry"")",1
+"print(""The fruit is: date"")
+print(""The fruit is: fig"")",1
+"print(""The fruit is: date"")
+print(""The fruit is: fig"")
+print(""The fruit is: honeydew"")
+print(""The fruit is: fig"")",1
+"print(""The fruit is: grape"")
+print(""The fruit is: fig"")
+print(""The fruit is: apple"")",1
+"print(""The fruit is: banana"")
+print(""The fruit is: cherry"")
+print(""The fruit is: cherry"")
+print(""The fruit is: cherry"")
+print(""The fruit is: honeydew"")",1
+"print(""The fruit is: date"")
+print(""The fruit is: cherry"")
+print(""The fruit is: fig"")",1
+"print(""The fruit is: honeydew"")
+print(""The fruit is: date"")
+print(""The fruit is: apple"")
+print(""The fruit is: elderberry"")",1
+"print(""The fruit is: cherry"")
+print(""The fruit is: honeydew"")
+print(""The fruit is: apple"")
+print(""The fruit is: date"")",1
+"print(""The fruit is: grape"")
+print(""The fruit is: apple"")",1
+"print(""The fruit is: cherry"")
+print(""The fruit is: grape"")
+print(""The fruit is: elderberry"")
+print(""The fruit is: fig"")
+print(""The fruit is: grape"")",1
+"print(""The fruit is: fig"")
+print(""The fruit is: honeydew"")
+print(""The fruit is: date"")",1
+"print(""The fruit is: fig"")
+print(""The fruit is: date"")
+print(""The fruit is: elderberry"")
+print(""The fruit is: honeydew"")",1
+"print(""The fruit is: grape"")
+print(""The fruit is: elderberry"")
+print(""The fruit is: apple"")
+print(""The fruit is: cherry"")",1
+"print(""The fruit is: cherry"")
+print(""The fruit is: elderberry"")",1
+"print(""The fruit is: apple"")",1
+"print(""The fruit is: grape"")
+print(""The fruit is: honeydew"")
+print(""The fruit is: apple"")",1
+"print(""The fruit is: honeydew"")
+print(""The fruit is: grape"")
+print(""The fruit is: date"")
+print(""The fruit is: banana"")
+print(""The fruit is: banana"")",1
+"print(""The fruit is: cherry"")
+print(""The fruit is: fig"")
+print(""The fruit is: cherry"")
+print(""The fruit is: grape"")",1
+"print(""The fruit is: elderberry"")
+print(""The fruit is: cherry"")",1
+"print(""The fruit is: elderberry"")
+print(""The fruit is: elderberry"")
+print(""The fruit is: date"")
+print(""The fruit is: honeydew"")
+print(""The fruit is: elderberry"")",1
+"print(""The fruit is: fig"")
+print(""The fruit is: banana"")
+print(""The fruit is: elderberry"")",1
+"print(""The fruit is: honeydew"")
+print(""The fruit is: apple"")
+print(""The fruit is: cherry"")
+print(""The fruit is: honeydew"")
+print(""The fruit is: elderberry"")",1
+"print(""The fruit is: honeydew"")
+print(""The fruit is: elderberry"")
+print(""The fruit is: cherry"")
+print(""The fruit is: apple"")
+print(""The fruit is: fig"")",1
+"print(""The fruit is: banana"")
+print(""The fruit is: honeydew"")
+print(""The fruit is: date"")",1
+"print(""The fruit is: honeydew"")
+print(""The fruit is: date"")
+print(""The fruit is: fig"")
+print(""The fruit is: fig"")",1
+"print(""The fruit is: banana"")
+print(""The fruit is: apple"")
+print(""The fruit is: elderberry"")
+print(""The fruit is: banana"")",1
+"print(""The fruit is: cherry"")
+print(""The fruit is: grape"")",1
+"print(""The fruit is: banana"")
+print(""The fruit is: banana"")
+print(""The fruit is: grape"")",1
+"print(""The fruit is: banana"")
+print(""The fruit is: honeydew"")
+print(""The fruit is: date"")
+print(""The fruit is: honeydew"")
+print(""The fruit is: fig"")",1
+"print(""The fruit is: honeydew"")
+print(""The fruit is: grape"")
+print(""The fruit is: fig"")
+print(""The fruit is: banana"")",1
+"print(""The fruit is: banana"")
+print(""The fruit is: honeydew"")",1
+"print(""The fruit is: cherry"")
+print(""The fruit is: apple"")
+print(""The fruit is: apple"")
+print(""The fruit is: apple"")
+print(""The fruit is: honeydew"")",1
+"print(""The fruit is: honeydew"")
+print(""The fruit is: fig"")
+print(""The fruit is: grape"")",1
+"print(""The fruit is: apple"")
+print(""The fruit is: banana"")
+print(""The fruit is: date"")
+print(""The fruit is: cherry"")
+print(""The fruit is: honeydew"")",1
+"print(""The fruit is: elderberry"")
+print(""The fruit is: elderberry"")
+print(""The fruit is: grape"")
+print(""The fruit is: grape"")
+print(""The fruit is: apple"")",1
+"print(""The fruit is: banana"")
+print(""The fruit is: cherry"")",1
+"print(""The fruit is: fig"")",1
+"print(""The fruit is: banana"")
+print(""The fruit is: grape"")
+print(""The fruit is: fig"")
+print(""The fruit is: grape"")
+print(""The fruit is: banana"")",1
+"print(""The fruit is: banana"")
+print(""The fruit is: date"")",1
+"print(""The fruit is: cherry"")
+print(""The fruit is: cherry"")
+print(""The fruit is: apple"")
+print(""The fruit is: date"")
+print(""The fruit is: fig"")",1
+"print(""The fruit is: elderberry"")
+print(""The fruit is: grape"")",1
+"print(""The fruit is: apple"")
+print(""The fruit is: apple"")
+print(""The fruit is: fig"")",1
+"print(""The fruit is: apple"")
+print(""The fruit is: cherry"")
+print(""The fruit is: apple"")",1
+"print(""The fruit is: grape"")",1
+"print(""The fruit is: banana"")
+print(""The fruit is: fig"")",1
+"print(""The fruit is: honeydew"")
+print(""The fruit is: fig"")
+print(""The fruit is: banana"")
+print(""The fruit is: cherry"")",1
+"print(""The fruit is: elderberry"")",1
+"print(""The fruit is: fig"")",1
+"print(""The fruit is: grape"")
+print(""The fruit is: fig"")
+print(""The fruit is: grape"")
+print(""The fruit is: grape"")
+print(""The fruit is: fig"")",1
+"print(""The fruit is: honeydew"")
+print(""The fruit is: grape"")",1
+"print(""The fruit is: cherry"")
+print(""The fruit is: honeydew"")
+print(""The fruit is: banana"")",1
+"print(""The fruit is: apple"")",1
+"print(""The fruit is: fig"")
+print(""The fruit is: grape"")",1
+"print(""The fruit is: date"")
+print(""The fruit is: banana"")",1
+"print(""The fruit is: fig"")
+print(""The fruit is: grape"")
+print(""The fruit is: apple"")",1
+"print(""The fruit is: apple"")
+print(""The fruit is: date"")
+print(""The fruit is: honeydew"")",1
+"print(""The fruit is: honeydew"")
+print(""The fruit is: fig"")",1
+"print(""The fruit is: banana"")
+print(""The fruit is: banana"")
+print(""The fruit is: honeydew"")
+print(""The fruit is: grape"")
+print(""The fruit is: cherry"")",1
+"print(""The fruit is: grape"")",1
+"print(""The fruit is: honeydew"")
+print(""The fruit is: apple"")
+print(""The fruit is: apple"")",1
+"print(""The fruit is: apple"")
+print(""The fruit is: elderberry"")
+print(""The fruit is: cherry"")
+print(""The fruit is: apple"")",1
+"print(""The fruit is: elderberry"")
+print(""The fruit is: date"")
+print(""The fruit is: grape"")
+print(""The fruit is: cherry"")
+print(""The fruit is: fig"")",1
+"print(""The fruit is: fig"")
+print(""The fruit is: cherry"")
+print(""The fruit is: elderberry"")",1
+"print(""The fruit is: banana"")
+print(""The fruit is: grape"")",1
+"print(""The fruit is: fig"")
+print(""The fruit is: apple"")",1
+"print(""The fruit is: banana"")
+print(""The fruit is: fig"")",1
+"print(""The fruit is: apple"")
+print(""The fruit is: cherry"")
+print(""The fruit is: date"")",1
+"print(""The fruit is: apple"")
+print(""The fruit is: apple"")
+print(""The fruit is: apple"")
+print(""The fruit is: honeydew"")
+print(""The fruit is: grape"")",1
+"print(""The fruit is: honeydew"")
+print(""The fruit is: fig"")",1
+"print(""The fruit is: honeydew"")
+print(""The fruit is: banana"")
+print(""The fruit is: banana"")
+print(""The fruit is: apple"")",1
+"print(""The fruit is: grape"")
+print(""The fruit is: honeydew"")
+print(""The fruit is: apple"")",1
+"print(""The fruit is: date"")
+print(""The fruit is: apple"")
+print(""The fruit is: date"")
+print(""The fruit is: grape"")
+print(""The fruit is: grape"")",1
+"print(""The fruit is: apple"")
+print(""The fruit is: grape"")",1
+"print(""The fruit is: banana"")
+print(""The fruit is: cherry"")
+print(""The fruit is: honeydew"")
+print(""The fruit is: grape"")
+print(""The fruit is: apple"")",1
+"print(""The fruit is: banana"")
+print(""The fruit is: grape"")",1
+"print(""The fruit is: banana"")
+print(""The fruit is: date"")
+print(""The fruit is: date"")
+print(""The fruit is: banana"")
+print(""The fruit is: grape"")",1
+"print(""The fruit is: date"")",1
+"print(""The fruit is: date"")
+print(""The fruit is: cherry"")
+print(""The fruit is: date"")
+print(""The fruit is: banana"")
+print(""The fruit is: grape"")",1
+"print(""The fruit is: fig"")
+print(""The fruit is: apple"")
+print(""The fruit is: apple"")
+print(""The fruit is: cherry"")",1
+"print(""The fruit is: elderberry"")
+print(""The fruit is: banana"")
+print(""The fruit is: elderberry"")",1
+"print(""The fruit is: elderberry"")
+print(""The fruit is: banana"")
+print(""The fruit is: elderberry"")
+print(""The fruit is: apple"")
+print(""The fruit is: cherry"")",1
+"print(""The fruit is: elderberry"")
+print(""The fruit is: cherry"")",1
+"print(""The fruit is: banana"")
+print(""The fruit is: grape"")
+print(""The fruit is: cherry"")
+print(""The fruit is: date"")",1
+"print(""The fruit is: elderberry"")
+print(""The fruit is: date"")
+print(""The fruit is: apple"")
+print(""The fruit is: elderberry"")",1
+"print(""The fruit is: cherry"")",1
+"print(""The fruit is: banana"")
+print(""The fruit is: date"")
+print(""The fruit is: elderberry"")
+print(""The fruit is: fig"")",1
+"print(""The fruit is: grape"")
+print(""The fruit is: cherry"")",1
+"print(""The fruit is: apple"")
+print(""The fruit is: grape"")
+print(""The fruit is: elderberry"")",1
+"print(""The fruit is: date"")
+print(""The fruit is: banana"")
+print(""The fruit is: honeydew"")
+print(""The fruit is: elderberry"")",1
+"print(""The fruit is: grape"")
+print(""The fruit is: apple"")
+print(""The fruit is: apple"")",1
+"print(""The fruit is: apple"")
+print(""The fruit is: elderberry"")
+print(""The fruit is: fig"")
+print(""The fruit is: banana"")
+print(""The fruit is: elderberry"")",1
+"print(""The fruit is: apple"")
+print(""The fruit is: cherry"")",1
+"print(""The fruit is: honeydew"")",1
+"print(""The fruit is: honeydew"")
+print(""The fruit is: apple"")
+print(""The fruit is: grape"")
+print(""The fruit is: fig"")",1
+"print(""The fruit is: cherry"")
+print(""The fruit is: banana"")
+print(""The fruit is: fig"")
+print(""The fruit is: elderberry"")",1
+"print(""The fruit is: grape"")
+print(""The fruit is: apple"")
+print(""The fruit is: grape"")",1
+"print(""The fruit is: cherry"")
+print(""The fruit is: elderberry"")
+print(""The fruit is: apple"")",1
+"print(""The fruit is: cherry"")
+print(""The fruit is: grape"")
+print(""The fruit is: grape"")
+print(""The fruit is: apple"")",1
+"print(""The fruit is: honeydew"")
+print(""The fruit is: date"")
+print(""The fruit is: banana"")
+print(""The fruit is: apple"")",1
+"print(""The fruit is: banana"")
+print(""The fruit is: fig"")
+print(""The fruit is: grape"")
+print(""The fruit is: apple"")
+print(""The fruit is: cherry"")",1
+"print(""The fruit is: honeydew"")
+print(""The fruit is: apple"")",1
+"print(""The fruit is: fig"")
+print(""The fruit is: fig"")
+print(""The fruit is: date"")",1
+"print(""The fruit is: date"")
+print(""The fruit is: date"")",1
+"print(""The fruit is: honeydew"")
+print(""The fruit is: apple"")
+print(""The fruit is: date"")
+print(""The fruit is: banana"")
+print(""The fruit is: cherry"")",1
+"print(""The fruit is: banana"")
+print(""The fruit is: cherry"")
+print(""The fruit is: honeydew"")",1
+"print(""The fruit is: date"")
+print(""The fruit is: cherry"")",1
+"print(""The fruit is: date"")
+print(""The fruit is: cherry"")
+print(""The fruit is: elderberry"")",1
+"print(""The fruit is: elderberry"")
+print(""The fruit is: date"")",1
+"print(""The fruit is: fig"")
+print(""The fruit is: honeydew"")
+print(""The fruit is: fig"")",1
+"print(""The fruit is: elderberry"")
+print(""The fruit is: apple"")
+print(""The fruit is: elderberry"")
+print(""The fruit is: cherry"")",1
+"print(""The fruit is: fig"")
+print(""The fruit is: cherry"")
+print(""The fruit is: fig"")",1
+"print(""The fruit is: honeydew"")
+print(""The fruit is: date"")
+print(""The fruit is: honeydew"")",1
+"print(""The fruit is: date"")
+print(""The fruit is: grape"")
+print(""The fruit is: cherry"")
+print(""The fruit is: fig"")
+print(""The fruit is: honeydew"")",1
+"print(""The fruit is: date"")
+print(""The fruit is: elderberry"")",1
+"print(""The fruit is: grape"")
+print(""The fruit is: cherry"")
+print(""The fruit is: honeydew"")
+print(""The fruit is: grape"")
+print(""The fruit is: apple"")",1
+"print(""The fruit is: grape"")
+print(""The fruit is: apple"")
+print(""The fruit is: elderberry"")",1
+"print(""The fruit is: banana"")
+print(""The fruit is: honeydew"")
+print(""The fruit is: date"")",1
+"print(""The fruit is: apple"")
+print(""The fruit is: honeydew"")
+print(""The fruit is: grape"")",1
+"print(""The fruit is: honeydew"")
+print(""The fruit is: banana"")
+print(""The fruit is: honeydew"")
+print(""The fruit is: cherry"")
+print(""The fruit is: honeydew"")",1
+"print(""The fruit is: cherry"")
+print(""The fruit is: date"")
+print(""The fruit is: elderberry"")",1
+"print(""The fruit is: grape"")
+print(""The fruit is: date"")
+print(""The fruit is: date"")",1
+"print(""The fruit is: elderberry"")
+print(""The fruit is: banana"")
+print(""The fruit is: cherry"")
+print(""The fruit is: apple"")",1
+"print(""The fruit is: banana"")
+print(""The fruit is: date"")
+print(""The fruit is: banana"")
+print(""The fruit is: fig"")
+print(""The fruit is: banana"")",1
+"print(""The fruit is: date"")
+print(""The fruit is: elderberry"")
+print(""The fruit is: date"")",1
+"print(""The fruit is: fig"")
+print(""The fruit is: cherry"")",1
+"print(""The fruit is: banana"")",1
+"print(""The fruit is: fig"")
+print(""The fruit is: fig"")",1
+"print(""The fruit is: elderberry"")
+print(""The fruit is: banana"")
+print(""The fruit is: fig"")",1
+"print(""The fruit is: elderberry"")
+print(""The fruit is: banana"")
+print(""The fruit is: cherry"")
+print(""The fruit is: elderberry"")",1
+"print(""The fruit is: banana"")",1
+"print(""The fruit is: apple"")",1
+"print(""The fruit is: banana"")
+print(""The fruit is: date"")
+print(""The fruit is: grape"")
+print(""The fruit is: fig"")
+print(""The fruit is: date"")",1
+"print(""The fruit is: grape"")
+print(""The fruit is: honeydew"")",1
+"print(""The fruit is: apple"")
+print(""The fruit is: date"")",1
+"print(""The fruit is: fig"")
+print(""The fruit is: date"")",1
+"print(""The fruit is: cherry"")",1
+"print(""The fruit is: banana"")
+print(""The fruit is: banana"")
+print(""The fruit is: honeydew"")
+print(""The fruit is: date"")
+print(""The fruit is: grape"")",1
+"print(""The fruit is: banana"")
+print(""The fruit is: fig"")
+print(""The fruit is: cherry"")
+print(""The fruit is: apple"")",1
+"print(""The fruit is: date"")
+print(""The fruit is: honeydew"")
+print(""The fruit is: cherry"")
+print(""The fruit is: honeydew"")
+print(""The fruit is: grape"")",1
+"print(""The fruit is: honeydew"")
+print(""The fruit is: honeydew"")
+print(""The fruit is: banana"")
+print(""The fruit is: apple"")
+print(""The fruit is: date"")",1
+"print(""The fruit is: apple"")",1
+"print(""The fruit is: date"")",1
+"print(""The fruit is: honeydew"")
+print(""The fruit is: fig"")
+print(""The fruit is: fig"")
+print(""The fruit is: apple"")",1
+"print(""The fruit is: banana"")
+print(""The fruit is: banana"")",1
+"print(""The fruit is: grape"")
+print(""The fruit is: banana"")
+print(""The fruit is: banana"")",1
+"print(""The fruit is: cherry"")
+print(""The fruit is: fig"")
+print(""The fruit is: elderberry"")
+print(""The fruit is: grape"")",1
+"print(""The fruit is: banana"")",1
+"print(""The fruit is: banana"")
+print(""The fruit is: cherry"")
+print(""The fruit is: elderberry"")
+print(""The fruit is: grape"")
+print(""The fruit is: elderberry"")",1
+"print(""The fruit is: elderberry"")
+print(""The fruit is: honeydew"")
+print(""The fruit is: apple"")
+print(""The fruit is: grape"")
+print(""The fruit is: cherry"")",1
+"print(""The fruit is: elderberry"")
+print(""The fruit is: fig"")
+print(""The fruit is: banana"")
+print(""The fruit is: banana"")",1
+"print(""The fruit is: fig"")
+print(""The fruit is: apple"")
+print(""The fruit is: honeydew"")",1
+"print(""The fruit is: cherry"")
+print(""The fruit is: fig"")",1
+"print(""The fruit is: fig"")
+print(""The fruit is: grape"")
+print(""The fruit is: banana"")
+print(""The fruit is: honeydew"")
+print(""The fruit is: banana"")",1
+"print(""The fruit is: grape"")
+print(""The fruit is: honeydew"")
+print(""The fruit is: grape"")
+print(""The fruit is: honeydew"")
+print(""The fruit is: banana"")",1
+"print(""The fruit is: honeydew"")
+print(""The fruit is: cherry"")
+print(""The fruit is: fig"")",1
+"print(""The fruit is: grape"")",1
+"print(""The fruit is: honeydew"")
+print(""The fruit is: grape"")",1
+"print(""The fruit is: honeydew"")",1
+"print(""The fruit is: date"")
+print(""The fruit is: fig"")
+print(""The fruit is: fig"")",1
+"print(""The fruit is: grape"")",1
+"print(""The fruit is: cherry"")
+print(""The fruit is: date"")
+print(""The fruit is: date"")
+print(""The fruit is: honeydew"")",1
+"print(""The fruit is: fig"")
+print(""The fruit is: fig"")",1
+"print(""The fruit is: apple"")
+print(""The fruit is: elderberry"")
+print(""The fruit is: cherry"")
+print(""The fruit is: fig"")",1
+"print(""The fruit is: cherry"")
+print(""The fruit is: fig"")",1
+"print(""The fruit is: cherry"")
+print(""The fruit is: apple"")
+print(""The fruit is: honeydew"")
+print(""The fruit is: honeydew"")
+print(""The fruit is: cherry"")",1
+"print(""The fruit is: apple"")
+print(""The fruit is: cherry"")",1
+"print(""The fruit is: grape"")
+print(""The fruit is: date"")
+print(""The fruit is: cherry"")",1
+"print(""The fruit is: banana"")
+print(""The fruit is: grape"")
+print(""The fruit is: apple"")
+print(""The fruit is: apple"")",1
+"print(""The fruit is: fig"")
+print(""The fruit is: date"")
+print(""The fruit is: date"")",1
+"print(""The fruit is: banana"")
+print(""The fruit is: honeydew"")
+print(""The fruit is: apple"")
+print(""The fruit is: apple"")",1
+"print(""The fruit is: banana"")
+print(""The fruit is: banana"")
+print(""The fruit is: grape"")
+print(""The fruit is: fig"")",1
+"print(""The fruit is: cherry"")",1
+"print(""The fruit is: honeydew"")
+print(""The fruit is: banana"")
+print(""The fruit is: fig"")
+print(""The fruit is: apple"")
+print(""The fruit is: fig"")",1
+"print(""The fruit is: banana"")
+print(""The fruit is: apple"")
+print(""The fruit is: apple"")
+print(""The fruit is: apple"")",1
+"print(""The fruit is: date"")",1
+"print(""The fruit is: elderberry"")
+print(""The fruit is: date"")",1
+"print(""The fruit is: elderberry"")
+print(""The fruit is: grape"")
+print(""The fruit is: honeydew"")",1
+"print(""The fruit is: apple"")
+print(""The fruit is: honeydew"")
+print(""The fruit is: date"")
+print(""The fruit is: grape"")",1
+"print(""The fruit is: honeydew"")",1
+"print(""The fruit is: elderberry"")
+print(""The fruit is: fig"")
+print(""The fruit is: banana"")",1
+"print(""The fruit is: date"")
+print(""The fruit is: grape"")
+print(""The fruit is: fig"")
+print(""The fruit is: cherry"")",1
+"print(""The fruit is: elderberry"")",1
+"print(""The fruit is: elderberry"")
+print(""The fruit is: honeydew"")
+print(""The fruit is: honeydew"")
+print(""The fruit is: elderberry"")
+print(""The fruit is: banana"")",1
+"print(""The fruit is: elderberry"")",1
+"print(""The fruit is: date"")",1
+"print(""The fruit is: date"")
+print(""The fruit is: honeydew"")
+print(""The fruit is: elderberry"")
+print(""The fruit is: date"")
+print(""The fruit is: apple"")",1
+"print(""The fruit is: cherry"")
+print(""The fruit is: elderberry"")
+print(""The fruit is: apple"")
+print(""The fruit is: elderberry"")
+print(""The fruit is: cherry"")",1
+"print(""The fruit is: cherry"")
+print(""The fruit is: elderberry"")",1
+"print(""The fruit is: fig"")
+print(""The fruit is: fig"")
+print(""The fruit is: grape"")
+print(""The fruit is: apple"")",1
+"print(""The fruit is: banana"")
+print(""The fruit is: banana"")",1
+"print(""The fruit is: apple"")
+print(""The fruit is: fig"")
+print(""The fruit is: banana"")
+print(""The fruit is: grape"")",1
+"print(""The fruit is: cherry"")
+print(""The fruit is: apple"")",1
+"print(""The fruit is: honeydew"")
+print(""The fruit is: cherry"")
+print(""The fruit is: elderberry"")",1
+"print(""The fruit is: banana"")",1
+"print(""The fruit is: grape"")",1
+"print(""The fruit is: banana"")
+print(""The fruit is: apple"")
+print(""The fruit is: cherry"")
+print(""The fruit is: banana"")
+print(""The fruit is: fig"")",1
+"print(""The fruit is: honeydew"")",1
+"print(""The fruit is: date"")
+print(""The fruit is: date"")
+print(""The fruit is: cherry"")
+print(""The fruit is: cherry"")
+print(""The fruit is: date"")",1
+"print(""The fruit is: grape"")",1
+"print(""The fruit is: cherry"")
+print(""The fruit is: banana"")",1
+"print(""The fruit is: banana"")
+print(""The fruit is: cherry"")",1
+"print(""The fruit is: banana"")
+print(""The fruit is: fig"")
+print(""The fruit is: cherry"")
+print(""The fruit is: date"")",1
+"print(""The fruit is: honeydew"")
+print(""The fruit is: elderberry"")",1
+"print(""The fruit is: apple"")
+print(""The fruit is: cherry"")
+print(""The fruit is: date"")",1
+"print(""The fruit is: honeydew"")
+print(""The fruit is: cherry"")
+print(""The fruit is: fig"")
+print(""The fruit is: fig"")
+print(""The fruit is: banana"")",1
+"print(""The fruit is: apple"")
+print(""The fruit is: cherry"")
+print(""The fruit is: honeydew"")
+print(""The fruit is: fig"")
+print(""The fruit is: banana"")",1
+"print(""The fruit is: banana"")
+print(""The fruit is: apple"")",1
+"print(""The fruit is: honeydew"")
+print(""The fruit is: grape"")
+print(""The fruit is: apple"")",1
+"print(""The fruit is: banana"")
+print(""The fruit is: cherry"")",1
+"print(""The fruit is: banana"")",1
+"print(""The fruit is: fig"")
+print(""The fruit is: date"")
+print(""The fruit is: banana"")
+print(""The fruit is: apple"")",1
+"print(""The fruit is: honeydew"")
+print(""The fruit is: date"")
+print(""The fruit is: grape"")
+print(""The fruit is: banana"")
+print(""The fruit is: banana"")",1
+"print(""The fruit is: apple"")
+print(""The fruit is: cherry"")
+print(""The fruit is: grape"")",1
+"print(""The fruit is: apple"")
+print(""The fruit is: cherry"")
+print(""The fruit is: date"")
+print(""The fruit is: date"")",1
+"print(""The fruit is: elderberry"")
+print(""The fruit is: cherry"")
+print(""The fruit is: elderberry"")
+print(""The fruit is: elderberry"")",1
+"print(""The fruit is: grape"")",1
+"print(""The fruit is: fig"")
+print(""The fruit is: grape"")",1
+"print(""The fruit is: fig"")
+print(""The fruit is: honeydew"")
+print(""The fruit is: apple"")
+print(""The fruit is: apple"")",1
+"print(""The fruit is: elderberry"")
+print(""The fruit is: date"")",1
+"print(""The fruit is: cherry"")
+print(""The fruit is: elderberry"")
+print(""The fruit is: elderberry"")",1
+"print(""The fruit is: fig"")
+print(""The fruit is: apple"")
+print(""The fruit is: date"")
+print(""The fruit is: elderberry"")",1
+"print(""The fruit is: honeydew"")
+print(""The fruit is: apple"")
+print(""The fruit is: apple"")",1
+"print(""The fruit is: fig"")
+print(""The fruit is: cherry"")
+print(""The fruit is: date"")",1
+"print(""The fruit is: elderberry"")
+print(""The fruit is: apple"")
+print(""The fruit is: grape"")
+print(""The fruit is: apple"")",1
+"print(""The fruit is: apple"")",1
+"print(""The fruit is: fig"")",1
+"print(""The fruit is: cherry"")
+print(""The fruit is: fig"")
+print(""The fruit is: elderberry"")
+print(""The fruit is: elderberry"")",1
+"print(""The fruit is: date"")
+print(""The fruit is: cherry"")",1
+"print(""The fruit is: cherry"")",1
+"print(""The fruit is: cherry"")",1
+"print(""The fruit is: elderberry"")",1
+"print(""The fruit is: apple"")
+print(""The fruit is: fig"")
+print(""The fruit is: date"")
+print(""The fruit is: apple"")",1
+"print(""The fruit is: fig"")
+print(""The fruit is: grape"")
+print(""The fruit is: fig"")",1
+"print(""The fruit is: cherry"")
+print(""The fruit is: honeydew"")
+print(""The fruit is: banana"")",1
+"print(""The fruit is: elderberry"")
+print(""The fruit is: apple"")
+print(""The fruit is: fig"")",1
+"print(""The fruit is: grape"")
+print(""The fruit is: date"")
+print(""The fruit is: fig"")
+print(""The fruit is: banana"")
+print(""The fruit is: elderberry"")",1
+"print(""The fruit is: honeydew"")
+print(""The fruit is: grape"")
+print(""The fruit is: date"")",1
+"print(""The fruit is: elderberry"")
+print(""The fruit is: elderberry"")
+print(""The fruit is: honeydew"")
+print(""The fruit is: banana"")",1
+"print(""The fruit is: date"")
+print(""The fruit is: banana"")
+print(""The fruit is: banana"")
+print(""The fruit is: date"")",1
+"print(""The fruit is: grape"")",1
+"print(""The fruit is: cherry"")
+print(""The fruit is: honeydew"")
+print(""The fruit is: honeydew"")",1
+"print(""The fruit is: honeydew"")
+print(""The fruit is: honeydew"")",1
+"print(""The fruit is: honeydew"")
+print(""The fruit is: cherry"")
+print(""The fruit is: date"")
+print(""The fruit is: cherry"")",1
+"print(""The fruit is: date"")
+print(""The fruit is: fig"")
+print(""The fruit is: cherry"")
+print(""The fruit is: date"")",1
+"print(""The fruit is: grape"")
+print(""The fruit is: elderberry"")
+print(""The fruit is: fig"")",1
+"print(""The fruit is: cherry"")",1
+"print(""The fruit is: grape"")
+print(""The fruit is: date"")
+print(""The fruit is: banana"")",1
+"print(""The fruit is: fig"")
+print(""The fruit is: apple"")
+print(""The fruit is: honeydew"")
+print(""The fruit is: banana"")
+print(""The fruit is: fig"")",1
+"print(""The fruit is: grape"")",1
+"print(""The fruit is: grape"")
+print(""The fruit is: date"")",1
+"print(""The fruit is: honeydew"")
+print(""The fruit is: honeydew"")
+print(""The fruit is: honeydew"")",1
+"print(""The fruit is: cherry"")
+print(""The fruit is: cherry"")
+print(""The fruit is: cherry"")
+print(""The fruit is: honeydew"")",1
+"print(""The fruit is: apple"")
+print(""The fruit is: elderberry"")
+print(""The fruit is: grape"")
+print(""The fruit is: fig"")",1
+"print(""The fruit is: fig"")
+print(""The fruit is: grape"")
+print(""The fruit is: banana"")
+print(""The fruit is: honeydew"")
+print(""The fruit is: date"")",1
+"print(""The fruit is: cherry"")",1
+"print(""The fruit is: honeydew"")",1
+"print(""The fruit is: grape"")
+print(""The fruit is: banana"")
+print(""The fruit is: banana"")
+print(""The fruit is: honeydew"")
+print(""The fruit is: banana"")",1
+"print(""The fruit is: honeydew"")
+print(""The fruit is: date"")
+print(""The fruit is: date"")",1
+"print(""The fruit is: grape"")
+print(""The fruit is: fig"")
+print(""The fruit is: fig"")
+print(""The fruit is: honeydew"")",1
+"print(""The fruit is: elderberry"")
+print(""The fruit is: fig"")
+print(""The fruit is: banana"")",1
+"print(""The fruit is: apple"")
+print(""The fruit is: elderberry"")
+print(""The fruit is: cherry"")
+print(""The fruit is: cherry"")
+print(""The fruit is: date"")",1
+"print(""The fruit is: grape"")
+print(""The fruit is: cherry"")
+print(""The fruit is: fig"")
+print(""The fruit is: fig"")",1
+"print(""The fruit is: apple"")
+print(""The fruit is: date"")
+print(""The fruit is: apple"")
+print(""The fruit is: elderberry"")
+print(""The fruit is: grape"")",1
+"print(""The fruit is: cherry"")
+print(""The fruit is: apple"")",1
+"print(""The fruit is: banana"")
+print(""The fruit is: apple"")",1
+"print(""The fruit is: elderberry"")
+print(""The fruit is: apple"")
+print(""The fruit is: date"")",1
+"print(""The fruit is: date"")
+print(""The fruit is: cherry"")",1
+"print(""The fruit is: elderberry"")
+print(""The fruit is: fig"")
+print(""The fruit is: apple"")",1
+"print(""The fruit is: elderberry"")
+print(""The fruit is: cherry"")
+print(""The fruit is: date"")
+print(""The fruit is: grape"")",1
+"print(""The fruit is: fig"")",1
+"print(""The fruit is: fig"")
+print(""The fruit is: grape"")",1
+"print(""The fruit is: elderberry"")
+print(""The fruit is: banana"")
+print(""The fruit is: date"")",1
+"print(""The fruit is: apple"")
+print(""The fruit is: grape"")
+print(""The fruit is: cherry"")",1
+"print(""The fruit is: date"")
+print(""The fruit is: apple"")
+print(""The fruit is: apple"")
+print(""The fruit is: cherry"")",1
+"print(""The fruit is: grape"")
+print(""The fruit is: elderberry"")
+print(""The fruit is: apple"")",1
+"print(""The fruit is: banana"")
+print(""The fruit is: fig"")",1
+"print(""The fruit is: cherry"")
+print(""The fruit is: elderberry"")
+print(""The fruit is: cherry"")
+print(""The fruit is: honeydew"")",1
+"print(""The fruit is: banana"")
+print(""The fruit is: cherry"")
+print(""The fruit is: fig"")
+print(""The fruit is: date"")",1
+"print(""The fruit is: honeydew"")
+print(""The fruit is: honeydew"")",1
+"print(""The fruit is: grape"")
+print(""The fruit is: cherry"")",1
+"print(""The fruit is: fig"")",1
+"print(""The fruit is: grape"")
+print(""The fruit is: honeydew"")
+print(""The fruit is: grape"")
+print(""The fruit is: honeydew"")",1
+"print(""The fruit is: grape"")
+print(""The fruit is: date"")
+print(""The fruit is: apple"")",1
+"print(""The fruit is: fig"")",1
+"print(""The fruit is: date"")
+print(""The fruit is: cherry"")
+print(""The fruit is: honeydew"")
+print(""The fruit is: elderberry"")
+print(""The fruit is: honeydew"")",1
+"print(""The fruit is: date"")
+print(""The fruit is: cherry"")
+print(""The fruit is: elderberry"")
+print(""The fruit is: banana"")
+print(""The fruit is: grape"")",1
+"print(""The fruit is: fig"")
+print(""The fruit is: date"")
+print(""The fruit is: apple"")",1
+"print(""The fruit is: honeydew"")
+print(""The fruit is: date"")
+print(""The fruit is: date"")
+print(""The fruit is: cherry"")",1
+"print(""The fruit is: fig"")
+print(""The fruit is: elderberry"")
+print(""The fruit is: banana"")",1
+"print(""The fruit is: apple"")
+print(""The fruit is: grape"")
+print(""The fruit is: elderberry"")
+print(""The fruit is: grape"")",1
+"print(""The fruit is: fig"")
+print(""The fruit is: apple"")",1
+"print(""The fruit is: cherry"")
+print(""The fruit is: cherry"")
+print(""The fruit is: grape"")",1
+"print(""The fruit is: apple"")
+print(""The fruit is: date"")
+print(""The fruit is: cherry"")",1
+"print(""The fruit is: elderberry"")
+print(""The fruit is: apple"")
+print(""The fruit is: honeydew"")",1
+"print(""The fruit is: banana"")
+print(""The fruit is: elderberry"")
+print(""The fruit is: honeydew"")
+print(""The fruit is: date"")",1
+"print(""The fruit is: apple"")
+print(""The fruit is: date"")",1
+"print(""The fruit is: honeydew"")",1
+"print(""The fruit is: elderberry"")",1
+"print(""The fruit is: elderberry"")
+print(""The fruit is: grape"")
+print(""The fruit is: banana"")",1
+"print(""The fruit is: date"")
+print(""The fruit is: grape"")
+print(""The fruit is: apple"")
+print(""The fruit is: fig"")
+print(""The fruit is: fig"")",1
+"print(""The fruit is: apple"")
+print(""The fruit is: grape"")
+print(""The fruit is: cherry"")
+print(""The fruit is: cherry"")",1
+"print(""The fruit is: fig"")",1
+"print(""The fruit is: cherry"")
+print(""The fruit is: apple"")
+print(""The fruit is: honeydew"")
+print(""The fruit is: grape"")",1
+"print(""The fruit is: elderberry"")",1
+"print(""The fruit is: cherry"")
+print(""The fruit is: date"")",1
+"print(""The fruit is: elderberry"")
+print(""The fruit is: elderberry"")
+print(""The fruit is: honeydew"")
+print(""The fruit is: elderberry"")
+print(""The fruit is: cherry"")",1
+"print(""The fruit is: date"")",1
+"print(""The fruit is: date"")
+print(""The fruit is: honeydew"")
+print(""The fruit is: fig"")",1
+"print(""The fruit is: apple"")
+print(""The fruit is: fig"")",1
+"print(""The fruit is: banana"")
+print(""The fruit is: elderberry"")
+print(""The fruit is: cherry"")",1
+"print(""The fruit is: grape"")
+print(""The fruit is: banana"")
+print(""The fruit is: apple"")
+print(""The fruit is: banana"")
+print(""The fruit is: date"")",1
+"print(""The fruit is: banana"")
+print(""The fruit is: banana"")",1
+"print(""The fruit is: fig"")
+print(""The fruit is: honeydew"")
+print(""The fruit is: date"")",1
+"print(""The fruit is: date"")
+print(""The fruit is: cherry"")
+print(""The fruit is: grape"")
+print(""The fruit is: honeydew"")",1
+"print(""The fruit is: grape"")
+print(""The fruit is: cherry"")
+print(""The fruit is: apple"")
+print(""The fruit is: apple"")
+print(""The fruit is: fig"")",1
+"print(""The fruit is: elderberry"")
+print(""The fruit is: apple"")
+print(""The fruit is: apple"")
+print(""The fruit is: fig"")
+print(""The fruit is: honeydew"")",1
+"print(""The fruit is: apple"")
+print(""The fruit is: cherry"")
+print(""The fruit is: date"")
+print(""The fruit is: banana"")
+print(""The fruit is: date"")",1
+"print(""The fruit is: apple"")
+print(""The fruit is: date"")
+print(""The fruit is: date"")",1
+"print(""The fruit is: apple"")
+print(""The fruit is: apple"")",1
+"print(""The fruit is: elderberry"")",1
+"print(""The fruit is: date"")
+print(""The fruit is: cherry"")",1
+"print(""The fruit is: fig"")
+print(""The fruit is: banana"")",1
+"print(""The fruit is: cherry"")
+print(""The fruit is: cherry"")
+print(""The fruit is: fig"")
+print(""The fruit is: honeydew"")",1
+"print(""The fruit is: grape"")",1
+"print(""The fruit is: cherry"")",1
+"print(""The fruit is: honeydew"")
+print(""The fruit is: apple"")
+print(""The fruit is: honeydew"")
+print(""The fruit is: cherry"")
+print(""The fruit is: cherry"")",1
+"print(""The fruit is: fig"")
+print(""The fruit is: cherry"")
+print(""The fruit is: banana"")
+print(""The fruit is: fig"")
+print(""The fruit is: date"")",1
+"print(""The fruit is: banana"")",1
+"print(""The fruit is: date"")
+print(""The fruit is: cherry"")
+print(""The fruit is: fig"")
+print(""The fruit is: grape"")
+print(""The fruit is: honeydew"")",1
+"print(""The fruit is: banana"")
+print(""The fruit is: fig"")",1
+"print(""The fruit is: banana"")
+print(""The fruit is: elderberry"")
+print(""The fruit is: fig"")
+print(""The fruit is: date"")",1
+"print(""The fruit is: grape"")
+print(""The fruit is: elderberry"")
+print(""The fruit is: grape"")
+print(""The fruit is: cherry"")",1
+"print(""The fruit is: date"")
+print(""The fruit is: elderberry"")
+print(""The fruit is: cherry"")
+print(""The fruit is: fig"")",1
+"print(""The fruit is: apple"")
+print(""The fruit is: date"")
+print(""The fruit is: honeydew"")",1
+"print(""The fruit is: banana"")
+print(""The fruit is: grape"")
+print(""The fruit is: cherry"")
+print(""The fruit is: honeydew"")",1
+"print(""The fruit is: grape"")
+print(""The fruit is: cherry"")",1
+"print(""The fruit is: elderberry"")
+print(""The fruit is: apple"")",1
+"print(""The fruit is: grape"")
+print(""The fruit is: banana"")
+print(""The fruit is: apple"")",1
+"print(""The fruit is: cherry"")
+print(""The fruit is: fig"")",1
+"print(""The fruit is: apple"")
+print(""The fruit is: banana"")",1
+"print(""The fruit is: cherry"")
+print(""The fruit is: honeydew"")",1
+"print(""The fruit is: fig"")",1
+"print(""The fruit is: apple"")",1
+"print(""The fruit is: fig"")
+print(""The fruit is: elderberry"")",1
+"print(""The fruit is: apple"")",1
+"print(""The fruit is: elderberry"")
+print(""The fruit is: banana"")",1
+"print(""The fruit is: elderberry"")
+print(""The fruit is: cherry"")
+print(""The fruit is: grape"")",1
+"print(""The fruit is: grape"")
+print(""The fruit is: apple"")
+print(""The fruit is: grape"")",1
+"print(""The fruit is: elderberry"")
+print(""The fruit is: fig"")
+print(""The fruit is: date"")
+print(""The fruit is: honeydew"")",1
+"print(""The fruit is: date"")
+print(""The fruit is: fig"")",1
+"print(""The fruit is: fig"")",1
+"print(""The fruit is: apple"")",1
+"print(""The fruit is: honeydew"")",1
+"print(""The fruit is: cherry"")
+print(""The fruit is: cherry"")",1
+"print(""The fruit is: banana"")",1
+"print(""The fruit is: honeydew"")
+print(""The fruit is: honeydew"")",1
+"print(""The fruit is: date"")
+print(""The fruit is: date"")
+print(""The fruit is: banana"")",1
+"print(""The fruit is: apple"")
+print(""The fruit is: banana"")
+print(""The fruit is: apple"")
+print(""The fruit is: fig"")
+print(""The fruit is: fig"")",1
+"print(""The fruit is: cherry"")
+print(""The fruit is: banana"")
+print(""The fruit is: grape"")
+print(""The fruit is: honeydew"")",1
+"print(""The fruit is: date"")
+print(""The fruit is: cherry"")
+print(""The fruit is: grape"")",1
+"print(""The fruit is: date"")
+print(""The fruit is: fig"")",1
+"print(""The fruit is: honeydew"")",1
+"print(""The fruit is: grape"")
+print(""The fruit is: grape"")",1
+"print(""The fruit is: apple"")
+print(""The fruit is: fig"")
+print(""The fruit is: grape"")
+print(""The fruit is: elderberry"")
+print(""The fruit is: cherry"")",1
+"print(""The fruit is: cherry"")
+print(""The fruit is: apple"")
+print(""The fruit is: cherry"")
+print(""The fruit is: elderberry"")",1
+"print(""The fruit is: fig"")
+print(""The fruit is: apple"")
+print(""The fruit is: cherry"")",1
+"print(""The fruit is: cherry"")
+print(""The fruit is: elderberry"")
+print(""The fruit is: date"")
+print(""The fruit is: fig"")
+print(""The fruit is: honeydew"")",1
+"print(""The fruit is: fig"")
+print(""The fruit is: honeydew"")
+print(""The fruit is: elderberry"")
+print(""The fruit is: date"")
+print(""The fruit is: grape"")",1
+"print(""The fruit is: cherry"")
+print(""The fruit is: elderberry"")
+print(""The fruit is: grape"")",1
+"print(""The fruit is: banana"")
+print(""The fruit is: honeydew"")
+print(""The fruit is: honeydew"")
+print(""The fruit is: date"")
+print(""The fruit is: elderberry"")",1
+"print(""The fruit is: grape"")
+print(""The fruit is: date"")
+print(""The fruit is: grape"")
+print(""The fruit is: elderberry"")",1
+"print(""The fruit is: cherry"")
+print(""The fruit is: banana"")",1
+"print(""The fruit is: fig"")
+print(""The fruit is: grape"")",1
+"print(""The fruit is: cherry"")",1
+"print(""The fruit is: apple"")
+print(""The fruit is: honeydew"")
+print(""The fruit is: fig"")
+print(""The fruit is: fig"")",1
+"print(""The fruit is: date"")
+print(""The fruit is: banana"")
+print(""The fruit is: grape"")
+print(""The fruit is: banana"")
+print(""The fruit is: elderberry"")",1
+"print(""The fruit is: grape"")
+print(""The fruit is: date"")",1
+"print(""The fruit is: cherry"")
+print(""The fruit is: honeydew"")
+print(""The fruit is: date"")
+print(""The fruit is: cherry"")
+print(""The fruit is: cherry"")",1
+"print(""The fruit is: grape"")
+print(""The fruit is: fig"")",1
+"print(""The fruit is: honeydew"")
+print(""The fruit is: honeydew"")
+print(""The fruit is: honeydew"")",1
+"print(""The fruit is: apple"")",1
+"print(""The fruit is: apple"")
+print(""The fruit is: fig"")",1
+"print(""The fruit is: elderberry"")
+print(""The fruit is: cherry"")
+print(""The fruit is: cherry"")
+print(""The fruit is: cherry"")",1
+"print(""The fruit is: date"")
+print(""The fruit is: elderberry"")
+print(""The fruit is: fig"")
+print(""The fruit is: banana"")",1
+"print(""The fruit is: fig"")
+print(""The fruit is: banana"")
+print(""The fruit is: fig"")
+print(""The fruit is: grape"")",1
+"print(""The fruit is: elderberry"")",1
+"print(""The fruit is: elderberry"")",1
+"print(""The fruit is: apple"")
+print(""The fruit is: apple"")
+print(""The fruit is: honeydew"")
+print(""The fruit is: honeydew"")",1
+"print(""The fruit is: grape"")
+print(""The fruit is: cherry"")
+print(""The fruit is: banana"")
+print(""The fruit is: banana"")",1
+"print(""The fruit is: honeydew"")
+print(""The fruit is: apple"")
+print(""The fruit is: fig"")
+print(""The fruit is: elderberry"")
+print(""The fruit is: banana"")",1
+"print(""The fruit is: cherry"")
+print(""The fruit is: fig"")
+print(""The fruit is: elderberry"")",1
+"print(""The fruit is: date"")
+print(""The fruit is: elderberry"")
+print(""The fruit is: grape"")
+print(""The fruit is: apple"")",1
+"print(""The fruit is: cherry"")
+print(""The fruit is: date"")
+print(""The fruit is: fig"")
+print(""The fruit is: banana"")
+print(""The fruit is: apple"")",1
+"print(""The fruit is: fig"")
+print(""The fruit is: elderberry"")",1
+"print(""The fruit is: cherry"")",1
+"print(""The fruit is: apple"")
+print(""The fruit is: banana"")
+print(""The fruit is: grape"")
+print(""The fruit is: elderberry"")
+print(""The fruit is: banana"")",1
+"print(""The fruit is: cherry"")
+print(""The fruit is: fig"")",1
+"print(""The fruit is: date"")
+print(""The fruit is: banana"")
+print(""The fruit is: apple"")",1
+"print(""The fruit is: elderberry"")
+print(""The fruit is: date"")
+print(""The fruit is: banana"")
+print(""The fruit is: apple"")",1
+"print(""The fruit is: grape"")
+print(""The fruit is: banana"")",1
+"print(""The fruit is: elderberry"")
+print(""The fruit is: elderberry"")",1
+"print(""The fruit is: honeydew"")
+print(""The fruit is: cherry"")
+print(""The fruit is: banana"")
+print(""The fruit is: honeydew"")
+print(""The fruit is: honeydew"")",1
+"print(""The fruit is: cherry"")
+print(""The fruit is: elderberry"")
+print(""The fruit is: fig"")",1
+"print(""The fruit is: apple"")
+print(""The fruit is: fig"")
+print(""The fruit is: banana"")",1
+"print(""The fruit is: fig"")",1
+"print(""The fruit is: honeydew"")
+print(""The fruit is: apple"")
+print(""The fruit is: cherry"")
+print(""The fruit is: honeydew"")",1
+"print(""The fruit is: grape"")
+print(""The fruit is: banana"")
+print(""The fruit is: elderberry"")
+print(""The fruit is: fig"")
+print(""The fruit is: date"")",1
+"print(""The fruit is: date"")",1
+"print(""The fruit is: grape"")",1
+"print(""The fruit is: elderberry"")
+print(""The fruit is: date"")
+print(""The fruit is: honeydew"")",1
+"print(""The fruit is: banana"")
+print(""The fruit is: honeydew"")
+print(""The fruit is: grape"")
+print(""The fruit is: date"")",1
+"print(""The fruit is: date"")
+print(""The fruit is: honeydew"")
+print(""The fruit is: date"")
+print(""The fruit is: elderberry"")",1
+"print(""The fruit is: elderberry"")
+print(""The fruit is: apple"")
+print(""The fruit is: banana"")
+print(""The fruit is: fig"")
+print(""The fruit is: banana"")",1
+"print(""The fruit is: date"")
+print(""The fruit is: apple"")
+print(""The fruit is: apple"")
+print(""The fruit is: elderberry"")",1
+"print(""The fruit is: banana"")",1
+"print(""The fruit is: grape"")
+print(""The fruit is: banana"")",1
+"print(""The fruit is: fig"")
+print(""The fruit is: elderberry"")
+print(""The fruit is: banana"")",1
+"print(""The fruit is: fig"")
+print(""The fruit is: fig"")
+print(""The fruit is: honeydew"")
+print(""The fruit is: cherry"")",1
+"print(""The fruit is: cherry"")",1
+"print(""The fruit is: fig"")
+print(""The fruit is: fig"")
+print(""The fruit is: fig"")
+print(""The fruit is: elderberry"")",1
+"print(""The fruit is: honeydew"")
+print(""The fruit is: grape"")
+print(""The fruit is: elderberry"")
+print(""The fruit is: apple"")",1
+"print(""The fruit is: apple"")
+print(""The fruit is: apple"")
+print(""The fruit is: elderberry"")
+print(""The fruit is: apple"")
+print(""The fruit is: banana"")",1
+"print(""The fruit is: fig"")
+print(""The fruit is: honeydew"")
+print(""The fruit is: banana"")",1
+"print(""The fruit is: honeydew"")",1
+"print(""The fruit is: fig"")
+print(""The fruit is: apple"")
+print(""The fruit is: honeydew"")
+print(""The fruit is: banana"")
+print(""The fruit is: cherry"")",1
+"print(""The fruit is: date"")
+print(""The fruit is: honeydew"")
+print(""The fruit is: cherry"")
+print(""The fruit is: date"")",1
+"print(""The fruit is: grape"")
+print(""The fruit is: date"")
+print(""The fruit is: fig"")
+print(""The fruit is: grape"")",1
+"print(""The fruit is: fig"")
+print(""The fruit is: banana"")
+print(""The fruit is: cherry"")",1
+"print(""The fruit is: grape"")",1
+"print(""The fruit is: date"")
+print(""The fruit is: banana"")
+print(""The fruit is: fig"")
+print(""The fruit is: date"")",1
+"print(""The fruit is: fig"")
+print(""The fruit is: honeydew"")
+print(""The fruit is: cherry"")
+print(""The fruit is: apple"")
+print(""The fruit is: date"")",1
+"print(""The fruit is: date"")
+print(""The fruit is: cherry"")
+print(""The fruit is: fig"")
+print(""The fruit is: grape"")
+print(""The fruit is: honeydew"")",1
+"print(""The fruit is: fig"")
+print(""The fruit is: date"")
+print(""The fruit is: banana"")
+print(""The fruit is: cherry"")
+print(""The fruit is: elderberry"")",1
+"print(""The fruit is: grape"")
+print(""The fruit is: fig"")
+print(""The fruit is: apple"")",1
+"print(""The fruit is: cherry"")
+print(""The fruit is: apple"")",1
+"print(""The fruit is: elderberry"")",1
+"print(""The fruit is: date"")
+print(""The fruit is: cherry"")
+print(""The fruit is: apple"")
+print(""The fruit is: cherry"")",1
+"print(""The fruit is: honeydew"")",1
+"print(""The fruit is: cherry"")
+print(""The fruit is: grape"")
+print(""The fruit is: elderberry"")
+print(""The fruit is: elderberry"")",1
+"print(""The fruit is: banana"")
+print(""The fruit is: date"")
+print(""The fruit is: cherry"")
+print(""The fruit is: fig"")",1
+"print(""The fruit is: banana"")",1
+"print(""The fruit is: honeydew"")
+print(""The fruit is: honeydew"")
+print(""The fruit is: elderberry"")
+print(""The fruit is: cherry"")",1
+"print(""The fruit is: apple"")",1
+"print(""The fruit is: cherry"")
+print(""The fruit is: honeydew"")
+print(""The fruit is: fig"")
+print(""The fruit is: grape"")
+print(""The fruit is: elderberry"")",1
+"print(""The fruit is: elderberry"")
+print(""The fruit is: grape"")
+print(""The fruit is: fig"")
+print(""The fruit is: elderberry"")",1
+"print(""The fruit is: honeydew"")
+print(""The fruit is: honeydew"")
+print(""The fruit is: date"")
+print(""The fruit is: fig"")
+print(""The fruit is: grape"")",1
+"print(""The fruit is: elderberry"")
+print(""The fruit is: banana"")
+print(""The fruit is: grape"")
+print(""The fruit is: banana"")",1
+"print(""The fruit is: elderberry"")
+print(""The fruit is: elderberry"")
+print(""The fruit is: cherry"")
+print(""The fruit is: date"")
+print(""The fruit is: fig"")",1
+"print(""The fruit is: banana"")",1
+"print(""The fruit is: banana"")
+print(""The fruit is: honeydew"")",1
+"print(""The fruit is: cherry"")
+print(""The fruit is: cherry"")",1
+"print(""The fruit is: grape"")
+print(""The fruit is: banana"")",1
+"print(""The fruit is: fig"")
+print(""The fruit is: date"")
+print(""The fruit is: honeydew"")
+print(""The fruit is: honeydew"")
+print(""The fruit is: banana"")",1
+"print(""The fruit is: honeydew"")
+print(""The fruit is: apple"")
+print(""The fruit is: cherry"")
+print(""The fruit is: date"")",1
+"print(""The fruit is: grape"")",1
+"print(""The fruit is: apple"")
+print(""The fruit is: cherry"")
+print(""The fruit is: grape"")
+print(""The fruit is: grape"")
+print(""The fruit is: honeydew"")",1
+"print(""The fruit is: banana"")
+print(""The fruit is: fig"")",1
+"print(""The fruit is: date"")
+print(""The fruit is: banana"")
+print(""The fruit is: elderberry"")
+print(""The fruit is: grape"")
+print(""The fruit is: date"")",1
+"print(""The fruit is: honeydew"")
+print(""The fruit is: apple"")",1
+"print(""The fruit is: cherry"")
+print(""The fruit is: apple"")
+print(""The fruit is: cherry"")
+print(""The fruit is: cherry"")",1
+"print(""The fruit is: banana"")
+print(""The fruit is: elderberry"")
+print(""The fruit is: apple"")
+print(""The fruit is: fig"")
+print(""The fruit is: fig"")",1
+"print(""The fruit is: cherry"")
+print(""The fruit is: banana"")
+print(""The fruit is: elderberry"")",1
+"print(""The fruit is: fig"")
+print(""The fruit is: elderberry"")",1
+"print(""The fruit is: grape"")
+print(""The fruit is: cherry"")
+print(""The fruit is: date"")",1
+"print(""The fruit is: date"")
+print(""The fruit is: apple"")
+print(""The fruit is: cherry"")
+print(""The fruit is: grape"")
+print(""The fruit is: grape"")",1
+"print(""The fruit is: apple"")
+print(""The fruit is: fig"")
+print(""The fruit is: grape"")
+print(""The fruit is: date"")",1
+"print(""The fruit is: date"")
+print(""The fruit is: date"")
+print(""The fruit is: cherry"")
+print(""The fruit is: cherry"")",1
+"print(""The fruit is: grape"")
+print(""The fruit is: grape"")",1
+"print(""The fruit is: elderberry"")",1
+"print(""The fruit is: elderberry"")
+print(""The fruit is: elderberry"")
+print(""The fruit is: banana"")
+print(""The fruit is: fig"")
+print(""The fruit is: elderberry"")",1
+"print(""The fruit is: elderberry"")
+print(""The fruit is: honeydew"")",1
+"print(""The fruit is: date"")
+print(""The fruit is: fig"")
+print(""The fruit is: grape"")",1
+"print(""The fruit is: elderberry"")",1
+"print(""The fruit is: apple"")
+print(""The fruit is: fig"")
+print(""The fruit is: apple"")
+print(""The fruit is: grape"")",1
+"print(""The fruit is: date"")
+print(""The fruit is: honeydew"")",1
+"print(""The fruit is: honeydew"")
+print(""The fruit is: elderberry"")
+print(""The fruit is: cherry"")",1
+"print(""The fruit is: date"")
+print(""The fruit is: apple"")
+print(""The fruit is: apple"")",1
+"print(""The fruit is: banana"")",1
+"print(""The fruit is: honeydew"")
+print(""The fruit is: honeydew"")
+print(""The fruit is: cherry"")
+print(""The fruit is: grape"")",1
+"print(""The fruit is: grape"")
+print(""The fruit is: date"")
+print(""The fruit is: elderberry"")
+print(""The fruit is: apple"")
+print(""The fruit is: honeydew"")",1
+"print(""The fruit is: grape"")
+print(""The fruit is: elderberry"")
+print(""The fruit is: honeydew"")
+print(""The fruit is: elderberry"")",1
+"print(""The fruit is: honeydew"")
+print(""The fruit is: honeydew"")
+print(""The fruit is: apple"")
+print(""The fruit is: banana"")
+print(""The fruit is: honeydew"")",1
+"print(""The fruit is: honeydew"")
+print(""The fruit is: date"")
+print(""The fruit is: date"")",1
+"print(""The fruit is: cherry"")
+print(""The fruit is: grape"")
+print(""The fruit is: date"")",1
+"print(""The fruit is: banana"")
+print(""The fruit is: apple"")",1
+"print(""The fruit is: elderberry"")",1
+"print(""The fruit is: elderberry"")
+print(""The fruit is: grape"")
+print(""The fruit is: fig"")
+print(""The fruit is: date"")
+print(""The fruit is: elderberry"")",1
+"print(""The fruit is: apple"")
+print(""The fruit is: date"")
+print(""The fruit is: honeydew"")",1
+"print(""The fruit is: apple"")",1
+"print(""The fruit is: banana"")",1
+"print(""The fruit is: banana"")
+print(""The fruit is: honeydew"")
+print(""The fruit is: fig"")
+print(""The fruit is: elderberry"")",1
+"print(""The fruit is: banana"")
+print(""The fruit is: grape"")
+print(""The fruit is: grape"")
+print(""The fruit is: cherry"")
+print(""The fruit is: fig"")",1
+"print(""The fruit is: cherry"")
+print(""The fruit is: grape"")
+print(""The fruit is: honeydew"")
+print(""The fruit is: banana"")",1
+"print(""The fruit is: honeydew"")
+print(""The fruit is: date"")
+print(""The fruit is: fig"")
+print(""The fruit is: cherry"")",1
+"print(""The fruit is: honeydew"")
+print(""The fruit is: elderberry"")
+print(""The fruit is: fig"")
+print(""The fruit is: grape"")",1
+"print(""The fruit is: honeydew"")
+print(""The fruit is: apple"")
+print(""The fruit is: fig"")",1
+"print(""The fruit is: honeydew"")",1
+"print(""The fruit is: date"")
+print(""The fruit is: elderberry"")
+print(""The fruit is: honeydew"")
+print(""The fruit is: grape"")
+print(""The fruit is: apple"")",1
+"print(""The fruit is: apple"")
+print(""The fruit is: cherry"")
+print(""The fruit is: elderberry"")
+print(""The fruit is: cherry"")
+print(""The fruit is: banana"")",1
+"print(""The fruit is: date"")
+print(""The fruit is: apple"")
+print(""The fruit is: honeydew"")
+print(""The fruit is: banana"")",1
+"print(""The fruit is: cherry"")",1
+"print(""The fruit is: cherry"")
+print(""The fruit is: banana"")
+print(""The fruit is: date"")
+print(""The fruit is: apple"")
+print(""The fruit is: apple"")",1
+"print(""The fruit is: apple"")
+print(""The fruit is: date"")
+print(""The fruit is: honeydew"")
+print(""The fruit is: grape"")",1
+"print(""The fruit is: date"")
+print(""The fruit is: honeydew"")",1
+"print(""The fruit is: fig"")
+print(""The fruit is: fig"")",1
+"print(""The fruit is: cherry"")
+print(""The fruit is: banana"")
+print(""The fruit is: apple"")
+print(""The fruit is: fig"")
+print(""The fruit is: elderberry"")",1
+"print(""The fruit is: honeydew"")
+print(""The fruit is: banana"")
+print(""The fruit is: apple"")
+print(""The fruit is: cherry"")
+print(""The fruit is: honeydew"")",1
+"print(""The fruit is: cherry"")",1
+"print(""The fruit is: date"")
+print(""The fruit is: fig"")
+print(""The fruit is: apple"")",1
+"print(""The fruit is: honeydew"")
+print(""The fruit is: apple"")
+print(""The fruit is: apple"")",1
+"print(""The fruit is: honeydew"")
+print(""The fruit is: apple"")
+print(""The fruit is: fig"")
+print(""The fruit is: fig"")",1
+"print(""The fruit is: honeydew"")
+print(""The fruit is: honeydew"")
+print(""The fruit is: fig"")
+print(""The fruit is: honeydew"")
+print(""The fruit is: date"")",1
+"print(""The fruit is: honeydew"")
+print(""The fruit is: banana"")
+print(""The fruit is: honeydew"")",1
+"print(""The fruit is: grape"")
+print(""The fruit is: cherry"")",1
+"print(""The fruit is: apple"")",1
+"print(""The fruit is: elderberry"")
+print(""The fruit is: date"")
+print(""The fruit is: honeydew"")
+print(""The fruit is: grape"")",1
+"print(""The fruit is: banana"")
+print(""The fruit is: cherry"")
+print(""The fruit is: banana"")",1
+"print(""The fruit is: honeydew"")
+print(""The fruit is: honeydew"")",1
+"print(""The fruit is: banana"")
+print(""The fruit is: fig"")
+print(""The fruit is: banana"")",1
+"print(""The fruit is: banana"")",1
+"print(""The fruit is: fig"")",1
+"print(""The fruit is: banana"")
+print(""The fruit is: fig"")",1
+"print(""The fruit is: apple"")
+print(""The fruit is: elderberry"")
+print(""The fruit is: date"")",1
+"print(""The fruit is: grape"")
+print(""The fruit is: banana"")
+print(""The fruit is: cherry"")",1
+"print(""The fruit is: banana"")
+print(""The fruit is: elderberry"")
+print(""The fruit is: cherry"")
+print(""The fruit is: date"")",1
+"print(""The fruit is: elderberry"")
+print(""The fruit is: banana"")
+print(""The fruit is: date"")
+print(""The fruit is: fig"")",1
+"print(""The fruit is: date"")",1
+"print(""The fruit is: honeydew"")
+print(""The fruit is: fig"")
+print(""The fruit is: honeydew"")
+print(""The fruit is: elderberry"")",1
+"print(""The fruit is: grape"")
+print(""The fruit is: date"")
+print(""The fruit is: banana"")
+print(""The fruit is: cherry"")",1
+"print(""The fruit is: apple"")
+print(""The fruit is: apple"")",1
+"print(""The fruit is: banana"")",1
+"print(""The fruit is: date"")
+print(""The fruit is: cherry"")
+print(""The fruit is: grape"")
+print(""The fruit is: fig"")
+print(""The fruit is: banana"")",1
+"print(""The fruit is: elderberry"")
+print(""The fruit is: elderberry"")",1
+"print(""The fruit is: cherry"")
+print(""The fruit is: elderberry"")",1
+"print(""The fruit is: grape"")
+print(""The fruit is: banana"")
+print(""The fruit is: fig"")
+print(""The fruit is: banana"")",1
+"print(""The fruit is: elderberry"")
+print(""The fruit is: elderberry"")",1
+"print(""The fruit is: honeydew"")
+print(""The fruit is: cherry"")
+print(""The fruit is: apple"")",1
+"print(""The fruit is: elderberry"")
+print(""The fruit is: honeydew"")",1
+"print(""The fruit is: date"")
+print(""The fruit is: cherry"")
+print(""The fruit is: elderberry"")
+print(""The fruit is: apple"")",1
+"print(""The fruit is: honeydew"")
+print(""The fruit is: apple"")
+print(""The fruit is: banana"")",1
+"print(""The fruit is: grape"")
+print(""The fruit is: cherry"")",1
+"print(""The fruit is: elderberry"")
+print(""The fruit is: apple"")
+print(""The fruit is: apple"")",1
+"print(""The fruit is: elderberry"")
+print(""The fruit is: grape"")
+print(""The fruit is: honeydew"")
+print(""The fruit is: elderberry"")",1
+"print(""The fruit is: cherry"")",1
+"print(""The fruit is: grape"")
+print(""The fruit is: date"")
+print(""The fruit is: honeydew"")
+print(""The fruit is: honeydew"")",1
+"print(""The fruit is: cherry"")",1
+"print(""The fruit is: cherry"")",1
+"print(""The fruit is: honeydew"")
+print(""The fruit is: date"")
+print(""The fruit is: apple"")
+print(""The fruit is: honeydew"")
+print(""The fruit is: cherry"")",1
+"print(""The fruit is: honeydew"")
+print(""The fruit is: grape"")
+print(""The fruit is: honeydew"")
+print(""The fruit is: date"")",1
+"print(""The fruit is: cherry"")
+print(""The fruit is: cherry"")
+print(""The fruit is: elderberry"")
+print(""The fruit is: cherry"")",1
+"print(""The fruit is: honeydew"")
+print(""The fruit is: banana"")
+print(""The fruit is: date"")
+print(""The fruit is: honeydew"")",1
+"print(""The fruit is: date"")
+print(""The fruit is: fig"")",1
+"print(""The fruit is: date"")",1
+"print(""The fruit is: grape"")",1
+"print(""The fruit is: honeydew"")
+print(""The fruit is: fig"")
+print(""The fruit is: elderberry"")
+print(""The fruit is: date"")",1
+"print(""The fruit is: apple"")
+print(""The fruit is: elderberry"")
+print(""The fruit is: date"")
+print(""The fruit is: cherry"")
+print(""The fruit is: cherry"")",1
+"print(""The fruit is: honeydew"")",1
+"print(""The fruit is: cherry"")
+print(""The fruit is: banana"")
+print(""The fruit is: grape"")",1
+"print(""The fruit is: banana"")
+print(""The fruit is: fig"")
+print(""The fruit is: honeydew"")",1
+"print(""The fruit is: grape"")",1
+"print(""The fruit is: date"")
+print(""The fruit is: fig"")
+print(""The fruit is: fig"")",1
+"print(""The fruit is: date"")
+print(""The fruit is: banana"")",1
+"print(""The fruit is: grape"")
+print(""The fruit is: cherry"")
+print(""The fruit is: banana"")",1
+"print(""The fruit is: banana"")
+print(""The fruit is: elderberry"")
+print(""The fruit is: apple"")",1
+"print(""The fruit is: grape"")
+print(""The fruit is: apple"")
+print(""The fruit is: banana"")
+print(""The fruit is: cherry"")
+print(""The fruit is: date"")",1
+"print(""The fruit is: fig"")
+print(""The fruit is: elderberry"")
+print(""The fruit is: fig"")
+print(""The fruit is: grape"")",1
+"print(""The fruit is: grape"")
+print(""The fruit is: elderberry"")
+print(""The fruit is: banana"")
+print(""The fruit is: date"")",1
+"print(""The fruit is: elderberry"")
+print(""The fruit is: apple"")
+print(""The fruit is: grape"")",1
+"print(""The fruit is: apple"")
+print(""The fruit is: banana"")
+print(""The fruit is: banana"")
+print(""The fruit is: apple"")",1
+"print(""The fruit is: grape"")
+print(""The fruit is: elderberry"")
+print(""The fruit is: banana"")
+print(""The fruit is: apple"")",1
+"print(""The fruit is: grape"")
+print(""The fruit is: apple"")
+print(""The fruit is: honeydew"")
+print(""The fruit is: banana"")
+print(""The fruit is: banana"")",1
+"print(""The fruit is: elderberry"")",1
+"print(""The fruit is: honeydew"")
+print(""The fruit is: elderberry"")
+print(""The fruit is: fig"")",1
+"print(""The fruit is: apple"")",1
+"print(""The fruit is: grape"")
+print(""The fruit is: apple"")",1
+"print(""The fruit is: honeydew"")
+print(""The fruit is: date"")",1
+"print(""The fruit is: fig"")
+print(""The fruit is: fig"")
+print(""The fruit is: banana"")",1
+"print(""The fruit is: cherry"")
+print(""The fruit is: date"")
+print(""The fruit is: elderberry"")",1
+"print(""The fruit is: apple"")
+print(""The fruit is: apple"")
+print(""The fruit is: apple"")
+print(""The fruit is: apple"")",1
+"print(""The fruit is: apple"")
+print(""The fruit is: banana"")
+print(""The fruit is: cherry"")",1
+"  PrInT(  ""date""  )
+  PrInT(  ""honeydew""  )
+  PrInT(  ""fig""  )",0
+"  PrInT(  ""date""  )",0
+"  PrInT(  ""elderberry""  )
+  PrInT(  ""elderberry""  )
+  PrInT(  ""cherry""  )
+  PrInT(  ""banana""  )",0
+"  PrInT(  ""date""  )
+  PrInT(  ""honeydew""  )
+  PrInT(  ""fig""  )
+  PrInT(  ""elderberry""  )",0
+"  PrInT(  ""fig""  )
+  PrInT(  ""cherry""  )
+  PrInT(  ""cherry""  )
+  PrInT(  ""elderberry""  )
+  PrInT(  ""banana""  )",0
+"  PrInT(  ""honeydew""  )",0
+"  PrInT(  ""grape""  )
+  PrInT(  ""apple""  )
+  PrInT(  ""honeydew""  )",0
+"  PrInT(  ""elderberry""  )
+  PrInT(  ""cherry""  )
+  PrInT(  ""date""  )
+  PrInT(  ""honeydew""  )",0
+"  PrInT(  ""elderberry""  )",0
+"  PrInT(  ""grape""  )
+  PrInT(  ""apple""  )
+  PrInT(  ""cherry""  )
+  PrInT(  ""banana""  )",0
+"  PrInT(  ""banana""  )
+  PrInT(  ""grape""  )
+  PrInT(  ""apple""  )",0
+"  PrInT(  ""banana""  )
+  PrInT(  ""banana""  )",0
+"  PrInT(  ""date""  )
+  PrInT(  ""banana""  )",0
+"  PrInT(  ""banana""  )
+  PrInT(  ""elderberry""  )
+  PrInT(  ""date""  )
+  PrInT(  ""date""  )
+  PrInT(  ""honeydew""  )",0
+"  PrInT(  ""cherry""  )
+  PrInT(  ""honeydew""  )",0
+"  PrInT(  ""date""  )
+  PrInT(  ""date""  )
+  PrInT(  ""date""  )",0
+"  PrInT(  ""cherry""  )
+  PrInT(  ""grape""  )",0
+"  PrInT(  ""date""  )
+  PrInT(  ""honeydew""  )
+  PrInT(  ""grape""  )
+  PrInT(  ""elderberry""  )
+  PrInT(  ""apple""  )",0
+"  PrInT(  ""fig""  )
+  PrInT(  ""cherry""  )",0
+"  PrInT(  ""apple""  )
+  PrInT(  ""elderberry""  )
+  PrInT(  ""date""  )
+  PrInT(  ""grape""  )
+  PrInT(  ""honeydew""  )",0
+"  PrInT(  ""apple""  )",0
+"  PrInT(  ""honeydew""  )
+  PrInT(  ""cherry""  )
+  PrInT(  ""fig""  )",0
+"  PrInT(  ""honeydew""  )
+  PrInT(  ""cherry""  )
+  PrInT(  ""cherry""  )
+  PrInT(  ""grape""  )",0
+"  PrInT(  ""elderberry""  )
+  PrInT(  ""cherry""  )
+  PrInT(  ""elderberry""  )
+  PrInT(  ""cherry""  )",0
+"  PrInT(  ""fig""  )
+  PrInT(  ""fig""  )
+  PrInT(  ""fig""  )",0
+"  PrInT(  ""banana""  )",0
+"  PrInT(  ""fig""  )
+  PrInT(  ""date""  )
+  PrInT(  ""grape""  )",0
+"  PrInT(  ""grape""  )
+  PrInT(  ""apple""  )
+  PrInT(  ""grape""  )",0
+"  PrInT(  ""banana""  )",0
+"  PrInT(  ""fig""  )
+  PrInT(  ""honeydew""  )
+  PrInT(  ""honeydew""  )
+  PrInT(  ""banana""  )
+  PrInT(  ""fig""  )",0
+"  PrInT(  ""banana""  )",0
+"  PrInT(  ""fig""  )",0
+"  PrInT(  ""honeydew""  )
+  PrInT(  ""grape""  )
+  PrInT(  ""fig""  )
+  PrInT(  ""banana""  )
+  PrInT(  ""honeydew""  )",0
+"  PrInT(  ""banana""  )
+  PrInT(  ""honeydew""  )
+  PrInT(  ""cherry""  )
+  PrInT(  ""banana""  )
+  PrInT(  ""honeydew""  )",0
+"  PrInT(  ""honeydew""  )",0
+"  PrInT(  ""apple""  )
+  PrInT(  ""elderberry""  )
+  PrInT(  ""honeydew""  )
+  PrInT(  ""date""  )",0
+"  PrInT(  ""cherry""  )
+  PrInT(  ""cherry""  )
+  PrInT(  ""grape""  )
+  PrInT(  ""banana""  )
+  PrInT(  ""cherry""  )",0
+"  PrInT(  ""date""  )",0
+"  PrInT(  ""date""  )
+  PrInT(  ""apple""  )
+  PrInT(  ""elderberry""  )
+  PrInT(  ""fig""  )",0
+"  PrInT(  ""banana""  )
+  PrInT(  ""grape""  )
+  PrInT(  ""fig""  )
+  PrInT(  ""honeydew""  )
+  PrInT(  ""cherry""  )",0
+"  PrInT(  ""elderberry""  )
+  PrInT(  ""apple""  )
+  PrInT(  ""banana""  )
+  PrInT(  ""fig""  )",0
+"  PrInT(  ""fig""  )
+  PrInT(  ""date""  )
+  PrInT(  ""fig""  )
+  PrInT(  ""date""  )
+  PrInT(  ""honeydew""  )",0
+"  PrInT(  ""apple""  )
+  PrInT(  ""fig""  )
+  PrInT(  ""grape""  )
+  PrInT(  ""apple""  )
+  PrInT(  ""honeydew""  )",0
+"  PrInT(  ""cherry""  )
+  PrInT(  ""fig""  )
+  PrInT(  ""elderberry""  )",0
+"  PrInT(  ""apple""  )
+  PrInT(  ""banana""  )",0
+"  PrInT(  ""honeydew""  )
+  PrInT(  ""cherry""  )",0
+"  PrInT(  ""fig""  )
+  PrInT(  ""apple""  )
+  PrInT(  ""honeydew""  )
+  PrInT(  ""date""  )
+  PrInT(  ""cherry""  )",0
+"  PrInT(  ""cherry""  )
+  PrInT(  ""banana""  )
+  PrInT(  ""banana""  )
+  PrInT(  ""apple""  )",0
+"  PrInT(  ""apple""  )",0
+"  PrInT(  ""fig""  )",0
+"  PrInT(  ""elderberry""  )
+  PrInT(  ""elderberry""  )
+  PrInT(  ""grape""  )",0
+"  PrInT(  ""apple""  )
+  PrInT(  ""elderberry""  )
+  PrInT(  ""cherry""  )
+  PrInT(  ""apple""  )",0
+"  PrInT(  ""grape""  )
+  PrInT(  ""apple""  )
+  PrInT(  ""grape""  )
+  PrInT(  ""grape""  )",0
+"  PrInT(  ""grape""  )
+  PrInT(  ""banana""  )
+  PrInT(  ""grape""  )
+  PrInT(  ""date""  )",0
+"  PrInT(  ""banana""  )
+  PrInT(  ""honeydew""  )
+  PrInT(  ""cherry""  )
+  PrInT(  ""apple""  )
+  PrInT(  ""honeydew""  )",0
+"  PrInT(  ""cherry""  )
+  PrInT(  ""honeydew""  )",0
+"  PrInT(  ""apple""  )
+  PrInT(  ""honeydew""  )",0
+"  PrInT(  ""apple""  )
+  PrInT(  ""cherry""  )
+  PrInT(  ""banana""  )",0
+"  PrInT(  ""cherry""  )
+  PrInT(  ""elderberry""  )",0
+"  PrInT(  ""elderberry""  )",0
+"  PrInT(  ""fig""  )
+  PrInT(  ""honeydew""  )
+  PrInT(  ""fig""  )
+  PrInT(  ""grape""  )
+  PrInT(  ""cherry""  )",0
+"  PrInT(  ""fig""  )
+  PrInT(  ""grape""  )
+  PrInT(  ""grape""  )",0
+"  PrInT(  ""fig""  )
+  PrInT(  ""apple""  )",0
+"  PrInT(  ""elderberry""  )
+  PrInT(  ""date""  )
+  PrInT(  ""honeydew""  )
+  PrInT(  ""elderberry""  )
+  PrInT(  ""cherry""  )",0
+"  PrInT(  ""apple""  )
+  PrInT(  ""cherry""  )
+  PrInT(  ""apple""  )",0
+"  PrInT(  ""date""  )
+  PrInT(  ""fig""  )",0
+"  PrInT(  ""elderberry""  )",0
+"  PrInT(  ""elderberry""  )",0
+"  PrInT(  ""banana""  )",0
+"  PrInT(  ""banana""  )
+  PrInT(  ""fig""  )
+  PrInT(  ""apple""  )",0
+"  PrInT(  ""grape""  )
+  PrInT(  ""apple""  )
+  PrInT(  ""date""  )
+  PrInT(  ""elderberry""  )
+  PrInT(  ""elderberry""  )",0
+"  PrInT(  ""apple""  )
+  PrInT(  ""banana""  )",0
+"  PrInT(  ""honeydew""  )
+  PrInT(  ""elderberry""  )
+  PrInT(  ""fig""  )",0
+"  PrInT(  ""fig""  )
+  PrInT(  ""cherry""  )",0
+"  PrInT(  ""elderberry""  )",0
+"  PrInT(  ""grape""  )",0
+"  PrInT(  ""apple""  )
+  PrInT(  ""grape""  )
+  PrInT(  ""elderberry""  )
+  PrInT(  ""date""  )",0
+"  PrInT(  ""apple""  )
+  PrInT(  ""apple""  )
+  PrInT(  ""banana""  )
+  PrInT(  ""banana""  )
+  PrInT(  ""date""  )",0
+"  PrInT(  ""honeydew""  )
+  PrInT(  ""date""  )
+  PrInT(  ""banana""  )
+  PrInT(  ""honeydew""  )",0
+"  PrInT(  ""cherry""  )",0
+"  PrInT(  ""apple""  )
+  PrInT(  ""fig""  )",0
+"  PrInT(  ""date""  )
+  PrInT(  ""date""  )
+  PrInT(  ""honeydew""  )
+  PrInT(  ""apple""  )
+  PrInT(  ""elderberry""  )",0
+"  PrInT(  ""apple""  )
+  PrInT(  ""banana""  )
+  PrInT(  ""grape""  )",0
+"  PrInT(  ""fig""  )",0
+"  PrInT(  ""grape""  )
+  PrInT(  ""fig""  )
+  PrInT(  ""fig""  )
+  PrInT(  ""elderberry""  )
+  PrInT(  ""date""  )",0
+"  PrInT(  ""apple""  )",0
+"  PrInT(  ""apple""  )
+  PrInT(  ""elderberry""  )",0
+"  PrInT(  ""honeydew""  )
+  PrInT(  ""fig""  )
+  PrInT(  ""cherry""  )",0
+"  PrInT(  ""honeydew""  )
+  PrInT(  ""apple""  )",0
+"  PrInT(  ""apple""  )",0
+"  PrInT(  ""apple""  )
+  PrInT(  ""fig""  )
+  PrInT(  ""honeydew""  )
+  PrInT(  ""banana""  )",0
+"  PrInT(  ""fig""  )
+  PrInT(  ""banana""  )
+  PrInT(  ""grape""  )
+  PrInT(  ""banana""  )
+  PrInT(  ""fig""  )",0
+"  PrInT(  ""cherry""  )
+  PrInT(  ""honeydew""  )
+  PrInT(  ""banana""  )
+  PrInT(  ""fig""  )",0
+"  PrInT(  ""cherry""  )
+  PrInT(  ""date""  )
+  PrInT(  ""elderberry""  )",0
+"  PrInT(  ""date""  )
+  PrInT(  ""fig""  )
+  PrInT(  ""elderberry""  )",0
+"  PrInT(  ""cherry""  )
+  PrInT(  ""banana""  )
+  PrInT(  ""honeydew""  )
+  PrInT(  ""date""  )",0
+"  PrInT(  ""cherry""  )
+  PrInT(  ""cherry""  )
+  PrInT(  ""fig""  )
+  PrInT(  ""fig""  )",0
+"  PrInT(  ""date""  )
+  PrInT(  ""honeydew""  )
+  PrInT(  ""date""  )",0
+"  PrInT(  ""date""  )
+  PrInT(  ""banana""  )
+  PrInT(  ""grape""  )",0
+"  PrInT(  ""apple""  )",0
+"  PrInT(  ""elderberry""  )
+  PrInT(  ""grape""  )",0
+"  PrInT(  ""banana""  )
+  PrInT(  ""elderberry""  )
+  PrInT(  ""banana""  )
+  PrInT(  ""grape""  )",0
+"  PrInT(  ""banana""  )
+  PrInT(  ""cherry""  )",0
+"  PrInT(  ""banana""  )
+  PrInT(  ""elderberry""  )",0
+"  PrInT(  ""grape""  )
+  PrInT(  ""honeydew""  )",0
+"  PrInT(  ""date""  )
+  PrInT(  ""cherry""  )
+  PrInT(  ""date""  )
+  PrInT(  ""cherry""  )
+  PrInT(  ""fig""  )",0
+"  PrInT(  ""grape""  )
+  PrInT(  ""banana""  )
+  PrInT(  ""banana""  )",0
+"  PrInT(  ""cherry""  )
+  PrInT(  ""elderberry""  )
+  PrInT(  ""date""  )
+  PrInT(  ""banana""  )",0
+"  PrInT(  ""elderberry""  )
+  PrInT(  ""cherry""  )",0
+"  PrInT(  ""honeydew""  )
+  PrInT(  ""banana""  )
+  PrInT(  ""fig""  )",0
+"  PrInT(  ""apple""  )
+  PrInT(  ""cherry""  )",0
+"  PrInT(  ""honeydew""  )",0
+"  PrInT(  ""fig""  )
+  PrInT(  ""elderberry""  )
+  PrInT(  ""fig""  )
+  PrInT(  ""grape""  )
+  PrInT(  ""cherry""  )",0
+"  PrInT(  ""grape""  )
+  PrInT(  ""elderberry""  )",0
+"  PrInT(  ""elderberry""  )
+  PrInT(  ""fig""  )
+  PrInT(  ""cherry""  )",0
+"  PrInT(  ""cherry""  )
+  PrInT(  ""honeydew""  )
+  PrInT(  ""apple""  )",0
+"  PrInT(  ""apple""  )
+  PrInT(  ""honeydew""  )
+  PrInT(  ""date""  )
+  PrInT(  ""banana""  )
+  PrInT(  ""elderberry""  )",0
+"  PrInT(  ""grape""  )
+  PrInT(  ""banana""  )",0
+"  PrInT(  ""cherry""  )
+  PrInT(  ""apple""  )
+  PrInT(  ""elderberry""  )
+  PrInT(  ""banana""  )",0
+"  PrInT(  ""apple""  )
+  PrInT(  ""grape""  )
+  PrInT(  ""banana""  )
+  PrInT(  ""fig""  )
+  PrInT(  ""apple""  )",0
+"  PrInT(  ""grape""  )
+  PrInT(  ""banana""  )
+  PrInT(  ""cherry""  )",0
+"  PrInT(  ""apple""  )
+  PrInT(  ""honeydew""  )
+  PrInT(  ""honeydew""  )
+  PrInT(  ""grape""  )
+  PrInT(  ""honeydew""  )",0
+"  PrInT(  ""grape""  )",0
+"  PrInT(  ""apple""  )
+  PrInT(  ""apple""  )
+  PrInT(  ""elderberry""  )
+  PrInT(  ""fig""  )
+  PrInT(  ""date""  )",0
+"  PrInT(  ""cherry""  )
+  PrInT(  ""honeydew""  )",0
+"  PrInT(  ""apple""  )
+  PrInT(  ""fig""  )
+  PrInT(  ""apple""  )
+  PrInT(  ""honeydew""  )
+  PrInT(  ""elderberry""  )",0
+"  PrInT(  ""cherry""  )
+  PrInT(  ""grape""  )
+  PrInT(  ""elderberry""  )",0
+"  PrInT(  ""grape""  )
+  PrInT(  ""grape""  )
+  PrInT(  ""elderberry""  )
+  PrInT(  ""date""  )",0
+"  PrInT(  ""cherry""  )
+  PrInT(  ""cherry""  )
+  PrInT(  ""fig""  )
+  PrInT(  ""date""  )",0
+"  PrInT(  ""honeydew""  )",0
+"  PrInT(  ""grape""  )",0
+"  PrInT(  ""fig""  )",0
+"  PrInT(  ""date""  )",0
+"  PrInT(  ""honeydew""  )
+  PrInT(  ""grape""  )
+  PrInT(  ""grape""  )",0
+"  PrInT(  ""elderberry""  )
+  PrInT(  ""elderberry""  )
+  PrInT(  ""date""  )
+  PrInT(  ""apple""  )",0
+"  PrInT(  ""honeydew""  )
+  PrInT(  ""honeydew""  )
+  PrInT(  ""apple""  )
+  PrInT(  ""apple""  )",0
+"  PrInT(  ""elderberry""  )
+  PrInT(  ""cherry""  )
+  PrInT(  ""elderberry""  )
+  PrInT(  ""banana""  )",0
+"  PrInT(  ""elderberry""  )
+  PrInT(  ""date""  )",0
+"  PrInT(  ""apple""  )
+  PrInT(  ""fig""  )
+  PrInT(  ""elderberry""  )
+  PrInT(  ""honeydew""  )",0
+"  PrInT(  ""grape""  )
+  PrInT(  ""elderberry""  )
+  PrInT(  ""banana""  )
+  PrInT(  ""grape""  )",0
+"  PrInT(  ""honeydew""  )
+  PrInT(  ""elderberry""  )
+  PrInT(  ""grape""  )
+  PrInT(  ""apple""  )
+  PrInT(  ""cherry""  )",0
+"  PrInT(  ""banana""  )
+  PrInT(  ""honeydew""  )
+  PrInT(  ""fig""  )
+  PrInT(  ""date""  )",0
+"  PrInT(  ""fig""  )
+  PrInT(  ""banana""  )
+  PrInT(  ""date""  )
+  PrInT(  ""apple""  )",0
+"  PrInT(  ""apple""  )
+  PrInT(  ""fig""  )
+  PrInT(  ""banana""  )",0
+"  PrInT(  ""date""  )
+  PrInT(  ""cherry""  )
+  PrInT(  ""honeydew""  )",0
+"  PrInT(  ""honeydew""  )
+  PrInT(  ""cherry""  )
+  PrInT(  ""date""  )",0
+"  PrInT(  ""date""  )",0
+"  PrInT(  ""elderberry""  )
+  PrInT(  ""date""  )
+  PrInT(  ""date""  )
+  PrInT(  ""honeydew""  )",0
+"  PrInT(  ""apple""  )
+  PrInT(  ""fig""  )",0
+"  PrInT(  ""banana""  )
+  PrInT(  ""grape""  )
+  PrInT(  ""date""  )",0
+"  PrInT(  ""apple""  )
+  PrInT(  ""date""  )
+  PrInT(  ""fig""  )
+  PrInT(  ""fig""  )
+  PrInT(  ""fig""  )",0
+"  PrInT(  ""date""  )
+  PrInT(  ""grape""  )
+  PrInT(  ""elderberry""  )",0
+"  PrInT(  ""cherry""  )
+  PrInT(  ""date""  )
+  PrInT(  ""elderberry""  )",0
+"  PrInT(  ""fig""  )
+  PrInT(  ""date""  )",0
+"  PrInT(  ""honeydew""  )
+  PrInT(  ""apple""  )
+  PrInT(  ""honeydew""  )
+  PrInT(  ""elderberry""  )
+  PrInT(  ""elderberry""  )",0
+"  PrInT(  ""date""  )
+  PrInT(  ""honeydew""  )
+  PrInT(  ""apple""  )
+  PrInT(  ""date""  )",0
+"  PrInT(  ""apple""  )
+  PrInT(  ""honeydew""  )
+  PrInT(  ""honeydew""  )",0
+"  PrInT(  ""honeydew""  )",0
+"  PrInT(  ""cherry""  )
+  PrInT(  ""grape""  )",0
+"  PrInT(  ""honeydew""  )
+  PrInT(  ""cherry""  )
+  PrInT(  ""date""  )
+  PrInT(  ""fig""  )",0
+"  PrInT(  ""grape""  )
+  PrInT(  ""date""  )
+  PrInT(  ""date""  )",0
+"  PrInT(  ""grape""  )
+  PrInT(  ""cherry""  )
+  PrInT(  ""date""  )
+  PrInT(  ""elderberry""  )",0
+"  PrInT(  ""elderberry""  )
+  PrInT(  ""grape""  )
+  PrInT(  ""date""  )
+  PrInT(  ""honeydew""  )",0
+"  PrInT(  ""cherry""  )
+  PrInT(  ""honeydew""  )",0
+"  PrInT(  ""banana""  )
+  PrInT(  ""elderberry""  )
+  PrInT(  ""apple""  )",0
+"  PrInT(  ""honeydew""  )
+  PrInT(  ""elderberry""  )",0
+"  PrInT(  ""date""  )
+  PrInT(  ""honeydew""  )
+  PrInT(  ""banana""  )",0
+"  PrInT(  ""cherry""  )
+  PrInT(  ""cherry""  )
+  PrInT(  ""banana""  )
+  PrInT(  ""elderberry""  )",0
+"  PrInT(  ""banana""  )
+  PrInT(  ""apple""  )
+  PrInT(  ""grape""  )
+  PrInT(  ""fig""  )
+  PrInT(  ""fig""  )",0
+"  PrInT(  ""elderberry""  )",0
+"  PrInT(  ""banana""  )
+  PrInT(  ""grape""  )
+  PrInT(  ""honeydew""  )
+  PrInT(  ""date""  )
+  PrInT(  ""apple""  )",0
+"  PrInT(  ""fig""  )
+  PrInT(  ""cherry""  )
+  PrInT(  ""banana""  )
+  PrInT(  ""fig""  )",0
+"  PrInT(  ""fig""  )
+  PrInT(  ""fig""  )
+  PrInT(  ""apple""  )
+  PrInT(  ""honeydew""  )",0
+"  PrInT(  ""honeydew""  )
+  PrInT(  ""cherry""  )
+  PrInT(  ""banana""  )
+  PrInT(  ""apple""  )
+  PrInT(  ""grape""  )",0
+"  PrInT(  ""honeydew""  )",0
+"  PrInT(  ""cherry""  )
+  PrInT(  ""elderberry""  )
+  PrInT(  ""honeydew""  )",0
+"  PrInT(  ""banana""  )
+  PrInT(  ""fig""  )
+  PrInT(  ""cherry""  )",0
+"  PrInT(  ""apple""  )
+  PrInT(  ""date""  )
+  PrInT(  ""date""  )
+  PrInT(  ""honeydew""  )
+  PrInT(  ""date""  )",0
+"  PrInT(  ""date""  )
+  PrInT(  ""grape""  )
+  PrInT(  ""apple""  )",0
+"  PrInT(  ""fig""  )
+  PrInT(  ""elderberry""  )",0
+"  PrInT(  ""date""  )
+  PrInT(  ""grape""  )",0
+"  PrInT(  ""banana""  )
+  PrInT(  ""cherry""  )
+  PrInT(  ""banana""  )",0
+"  PrInT(  ""elderberry""  )",0
+"  PrInT(  ""elderberry""  )
+  PrInT(  ""grape""  )",0
+"  PrInT(  ""honeydew""  )
+  PrInT(  ""cherry""  )
+  PrInT(  ""cherry""  )
+  PrInT(  ""honeydew""  )",0
+"  PrInT(  ""date""  )",0
+"  PrInT(  ""banana""  )
+  PrInT(  ""cherry""  )
+  PrInT(  ""date""  )
+  PrInT(  ""apple""  )",0
+"  PrInT(  ""cherry""  )
+  PrInT(  ""elderberry""  )
+  PrInT(  ""grape""  )
+  PrInT(  ""cherry""  )",0
+"  PrInT(  ""fig""  )
+  PrInT(  ""elderberry""  )
+  PrInT(  ""elderberry""  )
+  PrInT(  ""honeydew""  )",0
+"  PrInT(  ""banana""  )
+  PrInT(  ""fig""  )",0
+"  PrInT(  ""honeydew""  )
+  PrInT(  ""elderberry""  )",0
+"  PrInT(  ""cherry""  )
+  PrInT(  ""cherry""  )",0
+"  PrInT(  ""fig""  )",0
+"  PrInT(  ""grape""  )
+  PrInT(  ""banana""  )
+  PrInT(  ""banana""  )
+  PrInT(  ""elderberry""  )",0
+"  PrInT(  ""banana""  )
+  PrInT(  ""cherry""  )
+  PrInT(  ""elderberry""  )",0
+"  PrInT(  ""apple""  )
+  PrInT(  ""banana""  )
+  PrInT(  ""date""  )",0
+"  PrInT(  ""elderberry""  )
+  PrInT(  ""date""  )
+  PrInT(  ""date""  )
+  PrInT(  ""grape""  )
+  PrInT(  ""grape""  )",0
+"  PrInT(  ""fig""  )",0
+"  PrInT(  ""grape""  )
+  PrInT(  ""banana""  )
+  PrInT(  ""elderberry""  )
+  PrInT(  ""fig""  )",0
+"  PrInT(  ""apple""  )",0
+"  PrInT(  ""fig""  )",0
+"  PrInT(  ""apple""  )
+  PrInT(  ""grape""  )
+  PrInT(  ""honeydew""  )
+  PrInT(  ""honeydew""  )",0
+"  PrInT(  ""elderberry""  )
+  PrInT(  ""date""  )",0
+"  PrInT(  ""date""  )",0
+"  PrInT(  ""honeydew""  )
+  PrInT(  ""cherry""  )",0
+"  PrInT(  ""cherry""  )",0
+"  PrInT(  ""banana""  )
+  PrInT(  ""elderberry""  )
+  PrInT(  ""apple""  )
+  PrInT(  ""grape""  )",0
+"  PrInT(  ""apple""  )",0
+"  PrInT(  ""date""  )
+  PrInT(  ""cherry""  )",0
+"  PrInT(  ""honeydew""  )
+  PrInT(  ""honeydew""  )
+  PrInT(  ""banana""  )
+  PrInT(  ""date""  )",0
+"  PrInT(  ""date""  )",0
+"  PrInT(  ""date""  )
+  PrInT(  ""apple""  )
+  PrInT(  ""honeydew""  )
+  PrInT(  ""banana""  )",0
+"  PrInT(  ""fig""  )",0
+"  PrInT(  ""apple""  )
+  PrInT(  ""banana""  )
+  PrInT(  ""date""  )
+  PrInT(  ""apple""  )
+  PrInT(  ""cherry""  )",0
+"  PrInT(  ""grape""  )
+  PrInT(  ""date""  )
+  PrInT(  ""cherry""  )",0
+"  PrInT(  ""date""  )
+  PrInT(  ""cherry""  )
+  PrInT(  ""honeydew""  )",0
+"  PrInT(  ""honeydew""  )
+  PrInT(  ""date""  )",0
+"  PrInT(  ""elderberry""  )
+  PrInT(  ""honeydew""  )",0
+"  PrInT(  ""honeydew""  )
+  PrInT(  ""cherry""  )
+  PrInT(  ""apple""  )
+  PrInT(  ""fig""  )",0
+"  PrInT(  ""cherry""  )
+  PrInT(  ""apple""  )",0
+"  PrInT(  ""apple""  )
+  PrInT(  ""grape""  )",0
+"  PrInT(  ""date""  )
+  PrInT(  ""banana""  )",0
+"  PrInT(  ""banana""  )
+  PrInT(  ""grape""  )",0
+"  PrInT(  ""grape""  )
+  PrInT(  ""banana""  )
+  PrInT(  ""elderberry""  )
+  PrInT(  ""fig""  )
+  PrInT(  ""elderberry""  )",0
+"  PrInT(  ""date""  )
+  PrInT(  ""banana""  )
+  PrInT(  ""fig""  )
+  PrInT(  ""date""  )
+  PrInT(  ""apple""  )",0
+"  PrInT(  ""grape""  )
+  PrInT(  ""fig""  )
+  PrInT(  ""grape""  )
+  PrInT(  ""fig""  )",0
+"  PrInT(  ""date""  )
+  PrInT(  ""grape""  )
+  PrInT(  ""grape""  )",0
+"  PrInT(  ""apple""  )",0
+"  PrInT(  ""apple""  )
+  PrInT(  ""cherry""  )
+  PrInT(  ""honeydew""  )",0
+"  PrInT(  ""cherry""  )
+  PrInT(  ""fig""  )
+  PrInT(  ""cherry""  )
+  PrInT(  ""honeydew""  )
+  PrInT(  ""grape""  )",0
+"  PrInT(  ""apple""  )
+  PrInT(  ""cherry""  )",0
+"  PrInT(  ""elderberry""  )
+  PrInT(  ""grape""  )",0
+"  PrInT(  ""date""  )
+  PrInT(  ""cherry""  )",0
+"  PrInT(  ""cherry""  )
+  PrInT(  ""elderberry""  )
+  PrInT(  ""apple""  )
+  PrInT(  ""apple""  )",0
+"  PrInT(  ""cherry""  )
+  PrInT(  ""fig""  )
+  PrInT(  ""date""  )
+  PrInT(  ""date""  )
+  PrInT(  ""honeydew""  )",0
+"  PrInT(  ""banana""  )
+  PrInT(  ""honeydew""  )",0
+"  PrInT(  ""grape""  )
+  PrInT(  ""elderberry""  )",0
+"  PrInT(  ""fig""  )
+  PrInT(  ""cherry""  )
+  PrInT(  ""cherry""  )
+  PrInT(  ""apple""  )
+  PrInT(  ""apple""  )",0
+"  PrInT(  ""fig""  )
+  PrInT(  ""date""  )
+  PrInT(  ""honeydew""  )",0
+"  PrInT(  ""elderberry""  )
+  PrInT(  ""elderberry""  )
+  PrInT(  ""date""  )
+  PrInT(  ""grape""  )
+  PrInT(  ""apple""  )",0
+"  PrInT(  ""date""  )",0
+"  PrInT(  ""cherry""  )
+  PrInT(  ""fig""  )
+  PrInT(  ""elderberry""  )
+  PrInT(  ""fig""  )",0
+"  PrInT(  ""elderberry""  )
+  PrInT(  ""elderberry""  )",0
+"  PrInT(  ""fig""  )
+  PrInT(  ""grape""  )
+  PrInT(  ""fig""  )
+  PrInT(  ""apple""  )",0
+"  PrInT(  ""date""  )
+  PrInT(  ""honeydew""  )",0
+"  PrInT(  ""honeydew""  )
+  PrInT(  ""elderberry""  )
+  PrInT(  ""banana""  )
+  PrInT(  ""fig""  )
+  PrInT(  ""date""  )",0
+"  PrInT(  ""fig""  )
+  PrInT(  ""fig""  )
+  PrInT(  ""cherry""  )
+  PrInT(  ""honeydew""  )",0
+"  PrInT(  ""apple""  )
+  PrInT(  ""cherry""  )",0
+"  PrInT(  ""fig""  )
+  PrInT(  ""honeydew""  )
+  PrInT(  ""banana""  )
+  PrInT(  ""grape""  )",0
+"  PrInT(  ""honeydew""  )",0
+"  PrInT(  ""banana""  )
+  PrInT(  ""cherry""  )
+  PrInT(  ""date""  )
+  PrInT(  ""grape""  )
+  PrInT(  ""elderberry""  )",0
+"  PrInT(  ""banana""  )
+  PrInT(  ""cherry""  )",0
+"  PrInT(  ""fig""  )",0
+"  PrInT(  ""banana""  )
+  PrInT(  ""fig""  )",0
+"  PrInT(  ""elderberry""  )
+  PrInT(  ""date""  )
+  PrInT(  ""honeydew""  )",0
+"  PrInT(  ""grape""  )
+  PrInT(  ""fig""  )
+  PrInT(  ""cherry""  )",0
+"  PrInT(  ""elderberry""  )
+  PrInT(  ""apple""  )",0
+"  PrInT(  ""fig""  )
+  PrInT(  ""honeydew""  )
+  PrInT(  ""elderberry""  )",0
+"  PrInT(  ""apple""  )",0
+"  PrInT(  ""fig""  )
+  PrInT(  ""fig""  )
+  PrInT(  ""fig""  )
+  PrInT(  ""fig""  )
+  PrInT(  ""honeydew""  )",0
+"  PrInT(  ""honeydew""  )
+  PrInT(  ""honeydew""  )
+  PrInT(  ""banana""  )",0
+"  PrInT(  ""cherry""  )
+  PrInT(  ""grape""  )
+  PrInT(  ""banana""  )",0
+"  PrInT(  ""elderberry""  )",0
+"  PrInT(  ""grape""  )
+  PrInT(  ""fig""  )",0
+"  PrInT(  ""elderberry""  )
+  PrInT(  ""cherry""  )
+  PrInT(  ""apple""  )",0
+"  PrInT(  ""date""  )",0
+"  PrInT(  ""fig""  )
+  PrInT(  ""date""  )",0
+"  PrInT(  ""grape""  )",0
+"  PrInT(  ""fig""  )
+  PrInT(  ""grape""  )
+  PrInT(  ""banana""  )
+  PrInT(  ""elderberry""  )
+  PrInT(  ""apple""  )",0
+"  PrInT(  ""fig""  )
+  PrInT(  ""grape""  )",0
+"  PrInT(  ""honeydew""  )
+  PrInT(  ""banana""  )
+  PrInT(  ""cherry""  )
+  PrInT(  ""banana""  )",0
+"  PrInT(  ""elderberry""  )
+  PrInT(  ""elderberry""  )",0
+"  PrInT(  ""banana""  )
+  PrInT(  ""grape""  )
+  PrInT(  ""date""  )
+  PrInT(  ""grape""  )",0
+"  PrInT(  ""apple""  )",0
+"  PrInT(  ""grape""  )
+  PrInT(  ""honeydew""  )
+  PrInT(  ""cherry""  )
+  PrInT(  ""elderberry""  )",0
+"  PrInT(  ""grape""  )
+  PrInT(  ""date""  )",0
+"  PrInT(  ""banana""  )
+  PrInT(  ""cherry""  )
+  PrInT(  ""grape""  )
+  PrInT(  ""banana""  )
+  PrInT(  ""honeydew""  )",0
+"  PrInT(  ""grape""  )
+  PrInT(  ""fig""  )
+  PrInT(  ""elderberry""  )",0
+"  PrInT(  ""apple""  )
+  PrInT(  ""elderberry""  )
+  PrInT(  ""cherry""  )",0
+"  PrInT(  ""grape""  )",0
+"  PrInT(  ""cherry""  )
+  PrInT(  ""grape""  )
+  PrInT(  ""grape""  )
+  PrInT(  ""honeydew""  )",0
+"  PrInT(  ""honeydew""  )
+  PrInT(  ""cherry""  )
+  PrInT(  ""elderberry""  )",0
+"  PrInT(  ""date""  )
+  PrInT(  ""banana""  )
+  PrInT(  ""elderberry""  )",0
+"  PrInT(  ""cherry""  )
+  PrInT(  ""elderberry""  )
+  PrInT(  ""elderberry""  )
+  PrInT(  ""date""  )
+  PrInT(  ""date""  )",0
+"  PrInT(  ""grape""  )
+  PrInT(  ""date""  )
+  PrInT(  ""date""  )
+  PrInT(  ""grape""  )
+  PrInT(  ""date""  )",0
+"  PrInT(  ""banana""  )
+  PrInT(  ""cherry""  )
+  PrInT(  ""elderberry""  )
+  PrInT(  ""date""  )",0
+"  PrInT(  ""apple""  )
+  PrInT(  ""fig""  )
+  PrInT(  ""elderberry""  )",0
+"  PrInT(  ""honeydew""  )
+  PrInT(  ""banana""  )
+  PrInT(  ""apple""  )",0
+"  PrInT(  ""honeydew""  )
+  PrInT(  ""fig""  )",0
+"  PrInT(  ""date""  )
+  PrInT(  ""grape""  )",0
+"  PrInT(  ""apple""  )",0
+"  PrInT(  ""banana""  )",0
+"  PrInT(  ""grape""  )
+  PrInT(  ""date""  )",0
+"  PrInT(  ""fig""  )
+  PrInT(  ""fig""  )
+  PrInT(  ""date""  )
+  PrInT(  ""banana""  )
+  PrInT(  ""cherry""  )",0
+"  PrInT(  ""banana""  )",0
+"  PrInT(  ""fig""  )
+  PrInT(  ""elderberry""  )
+  PrInT(  ""cherry""  )",0
+"  PrInT(  ""apple""  )
+  PrInT(  ""date""  )",0
+"  PrInT(  ""fig""  )
+  PrInT(  ""apple""  )
+  PrInT(  ""honeydew""  )
+  PrInT(  ""cherry""  )",0
+"  PrInT(  ""banana""  )",0
+"  PrInT(  ""cherry""  )
+  PrInT(  ""cherry""  )
+  PrInT(  ""fig""  )
+  PrInT(  ""honeydew""  )",0
+"  PrInT(  ""apple""  )
+  PrInT(  ""apple""  )
+  PrInT(  ""cherry""  )
+  PrInT(  ""banana""  )",0
+"  PrInT(  ""banana""  )
+  PrInT(  ""apple""  )",0
+"  PrInT(  ""cherry""  )
+  PrInT(  ""grape""  )
+  PrInT(  ""date""  )
+  PrInT(  ""date""  )
+  PrInT(  ""banana""  )",0
+"  PrInT(  ""banana""  )
+  PrInT(  ""grape""  )
+  PrInT(  ""apple""  )",0
+"  PrInT(  ""grape""  )
+  PrInT(  ""cherry""  )
+  PrInT(  ""honeydew""  )",0
+"  PrInT(  ""banana""  )
+  PrInT(  ""grape""  )
+  PrInT(  ""honeydew""  )",0
+"  PrInT(  ""cherry""  )
+  PrInT(  ""banana""  )
+  PrInT(  ""grape""  )
+  PrInT(  ""grape""  )",0
+"  PrInT(  ""apple""  )",0
+"  PrInT(  ""date""  )
+  PrInT(  ""honeydew""  )
+  PrInT(  ""fig""  )
+  PrInT(  ""elderberry""  )
+  PrInT(  ""apple""  )",0
+"  PrInT(  ""grape""  )
+  PrInT(  ""grape""  )
+  PrInT(  ""honeydew""  )",0
+"  PrInT(  ""date""  )
+  PrInT(  ""grape""  )",0
+"  PrInT(  ""elderberry""  )",0
+"  PrInT(  ""date""  )
+  PrInT(  ""grape""  )
+  PrInT(  ""banana""  )
+  PrInT(  ""cherry""  )",0
+"  PrInT(  ""banana""  )
+  PrInT(  ""date""  )
+  PrInT(  ""fig""  )
+  PrInT(  ""apple""  )",0
+"  PrInT(  ""date""  )
+  PrInT(  ""honeydew""  )
+  PrInT(  ""grape""  )",0
+"  PrInT(  ""banana""  )
+  PrInT(  ""fig""  )",0
+"  PrInT(  ""honeydew""  )
+  PrInT(  ""honeydew""  )
+  PrInT(  ""grape""  )
+  PrInT(  ""fig""  )",0
+"  PrInT(  ""honeydew""  )",0
+"  PrInT(  ""elderberry""  )
+  PrInT(  ""honeydew""  )
+  PrInT(  ""apple""  )
+  PrInT(  ""elderberry""  )",0
+"  PrInT(  ""honeydew""  )
+  PrInT(  ""grape""  )
+  PrInT(  ""apple""  )",0
+"  PrInT(  ""elderberry""  )
+  PrInT(  ""banana""  )
+  PrInT(  ""apple""  )
+  PrInT(  ""cherry""  )",0
+"  PrInT(  ""date""  )",0
+"  PrInT(  ""honeydew""  )",0
+"  PrInT(  ""grape""  )",0
+"  PrInT(  ""honeydew""  )
+  PrInT(  ""cherry""  )
+  PrInT(  ""cherry""  )
+  PrInT(  ""banana""  )
+  PrInT(  ""elderberry""  )",0
+"  PrInT(  ""banana""  )",0
+"  PrInT(  ""cherry""  )
+  PrInT(  ""honeydew""  )",0
+"  PrInT(  ""apple""  )
+  PrInT(  ""cherry""  )
+  PrInT(  ""banana""  )
+  PrInT(  ""cherry""  )",0
+"  PrInT(  ""banana""  )
+  PrInT(  ""honeydew""  )",0
+"  PrInT(  ""banana""  )",0
+"  PrInT(  ""grape""  )
+  PrInT(  ""banana""  )",0
+"  PrInT(  ""grape""  )
+  PrInT(  ""fig""  )
+  PrInT(  ""banana""  )
+  PrInT(  ""apple""  )",0
+"  PrInT(  ""banana""  )
+  PrInT(  ""grape""  )
+  PrInT(  ""elderberry""  )
+  PrInT(  ""cherry""  )",0
+"  PrInT(  ""cherry""  )",0
+"  PrInT(  ""banana""  )
+  PrInT(  ""date""  )
+  PrInT(  ""cherry""  )
+  PrInT(  ""elderberry""  )",0
+"  PrInT(  ""grape""  )
+  PrInT(  ""fig""  )
+  PrInT(  ""fig""  )
+  PrInT(  ""elderberry""  )",0
+"  PrInT(  ""banana""  )
+  PrInT(  ""elderberry""  )",0
+"  PrInT(  ""fig""  )
+  PrInT(  ""banana""  )",0
+"  PrInT(  ""apple""  )
+  PrInT(  ""banana""  )",0
+"  PrInT(  ""honeydew""  )
+  PrInT(  ""honeydew""  )
+  PrInT(  ""banana""  )
+  PrInT(  ""cherry""  )",0
+"  PrInT(  ""banana""  )
+  PrInT(  ""elderberry""  )
+  PrInT(  ""honeydew""  )
+  PrInT(  ""honeydew""  )",0
+"  PrInT(  ""fig""  )",0
+"  PrInT(  ""grape""  )
+  PrInT(  ""cherry""  )",0
+"  PrInT(  ""grape""  )
+  PrInT(  ""elderberry""  )",0
+"  PrInT(  ""fig""  )",0
+"  PrInT(  ""elderberry""  )
+  PrInT(  ""date""  )
+  PrInT(  ""grape""  )",0
+"  PrInT(  ""date""  )
+  PrInT(  ""fig""  )
+  PrInT(  ""cherry""  )
+  PrInT(  ""fig""  )",0
+"  PrInT(  ""apple""  )
+  PrInT(  ""elderberry""  )
+  PrInT(  ""honeydew""  )",0
+"  PrInT(  ""honeydew""  )
+  PrInT(  ""date""  )
+  PrInT(  ""honeydew""  )",0
+"  PrInT(  ""elderberry""  )
+  PrInT(  ""cherry""  )
+  PrInT(  ""cherry""  )",0
+"  PrInT(  ""grape""  )
+  PrInT(  ""elderberry""  )
+  PrInT(  ""date""  )
+  PrInT(  ""honeydew""  )
+  PrInT(  ""elderberry""  )",0
+"  PrInT(  ""fig""  )
+  PrInT(  ""cherry""  )",0
+"  PrInT(  ""fig""  )
+  PrInT(  ""honeydew""  )",0
+"  PrInT(  ""honeydew""  )
+  PrInT(  ""elderberry""  )
+  PrInT(  ""elderberry""  )
+  PrInT(  ""banana""  )
+  PrInT(  ""fig""  )",0
+"  PrInT(  ""elderberry""  )",0
+"  PrInT(  ""banana""  )
+  PrInT(  ""fig""  )",0
+"  PrInT(  ""fig""  )
+  PrInT(  ""date""  )
+  PrInT(  ""apple""  )
+  PrInT(  ""cherry""  )",0
+"  PrInT(  ""fig""  )
+  PrInT(  ""elderberry""  )",0
+"  PrInT(  ""date""  )",0
+"  PrInT(  ""honeydew""  )
+  PrInT(  ""apple""  )",0
+"  PrInT(  ""fig""  )
+  PrInT(  ""fig""  )
+  PrInT(  ""cherry""  )
+  PrInT(  ""date""  )
+  PrInT(  ""banana""  )",0
+"  PrInT(  ""apple""  )
+  PrInT(  ""grape""  )
+  PrInT(  ""elderberry""  )
+  PrInT(  ""elderberry""  )
+  PrInT(  ""fig""  )",0
+"  PrInT(  ""apple""  )
+  PrInT(  ""banana""  )
+  PrInT(  ""cherry""  )
+  PrInT(  ""cherry""  )
+  PrInT(  ""fig""  )",0
+"  PrInT(  ""honeydew""  )
+  PrInT(  ""cherry""  )
+  PrInT(  ""elderberry""  )
+  PrInT(  ""grape""  )",0
+"  PrInT(  ""fig""  )
+  PrInT(  ""apple""  )
+  PrInT(  ""date""  )
+  PrInT(  ""date""  )
+  PrInT(  ""date""  )",0
+"  PrInT(  ""date""  )
+  PrInT(  ""honeydew""  )
+  PrInT(  ""banana""  )
+  PrInT(  ""date""  )",0
+"  PrInT(  ""honeydew""  )
+  PrInT(  ""honeydew""  )
+  PrInT(  ""date""  )
+  PrInT(  ""fig""  )",0
+"  PrInT(  ""banana""  )
+  PrInT(  ""elderberry""  )",0
+"  PrInT(  ""cherry""  )
+  PrInT(  ""elderberry""  )
+  PrInT(  ""cherry""  )
+  PrInT(  ""fig""  )",0
+"  PrInT(  ""elderberry""  )",0
+"  PrInT(  ""fig""  )
+  PrInT(  ""date""  )
+  PrInT(  ""date""  )",0
+"  PrInT(  ""grape""  )
+  PrInT(  ""banana""  )
+  PrInT(  ""apple""  )
+  PrInT(  ""date""  )
+  PrInT(  ""cherry""  )",0
+"  PrInT(  ""apple""  )",0
+"  PrInT(  ""banana""  )
+  PrInT(  ""date""  )",0
+"  PrInT(  ""apple""  )
+  PrInT(  ""grape""  )
+  PrInT(  ""banana""  )",0
+"  PrInT(  ""apple""  )",0
+"  PrInT(  ""grape""  )",0
+"  PrInT(  ""banana""  )
+  PrInT(  ""date""  )",0
+"  PrInT(  ""apple""  )
+  PrInT(  ""banana""  )
+  PrInT(  ""cherry""  )
+  PrInT(  ""grape""  )
+  PrInT(  ""fig""  )",0
+"  PrInT(  ""banana""  )
+  PrInT(  ""fig""  )
+  PrInT(  ""apple""  )
+  PrInT(  ""honeydew""  )
+  PrInT(  ""banana""  )",0
+"  PrInT(  ""elderberry""  )
+  PrInT(  ""banana""  )",0
+"  PrInT(  ""honeydew""  )
+  PrInT(  ""fig""  )",0
+"  PrInT(  ""elderberry""  )",0
+"  PrInT(  ""honeydew""  )
+  PrInT(  ""elderberry""  )
+  PrInT(  ""honeydew""  )
+  PrInT(  ""grape""  )",0
+"  PrInT(  ""cherry""  )
+  PrInT(  ""apple""  )
+  PrInT(  ""banana""  )
+  PrInT(  ""elderberry""  )
+  PrInT(  ""honeydew""  )",0
+"  PrInT(  ""apple""  )
+  PrInT(  ""cherry""  )
+  PrInT(  ""apple""  )
+  PrInT(  ""apple""  )",0
+"  PrInT(  ""banana""  )
+  PrInT(  ""fig""  )
+  PrInT(  ""grape""  )
+  PrInT(  ""cherry""  )",0
+"  PrInT(  ""cherry""  )
+  PrInT(  ""banana""  )",0
+"  PrInT(  ""honeydew""  )
+  PrInT(  ""cherry""  )",0
+"  PrInT(  ""honeydew""  )
+  PrInT(  ""elderberry""  )",0
+"  PrInT(  ""cherry""  )
+  PrInT(  ""fig""  )
+  PrInT(  ""apple""  )
+  PrInT(  ""grape""  )
+  PrInT(  ""fig""  )",0
+"  PrInT(  ""cherry""  )
+  PrInT(  ""cherry""  )
+  PrInT(  ""apple""  )
+  PrInT(  ""banana""  )",0
+"  PrInT(  ""date""  )
+  PrInT(  ""fig""  )
+  PrInT(  ""elderberry""  )",0
+"  PrInT(  ""date""  )
+  PrInT(  ""grape""  )
+  PrInT(  ""elderberry""  )
+  PrInT(  ""banana""  )
+  PrInT(  ""fig""  )",0
+"  PrInT(  ""cherry""  )",0
+"  PrInT(  ""banana""  )
+  PrInT(  ""honeydew""  )
+  PrInT(  ""grape""  )
+  PrInT(  ""grape""  )
+  PrInT(  ""banana""  )",0
+"  PrInT(  ""honeydew""  )
+  PrInT(  ""grape""  )
+  PrInT(  ""date""  )
+  PrInT(  ""date""  )",0
+"  PrInT(  ""honeydew""  )
+  PrInT(  ""date""  )
+  PrInT(  ""cherry""  )
+  PrInT(  ""honeydew""  )",0
+"  PrInT(  ""fig""  )",0
+"  PrInT(  ""elderberry""  )",0
+"  PrInT(  ""honeydew""  )
+  PrInT(  ""fig""  )
+  PrInT(  ""fig""  )
+  PrInT(  ""date""  )
+  PrInT(  ""apple""  )",0
+"  PrInT(  ""cherry""  )
+  PrInT(  ""banana""  )
+  PrInT(  ""apple""  )",0
+"  PrInT(  ""honeydew""  )
+  PrInT(  ""banana""  )",0
+"  PrInT(  ""date""  )
+  PrInT(  ""cherry""  )
+  PrInT(  ""fig""  )
+  PrInT(  ""fig""  )
+  PrInT(  ""grape""  )",0
+"  PrInT(  ""fig""  )
+  PrInT(  ""date""  )",0
+"  PrInT(  ""cherry""  )",0
+"  PrInT(  ""honeydew""  )
+  PrInT(  ""honeydew""  )
+  PrInT(  ""apple""  )
+  PrInT(  ""apple""  )
+  PrInT(  ""banana""  )",0
+"  PrInT(  ""cherry""  )
+  PrInT(  ""date""  )
+  PrInT(  ""cherry""  )",0
+"  PrInT(  ""apple""  )",0
+"  PrInT(  ""cherry""  )
+  PrInT(  ""fig""  )
+  PrInT(  ""apple""  )",0
+"  PrInT(  ""banana""  )
+  PrInT(  ""date""  )
+  PrInT(  ""banana""  )
+  PrInT(  ""date""  )",0
+"  PrInT(  ""cherry""  )
+  PrInT(  ""banana""  )",0
+"  PrInT(  ""banana""  )
+  PrInT(  ""cherry""  )",0
+"  PrInT(  ""banana""  )
+  PrInT(  ""fig""  )
+  PrInT(  ""banana""  )",0
+"  PrInT(  ""elderberry""  )
+  PrInT(  ""honeydew""  )
+  PrInT(  ""honeydew""  )",0
+"  PrInT(  ""date""  )
+  PrInT(  ""apple""  )
+  PrInT(  ""banana""  )
+  PrInT(  ""banana""  )",0
+"  PrInT(  ""fig""  )
+  PrInT(  ""fig""  )
+  PrInT(  ""cherry""  )
+  PrInT(  ""grape""  )
+  PrInT(  ""date""  )",0
+"  PrInT(  ""banana""  )
+  PrInT(  ""cherry""  )
+  PrInT(  ""banana""  )
+  PrInT(  ""apple""  )
+  PrInT(  ""fig""  )",0
+"  PrInT(  ""apple""  )
+  PrInT(  ""grape""  )
+  PrInT(  ""grape""  )
+  PrInT(  ""apple""  )",0
+"  PrInT(  ""apple""  )
+  PrInT(  ""banana""  )
+  PrInT(  ""cherry""  )
+  PrInT(  ""banana""  )
+  PrInT(  ""grape""  )",0
+"  PrInT(  ""apple""  )
+  PrInT(  ""fig""  )
+  PrInT(  ""banana""  )
+  PrInT(  ""date""  )",0
+"  PrInT(  ""fig""  )
+  PrInT(  ""grape""  )
+  PrInT(  ""apple""  )
+  PrInT(  ""banana""  )
+  PrInT(  ""honeydew""  )",0
+"  PrInT(  ""apple""  )
+  PrInT(  ""elderberry""  )
+  PrInT(  ""cherry""  )",0
+"  PrInT(  ""apple""  )",0
+"  PrInT(  ""fig""  )
+  PrInT(  ""elderberry""  )
+  PrInT(  ""honeydew""  )
+  PrInT(  ""fig""  )",0
+"  PrInT(  ""date""  )",0
+"  PrInT(  ""cherry""  )
+  PrInT(  ""grape""  )",0
+"  PrInT(  ""banana""  )
+  PrInT(  ""fig""  )",0
+"  PrInT(  ""honeydew""  )
+  PrInT(  ""date""  )",0
+"  PrInT(  ""banana""  )",0
+"  PrInT(  ""grape""  )",0
+"  PrInT(  ""elderberry""  )
+  PrInT(  ""elderberry""  )
+  PrInT(  ""grape""  )",0
+"  PrInT(  ""cherry""  )",0
+"  PrInT(  ""fig""  )
+  PrInT(  ""elderberry""  )
+  PrInT(  ""banana""  )
+  PrInT(  ""date""  )",0
+"  PrInT(  ""apple""  )
+  PrInT(  ""banana""  )",0
+"  PrInT(  ""banana""  )
+  PrInT(  ""date""  )
+  PrInT(  ""elderberry""  )",0
+"  PrInT(  ""banana""  )
+  PrInT(  ""honeydew""  )
+  PrInT(  ""honeydew""  )",0
+"  PrInT(  ""grape""  )
+  PrInT(  ""grape""  )
+  PrInT(  ""date""  )
+  PrInT(  ""grape""  )",0
+"  PrInT(  ""banana""  )",0
+"  PrInT(  ""apple""  )",0
+"  PrInT(  ""elderberry""  )",0
+"  PrInT(  ""date""  )
+  PrInT(  ""cherry""  )",0
+"  PrInT(  ""cherry""  )
+  PrInT(  ""honeydew""  )
+  PrInT(  ""grape""  )",0
+"  PrInT(  ""date""  )
+  PrInT(  ""apple""  )
+  PrInT(  ""banana""  )",0
+"  PrInT(  ""cherry""  )
+  PrInT(  ""elderberry""  )
+  PrInT(  ""apple""  )",0
+"  PrInT(  ""elderberry""  )
+  PrInT(  ""fig""  )
+  PrInT(  ""cherry""  )
+  PrInT(  ""grape""  )
+  PrInT(  ""cherry""  )",0
+"  PrInT(  ""apple""  )
+  PrInT(  ""banana""  )
+  PrInT(  ""grape""  )",0
+"  PrInT(  ""apple""  )
+  PrInT(  ""banana""  )",0
+"  PrInT(  ""apple""  )
+  PrInT(  ""fig""  )
+  PrInT(  ""honeydew""  )",0
+"  PrInT(  ""grape""  )",0
+"  PrInT(  ""apple""  )
+  PrInT(  ""elderberry""  )
+  PrInT(  ""grape""  )
+  PrInT(  ""apple""  )",0
+"  PrInT(  ""grape""  )
+  PrInT(  ""elderberry""  )",0
+"  PrInT(  ""banana""  )
+  PrInT(  ""honeydew""  )",0
+"  PrInT(  ""apple""  )
+  PrInT(  ""grape""  )
+  PrInT(  ""date""  )
+  PrInT(  ""cherry""  )
+  PrInT(  ""honeydew""  )",0
+"  PrInT(  ""apple""  )",0
+"  PrInT(  ""fig""  )
+  PrInT(  ""apple""  )
+  PrInT(  ""cherry""  )
+  PrInT(  ""honeydew""  )
+  PrInT(  ""banana""  )",0
+"  PrInT(  ""banana""  )
+  PrInT(  ""elderberry""  )
+  PrInT(  ""fig""  )",0
+"  PrInT(  ""grape""  )
+  PrInT(  ""date""  )
+  PrInT(  ""fig""  )
+  PrInT(  ""apple""  )",0
+"  PrInT(  ""cherry""  )",0
+"  PrInT(  ""fig""  )
+  PrInT(  ""banana""  )",0
+"  PrInT(  ""cherry""  )
+  PrInT(  ""cherry""  )
+  PrInT(  ""cherry""  )",0
+"  PrInT(  ""cherry""  )
+  PrInT(  ""grape""  )
+  PrInT(  ""banana""  )
+  PrInT(  ""cherry""  )",0
+"  PrInT(  ""date""  )
+  PrInT(  ""banana""  )
+  PrInT(  ""date""  )",0
+"  PrInT(  ""banana""  )
+  PrInT(  ""banana""  )",0
+"  PrInT(  ""fig""  )
+  PrInT(  ""date""  )
+  PrInT(  ""cherry""  )
+  PrInT(  ""elderberry""  )
+  PrInT(  ""honeydew""  )",0
+"  PrInT(  ""honeydew""  )
+  PrInT(  ""grape""  )",0
+"  PrInT(  ""fig""  )",0
+"  PrInT(  ""elderberry""  )
+  PrInT(  ""cherry""  )",0
+"  PrInT(  ""banana""  )
+  PrInT(  ""apple""  )",0
+"  PrInT(  ""honeydew""  )
+  PrInT(  ""fig""  )
+  PrInT(  ""apple""  )
+  PrInT(  ""cherry""  )",0
+"  PrInT(  ""fig""  )
+  PrInT(  ""cherry""  )
+  PrInT(  ""elderberry""  )",0
+"  PrInT(  ""honeydew""  )
+  PrInT(  ""banana""  )
+  PrInT(  ""banana""  )
+  PrInT(  ""fig""  )",0
+"  PrInT(  ""apple""  )
+  PrInT(  ""grape""  )",0
+"  PrInT(  ""honeydew""  )",0
+"  PrInT(  ""fig""  )
+  PrInT(  ""honeydew""  )
+  PrInT(  ""banana""  )
+  PrInT(  ""apple""  )
+  PrInT(  ""cherry""  )",0
+"  PrInT(  ""apple""  )",0
+"  PrInT(  ""grape""  )",0
+"  PrInT(  ""cherry""  )",0
+"  PrInT(  ""date""  )
+  PrInT(  ""apple""  )",0
+"  PrInT(  ""grape""  )
+  PrInT(  ""date""  )
+  PrInT(  ""grape""  )",0
+"  PrInT(  ""cherry""  )
+  PrInT(  ""apple""  )
+  PrInT(  ""cherry""  )",0
+"  PrInT(  ""cherry""  )",0
+"  PrInT(  ""elderberry""  )
+  PrInT(  ""fig""  )",0
+"  PrInT(  ""honeydew""  )
+  PrInT(  ""grape""  )
+  PrInT(  ""cherry""  )
+  PrInT(  ""banana""  )
+  PrInT(  ""banana""  )",0
+"  PrInT(  ""fig""  )
+  PrInT(  ""grape""  )",0
+"  PrInT(  ""cherry""  )
+  PrInT(  ""elderberry""  )
+  PrInT(  ""honeydew""  )",0
+"  PrInT(  ""grape""  )
+  PrInT(  ""banana""  )",0
+"  PrInT(  ""cherry""  )
+  PrInT(  ""honeydew""  )
+  PrInT(  ""date""  )
+  PrInT(  ""grape""  )
+  PrInT(  ""grape""  )",0
+"  PrInT(  ""grape""  )
+  PrInT(  ""honeydew""  )
+  PrInT(  ""grape""  )
+  PrInT(  ""cherry""  )
+  PrInT(  ""date""  )",0
+"  PrInT(  ""cherry""  )
+  PrInT(  ""cherry""  )
+  PrInT(  ""cherry""  )",0
+"  PrInT(  ""honeydew""  )
+  PrInT(  ""apple""  )",0
+"  PrInT(  ""banana""  )
+  PrInT(  ""date""  )
+  PrInT(  ""date""  )
+  PrInT(  ""cherry""  )
+  PrInT(  ""honeydew""  )",0
+"  PrInT(  ""date""  )
+  PrInT(  ""apple""  )",0
+"  PrInT(  ""grape""  )
+  PrInT(  ""cherry""  )
+  PrInT(  ""banana""  )",0
+"  PrInT(  ""elderberry""  )
+  PrInT(  ""elderberry""  )
+  PrInT(  ""grape""  )",0
+"  PrInT(  ""apple""  )
+  PrInT(  ""banana""  )",0
+"  PrInT(  ""apple""  )
+  PrInT(  ""fig""  )
+  PrInT(  ""honeydew""  )
+  PrInT(  ""date""  )
+  PrInT(  ""fig""  )",0
+"  PrInT(  ""grape""  )
+  PrInT(  ""honeydew""  )
+  PrInT(  ""cherry""  )
+  PrInT(  ""elderberry""  )
+  PrInT(  ""elderberry""  )",0
+"  PrInT(  ""apple""  )
+  PrInT(  ""date""  )
+  PrInT(  ""honeydew""  )
+  PrInT(  ""elderberry""  )",0
+"  PrInT(  ""cherry""  )",0
+"  PrInT(  ""honeydew""  )
+  PrInT(  ""apple""  )
+  PrInT(  ""apple""  )
+  PrInT(  ""grape""  )
+  PrInT(  ""elderberry""  )",0
+"  PrInT(  ""apple""  )",0
+"  PrInT(  ""grape""  )
+  PrInT(  ""date""  )",0
+"  PrInT(  ""honeydew""  )",0
+"  PrInT(  ""banana""  )
+  PrInT(  ""cherry""  )
+  PrInT(  ""banana""  )",0
+"  PrInT(  ""cherry""  )",0
+"  PrInT(  ""banana""  )",0
+"  PrInT(  ""banana""  )
+  PrInT(  ""honeydew""  )
+  PrInT(  ""grape""  )
+  PrInT(  ""fig""  )
+  PrInT(  ""honeydew""  )",0
+"  PrInT(  ""banana""  )
+  PrInT(  ""apple""  )
+  PrInT(  ""grape""  )
+  PrInT(  ""elderberry""  )",0
+"  PrInT(  ""grape""  )
+  PrInT(  ""elderberry""  )
+  PrInT(  ""cherry""  )
+  PrInT(  ""apple""  )",0
+"  PrInT(  ""date""  )",0
+"  PrInT(  ""date""  )
+  PrInT(  ""grape""  )
+  PrInT(  ""cherry""  )",0
+"  PrInT(  ""elderberry""  )
+  PrInT(  ""fig""  )
+  PrInT(  ""banana""  )
+  PrInT(  ""banana""  )
+  PrInT(  ""date""  )",0
+"  PrInT(  ""elderberry""  )
+  PrInT(  ""fig""  )
+  PrInT(  ""cherry""  )
+  PrInT(  ""apple""  )",0
+"  PrInT(  ""apple""  )
+  PrInT(  ""date""  )
+  PrInT(  ""fig""  )
+  PrInT(  ""honeydew""  )
+  PrInT(  ""cherry""  )",0
+"  PrInT(  ""elderberry""  )",0
+"  PrInT(  ""date""  )
+  PrInT(  ""elderberry""  )
+  PrInT(  ""banana""  )",0
+"  PrInT(  ""grape""  )
+  PrInT(  ""elderberry""  )",0
+"  PrInT(  ""elderberry""  )",0
+"  PrInT(  ""fig""  )
+  PrInT(  ""fig""  )
+  PrInT(  ""fig""  )
+  PrInT(  ""apple""  )",0
+"  PrInT(  ""apple""  )",0
+"  PrInT(  ""elderberry""  )
+  PrInT(  ""banana""  )",0
+"  PrInT(  ""cherry""  )
+  PrInT(  ""banana""  )",0
+"  PrInT(  ""honeydew""  )
+  PrInT(  ""cherry""  )",0
+"  PrInT(  ""cherry""  )",0
+"  PrInT(  ""date""  )",0
+"  PrInT(  ""honeydew""  )
+  PrInT(  ""date""  )",0
+"  PrInT(  ""fig""  )",0
+"  PrInT(  ""honeydew""  )
+  PrInT(  ""apple""  )
+  PrInT(  ""date""  )
+  PrInT(  ""elderberry""  )",0
+"  PrInT(  ""date""  )
+  PrInT(  ""date""  )",0
+"  PrInT(  ""grape""  )",0
+"  PrInT(  ""fig""  )
+  PrInT(  ""date""  )",0
+"  PrInT(  ""fig""  )
+  PrInT(  ""apple""  )
+  PrInT(  ""honeydew""  )
+  PrInT(  ""cherry""  )
+  PrInT(  ""date""  )",0
+"  PrInT(  ""cherry""  )
+  PrInT(  ""banana""  )
+  PrInT(  ""date""  )
+  PrInT(  ""elderberry""  )",0
+"  PrInT(  ""elderberry""  )
+  PrInT(  ""grape""  )",0
+"  PrInT(  ""date""  )",0
+"  PrInT(  ""elderberry""  )",0
+"  PrInT(  ""date""  )
+  PrInT(  ""cherry""  )
+  PrInT(  ""cherry""  )
+  PrInT(  ""elderberry""  )",0
+"  PrInT(  ""fig""  )
+  PrInT(  ""date""  )
+  PrInT(  ""cherry""  )
+  PrInT(  ""fig""  )",0
+"  PrInT(  ""elderberry""  )
+  PrInT(  ""cherry""  )
+  PrInT(  ""date""  )
+  PrInT(  ""grape""  )",0
+"  PrInT(  ""banana""  )
+  PrInT(  ""banana""  )",0
+"  PrInT(  ""fig""  )
+  PrInT(  ""fig""  )
+  PrInT(  ""date""  )",0
+"  PrInT(  ""cherry""  )
+  PrInT(  ""banana""  )
+  PrInT(  ""cherry""  )",0
+"  PrInT(  ""grape""  )
+  PrInT(  ""banana""  )
+  PrInT(  ""date""  )
+  PrInT(  ""date""  )
+  PrInT(  ""date""  )",0
+"  PrInT(  ""fig""  )",0
+"  PrInT(  ""apple""  )
+  PrInT(  ""grape""  )
+  PrInT(  ""honeydew""  )",0
+"  PrInT(  ""date""  )
+  PrInT(  ""fig""  )",0
+"  PrInT(  ""grape""  )
+  PrInT(  ""honeydew""  )
+  PrInT(  ""grape""  )
+  PrInT(  ""banana""  )",0
+"  PrInT(  ""apple""  )
+  PrInT(  ""apple""  )
+  PrInT(  ""apple""  )
+  PrInT(  ""apple""  )
+  PrInT(  ""apple""  )",0
+"  PrInT(  ""banana""  )
+  PrInT(  ""cherry""  )",0
+"  PrInT(  ""honeydew""  )
+  PrInT(  ""apple""  )
+  PrInT(  ""banana""  )",0
+"  PrInT(  ""honeydew""  )
+  PrInT(  ""grape""  )
+  PrInT(  ""honeydew""  )
+  PrInT(  ""honeydew""  )
+  PrInT(  ""grape""  )",0
+"  PrInT(  ""fig""  )",0
+"  PrInT(  ""grape""  )
+  PrInT(  ""cherry""  )
+  PrInT(  ""elderberry""  )",0
+"  PrInT(  ""apple""  )",0
+"  PrInT(  ""fig""  )
+  PrInT(  ""apple""  )
+  PrInT(  ""banana""  )",0
+"  PrInT(  ""banana""  )
+  PrInT(  ""honeydew""  )",0
+"  PrInT(  ""fig""  )",0
+"  PrInT(  ""honeydew""  )
+  PrInT(  ""fig""  )
+  PrInT(  ""date""  )
+  PrInT(  ""elderberry""  )
+  PrInT(  ""cherry""  )",0
+"  PrInT(  ""banana""  )
+  PrInT(  ""cherry""  )
+  PrInT(  ""elderberry""  )",0
+"  PrInT(  ""apple""  )",0
+"  PrInT(  ""grape""  )
+  PrInT(  ""date""  )
+  PrInT(  ""date""  )
+  PrInT(  ""fig""  )",0
+"  PrInT(  ""fig""  )
+  PrInT(  ""fig""  )",0
+"  PrInT(  ""apple""  )
+  PrInT(  ""cherry""  )
+  PrInT(  ""elderberry""  )",0
+"  PrInT(  ""grape""  )
+  PrInT(  ""date""  )",0
+"  PrInT(  ""cherry""  )
+  PrInT(  ""banana""  )
+  PrInT(  ""cherry""  )",0
+"  PrInT(  ""grape""  )
+  PrInT(  ""grape""  )
+  PrInT(  ""fig""  )
+  PrInT(  ""banana""  )",0
+"  PrInT(  ""fig""  )",0
+"  PrInT(  ""fig""  )
+  PrInT(  ""elderberry""  )
+  PrInT(  ""grape""  )
+  PrInT(  ""fig""  )
+  PrInT(  ""apple""  )",0
+"  PrInT(  ""fig""  )
+  PrInT(  ""cherry""  )
+  PrInT(  ""cherry""  )",0
+"  PrInT(  ""elderberry""  )
+  PrInT(  ""cherry""  )",0
+"  PrInT(  ""apple""  )",0
+"  PrInT(  ""elderberry""  )
+  PrInT(  ""honeydew""  )",0
+"  PrInT(  ""apple""  )
+  PrInT(  ""banana""  )
+  PrInT(  ""apple""  )
+  PrInT(  ""elderberry""  )
+  PrInT(  ""date""  )",0
+"  PrInT(  ""elderberry""  )",0
+"  PrInT(  ""cherry""  )
+  PrInT(  ""fig""  )
+  PrInT(  ""honeydew""  )
+  PrInT(  ""apple""  )",0
+"  PrInT(  ""elderberry""  )",0
+"  PrInT(  ""honeydew""  )
+  PrInT(  ""cherry""  )",0
+"  PrInT(  ""elderberry""  )
+  PrInT(  ""fig""  )
+  PrInT(  ""elderberry""  )
+  PrInT(  ""grape""  )
+  PrInT(  ""date""  )",0
+"  PrInT(  ""banana""  )
+  PrInT(  ""date""  )
+  PrInT(  ""fig""  )",0
+"  PrInT(  ""elderberry""  )
+  PrInT(  ""elderberry""  )
+  PrInT(  ""banana""  )",0
+"  PrInT(  ""date""  )
+  PrInT(  ""fig""  )",0
+"  PrInT(  ""date""  )
+  PrInT(  ""date""  )
+  PrInT(  ""honeydew""  )
+  PrInT(  ""cherry""  )
+  PrInT(  ""banana""  )",0
+"  PrInT(  ""grape""  )
+  PrInT(  ""apple""  )
+  PrInT(  ""elderberry""  )
+  PrInT(  ""banana""  )",0
+"  PrInT(  ""apple""  )
+  PrInT(  ""elderberry""  )
+  PrInT(  ""elderberry""  )",0
+"  PrInT(  ""honeydew""  )
+  PrInT(  ""cherry""  )",0
+"  PrInT(  ""grape""  )
+  PrInT(  ""grape""  )
+  PrInT(  ""cherry""  )
+  PrInT(  ""elderberry""  )
+  PrInT(  ""elderberry""  )",0
+"  PrInT(  ""apple""  )
+  PrInT(  ""honeydew""  )
+  PrInT(  ""honeydew""  )",0
+"  PrInT(  ""cherry""  )
+  PrInT(  ""fig""  )
+  PrInT(  ""grape""  )
+  PrInT(  ""honeydew""  )
+  PrInT(  ""elderberry""  )",0
+"  PrInT(  ""honeydew""  )
+  PrInT(  ""honeydew""  )
+  PrInT(  ""elderberry""  )
+  PrInT(  ""honeydew""  )",0
+"  PrInT(  ""cherry""  )",0
+"  PrInT(  ""apple""  )
+  PrInT(  ""date""  )",0
+"  PrInT(  ""date""  )
+  PrInT(  ""date""  )
+  PrInT(  ""grape""  )
+  PrInT(  ""honeydew""  )
+  PrInT(  ""banana""  )",0
+"  PrInT(  ""banana""  )
+  PrInT(  ""banana""  )
+  PrInT(  ""apple""  )
+  PrInT(  ""date""  )
+  PrInT(  ""elderberry""  )",0
+"  PrInT(  ""elderberry""  )
+  PrInT(  ""apple""  )
+  PrInT(  ""fig""  )
+  PrInT(  ""elderberry""  )
+  PrInT(  ""elderberry""  )",0
+"  PrInT(  ""elderberry""  )
+  PrInT(  ""date""  )
+  PrInT(  ""grape""  )
+  PrInT(  ""fig""  )",0
+"  PrInT(  ""banana""  )",0
+"  PrInT(  ""cherry""  )
+  PrInT(  ""fig""  )",0
+"  PrInT(  ""elderberry""  )
+  PrInT(  ""banana""  )",0
+"  PrInT(  ""elderberry""  )
+  PrInT(  ""cherry""  )
+  PrInT(  ""honeydew""  )
+  PrInT(  ""date""  )",0
+"  PrInT(  ""date""  )
+  PrInT(  ""fig""  )
+  PrInT(  ""grape""  )
+  PrInT(  ""fig""  )",0
+"  PrInT(  ""honeydew""  )
+  PrInT(  ""banana""  )",0
+"  PrInT(  ""honeydew""  )
+  PrInT(  ""apple""  )",0
+"  PrInT(  ""apple""  )
+  PrInT(  ""honeydew""  )",0
+"  PrInT(  ""grape""  )
+  PrInT(  ""apple""  )
+  PrInT(  ""date""  )
+  PrInT(  ""date""  )
+  PrInT(  ""cherry""  )",0
+"  PrInT(  ""date""  )
+  PrInT(  ""honeydew""  )
+  PrInT(  ""honeydew""  )",0
+"  PrInT(  ""apple""  )
+  PrInT(  ""fig""  )
+  PrInT(  ""grape""  )",0
+"  PrInT(  ""date""  )",0
+"  PrInT(  ""apple""  )",0
+"  PrInT(  ""elderberry""  )
+  PrInT(  ""banana""  )",0
+"  PrInT(  ""honeydew""  )
+  PrInT(  ""elderberry""  )",0
+"  PrInT(  ""apple""  )",0
+"  PrInT(  ""grape""  )
+  PrInT(  ""elderberry""  )
+  PrInT(  ""cherry""  )",0
+"  PrInT(  ""grape""  )
+  PrInT(  ""elderberry""  )
+  PrInT(  ""banana""  )
+  PrInT(  ""apple""  )
+  PrInT(  ""honeydew""  )",0
+"  PrInT(  ""honeydew""  )
+  PrInT(  ""cherry""  )
+  PrInT(  ""apple""  )
+  PrInT(  ""fig""  )",0
+"  PrInT(  ""honeydew""  )
+  PrInT(  ""elderberry""  )",0
+"  PrInT(  ""date""  )
+  PrInT(  ""fig""  )",0
+"  PrInT(  ""apple""  )
+  PrInT(  ""honeydew""  )
+  PrInT(  ""elderberry""  )
+  PrInT(  ""date""  )",0
+"  PrInT(  ""cherry""  )",0
+"  PrInT(  ""banana""  )",0
+"  PrInT(  ""cherry""  )
+  PrInT(  ""apple""  )",0
+"  PrInT(  ""banana""  )
+  PrInT(  ""banana""  )",0
+"  PrInT(  ""fig""  )",0
+"  PrInT(  ""grape""  )",0
+"  PrInT(  ""date""  )
+  PrInT(  ""apple""  )
+  PrInT(  ""fig""  )
+  PrInT(  ""apple""  )",0
+"  PrInT(  ""date""  )
+  PrInT(  ""date""  )",0
+"  PrInT(  ""apple""  )
+  PrInT(  ""date""  )",0
+"  PrInT(  ""honeydew""  )
+  PrInT(  ""elderberry""  )
+  PrInT(  ""elderberry""  )
+  PrInT(  ""apple""  )
+  PrInT(  ""grape""  )",0
+"  PrInT(  ""grape""  )",0
+"  PrInT(  ""elderberry""  )
+  PrInT(  ""banana""  )
+  PrInT(  ""apple""  )",0
+"  PrInT(  ""date""  )
+  PrInT(  ""honeydew""  )
+  PrInT(  ""banana""  )
+  PrInT(  ""apple""  )",0
+"  PrInT(  ""honeydew""  )
+  PrInT(  ""fig""  )
+  PrInT(  ""apple""  )",0
+"  PrInT(  ""elderberry""  )
+  PrInT(  ""grape""  )
+  PrInT(  ""date""  )
+  PrInT(  ""date""  )
+  PrInT(  ""date""  )",0
+"  PrInT(  ""banana""  )",0
+"  PrInT(  ""fig""  )
+  PrInT(  ""cherry""  )",0
+"  PrInT(  ""honeydew""  )",0
+"  PrInT(  ""fig""  )",0
+"  PrInT(  ""cherry""  )",0
+"  PrInT(  ""banana""  )
+  PrInT(  ""honeydew""  )
+  PrInT(  ""fig""  )
+  PrInT(  ""cherry""  )
+  PrInT(  ""apple""  )",0
+"  PrInT(  ""banana""  )
+  PrInT(  ""apple""  )
+  PrInT(  ""date""  )
+  PrInT(  ""cherry""  )",0
+"  PrInT(  ""grape""  )",0
+"  PrInT(  ""banana""  )
+  PrInT(  ""honeydew""  )
+  PrInT(  ""elderberry""  )",0
+"  PrInT(  ""fig""  )
+  PrInT(  ""apple""  )
+  PrInT(  ""banana""  )
+  PrInT(  ""banana""  )
+  PrInT(  ""banana""  )",0
+"  PrInT(  ""honeydew""  )
+  PrInT(  ""cherry""  )",0
+"  PrInT(  ""banana""  )
+  PrInT(  ""fig""  )
+  PrInT(  ""banana""  )
+  PrInT(  ""apple""  )",0
+"  PrInT(  ""apple""  )
+  PrInT(  ""cherry""  )",0
+"  PrInT(  ""fig""  )
+  PrInT(  ""cherry""  )
+  PrInT(  ""date""  )
+  PrInT(  ""cherry""  )
+  PrInT(  ""banana""  )",0
+"  PrInT(  ""fig""  )
+  PrInT(  ""date""  )
+  PrInT(  ""apple""  )
+  PrInT(  ""banana""  )",0
+"  PrInT(  ""banana""  )
+  PrInT(  ""grape""  )
+  PrInT(  ""banana""  )",0
+"  PrInT(  ""date""  )
+  PrInT(  ""date""  )",0
+"  PrInT(  ""banana""  )
+  PrInT(  ""cherry""  )
+  PrInT(  ""banana""  )
+  PrInT(  ""honeydew""  )",0
+"  PrInT(  ""date""  )
+  PrInT(  ""honeydew""  )
+  PrInT(  ""apple""  )",0
+"  PrInT(  ""banana""  )
+  PrInT(  ""grape""  )",0
+"  PrInT(  ""apple""  )
+  PrInT(  ""fig""  )",0
+"  PrInT(  ""elderberry""  )
+  PrInT(  ""grape""  )
+  PrInT(  ""banana""  )
+  PrInT(  ""elderberry""  )",0
+"  PrInT(  ""cherry""  )
+  PrInT(  ""fig""  )
+  PrInT(  ""elderberry""  )
+  PrInT(  ""fig""  )
+  PrInT(  ""date""  )",0
+"  PrInT(  ""fig""  )
+  PrInT(  ""elderberry""  )",0
+"  PrInT(  ""honeydew""  )
+  PrInT(  ""grape""  )",0
+"  PrInT(  ""grape""  )
+  PrInT(  ""honeydew""  )
+  PrInT(  ""grape""  )",0
+"  PrInT(  ""cherry""  )
+  PrInT(  ""elderberry""  )",0
+"  PrInT(  ""fig""  )
+  PrInT(  ""fig""  )
+  PrInT(  ""cherry""  )
+  PrInT(  ""grape""  )
+  PrInT(  ""date""  )",0
+"  PrInT(  ""fig""  )
+  PrInT(  ""date""  )
+  PrInT(  ""elderberry""  )
+  PrInT(  ""fig""  )
+  PrInT(  ""cherry""  )",0
+"  PrInT(  ""fig""  )
+  PrInT(  ""elderberry""  )
+  PrInT(  ""date""  )
+  PrInT(  ""fig""  )",0
+"  PrInT(  ""grape""  )
+  PrInT(  ""apple""  )
+  PrInT(  ""fig""  )
+  PrInT(  ""apple""  )
+  PrInT(  ""banana""  )",0
+"  PrInT(  ""honeydew""  )
+  PrInT(  ""date""  )
+  PrInT(  ""honeydew""  )
+  PrInT(  ""fig""  )",0
+"  PrInT(  ""cherry""  )
+  PrInT(  ""fig""  )
+  PrInT(  ""fig""  )
+  PrInT(  ""elderberry""  )",0
+"  PrInT(  ""apple""  )",0
+"  PrInT(  ""banana""  )
+  PrInT(  ""cherry""  )
+  PrInT(  ""apple""  )",0
+"  PrInT(  ""banana""  )
+  PrInT(  ""honeydew""  )
+  PrInT(  ""elderberry""  )
+  PrInT(  ""cherry""  )
+  PrInT(  ""elderberry""  )",0
+"  PrInT(  ""elderberry""  )
+  PrInT(  ""grape""  )",0
+"  PrInT(  ""elderberry""  )
+  PrInT(  ""elderberry""  )
+  PrInT(  ""fig""  )
+  PrInT(  ""apple""  )
+  PrInT(  ""elderberry""  )",0
+"  PrInT(  ""cherry""  )
+  PrInT(  ""grape""  )
+  PrInT(  ""elderberry""  )
+  PrInT(  ""date""  )",0
+"  PrInT(  ""apple""  )
+  PrInT(  ""apple""  )
+  PrInT(  ""date""  )",0
+"  PrInT(  ""banana""  )
+  PrInT(  ""honeydew""  )",0
+"  PrInT(  ""honeydew""  )
+  PrInT(  ""grape""  )
+  PrInT(  ""grape""  )
+  PrInT(  ""apple""  )
+  PrInT(  ""cherry""  )",0
+"  PrInT(  ""fig""  )
+  PrInT(  ""banana""  )
+  PrInT(  ""fig""  )
+  PrInT(  ""date""  )
+  PrInT(  ""elderberry""  )",0
+"  PrInT(  ""apple""  )
+  PrInT(  ""cherry""  )",0
+"  PrInT(  ""fig""  )",0
+"  PrInT(  ""date""  )
+  PrInT(  ""banana""  )
+  PrInT(  ""date""  )
+  PrInT(  ""date""  )",0
+"  PrInT(  ""cherry""  )",0
+"  PrInT(  ""honeydew""  )
+  PrInT(  ""banana""  )",0
+"  PrInT(  ""fig""  )
+  PrInT(  ""banana""  )
+  PrInT(  ""banana""  )
+  PrInT(  ""elderberry""  )
+  PrInT(  ""apple""  )",0
+"  PrInT(  ""grape""  )
+  PrInT(  ""banana""  )
+  PrInT(  ""banana""  )",0
+"  PrInT(  ""elderberry""  )
+  PrInT(  ""cherry""  )
+  PrInT(  ""grape""  )",0
+"  PrInT(  ""banana""  )
+  PrInT(  ""elderberry""  )
+  PrInT(  ""honeydew""  )
+  PrInT(  ""honeydew""  )
+  PrInT(  ""date""  )",0
+"  PrInT(  ""date""  )
+  PrInT(  ""fig""  )
+  PrInT(  ""honeydew""  )",0
+"  PrInT(  ""banana""  )
+  PrInT(  ""elderberry""  )
+  PrInT(  ""elderberry""  )",0
+"  PrInT(  ""honeydew""  )
+  PrInT(  ""elderberry""  )",0
+"  PrInT(  ""date""  )
+  PrInT(  ""elderberry""  )",0
+"  PrInT(  ""fig""  )",0
+"  PrInT(  ""fig""  )
+  PrInT(  ""banana""  )
+  PrInT(  ""banana""  )
+  PrInT(  ""honeydew""  )",0
+"  PrInT(  ""fig""  )
+  PrInT(  ""honeydew""  )
+  PrInT(  ""date""  )
+  PrInT(  ""banana""  )
+  PrInT(  ""elderberry""  )",0
+"  PrInT(  ""honeydew""  )
+  PrInT(  ""honeydew""  )
+  PrInT(  ""honeydew""  )
+  PrInT(  ""elderberry""  )",0
+"  PrInT(  ""fig""  )
+  PrInT(  ""grape""  )
+  PrInT(  ""grape""  )
+  PrInT(  ""elderberry""  )",0
+"  PrInT(  ""honeydew""  )
+  PrInT(  ""grape""  )
+  PrInT(  ""grape""  )
+  PrInT(  ""banana""  )",0
+"  PrInT(  ""banana""  )
+  PrInT(  ""honeydew""  )
+  PrInT(  ""apple""  )",0
+"  PrInT(  ""fig""  )
+  PrInT(  ""elderberry""  )",0
+"  PrInT(  ""grape""  )
+  PrInT(  ""date""  )
+  PrInT(  ""apple""  )
+  PrInT(  ""apple""  )
+  PrInT(  ""apple""  )",0
+"  PrInT(  ""banana""  )
+  PrInT(  ""honeydew""  )
+  PrInT(  ""date""  )",0
+"  PrInT(  ""banana""  )
+  PrInT(  ""honeydew""  )
+  PrInT(  ""date""  )
+  PrInT(  ""grape""  )",0
+"  PrInT(  ""elderberry""  )",0
+"  PrInT(  ""banana""  )
+  PrInT(  ""cherry""  )
+  PrInT(  ""grape""  )
+  PrInT(  ""grape""  )",0
+"  PrInT(  ""apple""  )
+  PrInT(  ""grape""  )
+  PrInT(  ""date""  )
+  PrInT(  ""date""  )
+  PrInT(  ""cherry""  )",0
+"  PrInT(  ""fig""  )
+  PrInT(  ""fig""  )
+  PrInT(  ""grape""  )",0
+"  PrInT(  ""elderberry""  )
+  PrInT(  ""banana""  )
+  PrInT(  ""fig""  )
+  PrInT(  ""date""  )
+  PrInT(  ""honeydew""  )",0
+"  PrInT(  ""cherry""  )
+  PrInT(  ""grape""  )
+  PrInT(  ""grape""  )
+  PrInT(  ""fig""  )
+  PrInT(  ""honeydew""  )",0
+"  PrInT(  ""apple""  )
+  PrInT(  ""elderberry""  )",0
+"  PrInT(  ""honeydew""  )",0
+"  PrInT(  ""date""  )
+  PrInT(  ""honeydew""  )
+  PrInT(  ""elderberry""  )",0
+"  PrInT(  ""apple""  )
+  PrInT(  ""grape""  )
+  PrInT(  ""apple""  )
+  PrInT(  ""cherry""  )
+  PrInT(  ""apple""  )",0
+"  PrInT(  ""apple""  )
+  PrInT(  ""elderberry""  )",0
+"  PrInT(  ""date""  )
+  PrInT(  ""fig""  )
+  PrInT(  ""grape""  )",0
+"  PrInT(  ""grape""  )
+  PrInT(  ""honeydew""  )
+  PrInT(  ""date""  )",0
+"  PrInT(  ""date""  )
+  PrInT(  ""apple""  )",0
+"  PrInT(  ""apple""  )
+  PrInT(  ""fig""  )
+  PrInT(  ""banana""  )",0
+"  PrInT(  ""cherry""  )
+  PrInT(  ""cherry""  )",0
+"  PrInT(  ""fig""  )
+  PrInT(  ""elderberry""  )
+  PrInT(  ""elderberry""  )",0
+"  PrInT(  ""elderberry""  )
+  PrInT(  ""grape""  )",0
+"  PrInT(  ""banana""  )
+  PrInT(  ""elderberry""  )
+  PrInT(  ""elderberry""  )",0
+"  PrInT(  ""honeydew""  )",0
+"  PrInT(  ""date""  )
+  PrInT(  ""cherry""  )",0
+"  PrInT(  ""banana""  )
+  PrInT(  ""elderberry""  )
+  PrInT(  ""date""  )",0
+"  PrInT(  ""honeydew""  )
+  PrInT(  ""date""  )
+  PrInT(  ""elderberry""  )
+  PrInT(  ""cherry""  )
+  PrInT(  ""grape""  )",0
+"  PrInT(  ""elderberry""  )
+  PrInT(  ""grape""  )
+  PrInT(  ""fig""  )
+  PrInT(  ""apple""  )",0
+"  PrInT(  ""grape""  )
+  PrInT(  ""date""  )
+  PrInT(  ""honeydew""  )",0
+"  PrInT(  ""apple""  )
+  PrInT(  ""cherry""  )
+  PrInT(  ""grape""  )
+  PrInT(  ""apple""  )
+  PrInT(  ""elderberry""  )",0
+"  PrInT(  ""fig""  )
+  PrInT(  ""fig""  )
+  PrInT(  ""apple""  )",0
+"  PrInT(  ""banana""  )",0
+"  PrInT(  ""fig""  )",0
+"  PrInT(  ""elderberry""  )
+  PrInT(  ""date""  )",0
+"  PrInT(  ""fig""  )
+  PrInT(  ""date""  )",0
+"  PrInT(  ""banana""  )
+  PrInT(  ""grape""  )",0
+"  PrInT(  ""honeydew""  )
+  PrInT(  ""honeydew""  )
+  PrInT(  ""banana""  )",0
+"  PrInT(  ""grape""  )",0
+"  PrInT(  ""honeydew""  )
+  PrInT(  ""banana""  )
+  PrInT(  ""banana""  )
+  PrInT(  ""elderberry""  )
+  PrInT(  ""cherry""  )",0
+"  PrInT(  ""cherry""  )",0
+"  PrInT(  ""banana""  )
+  PrInT(  ""grape""  )",0
+"  PrInT(  ""date""  )
+  PrInT(  ""apple""  )",0
+"  PrInT(  ""grape""  )",0
+"  PrInT(  ""honeydew""  )
+  PrInT(  ""date""  )",0
+"  PrInT(  ""cherry""  )
+  PrInT(  ""date""  )",0
+"  PrInT(  ""grape""  )
+  PrInT(  ""grape""  )
+  PrInT(  ""elderberry""  )",0
+"  PrInT(  ""fig""  )",0
+"  PrInT(  ""elderberry""  )
+  PrInT(  ""date""  )
+  PrInT(  ""grape""  )
+  PrInT(  ""honeydew""  )",0
+"  PrInT(  ""grape""  )
+  PrInT(  ""honeydew""  )
+  PrInT(  ""elderberry""  )
+  PrInT(  ""apple""  )",0
+"  PrInT(  ""banana""  )
+  PrInT(  ""honeydew""  )
+  PrInT(  ""fig""  )
+  PrInT(  ""cherry""  )",0
+"  PrInT(  ""elderberry""  )
+  PrInT(  ""apple""  )",0
+"  PrInT(  ""banana""  )
+  PrInT(  ""cherry""  )
+  PrInT(  ""honeydew""  )
+  PrInT(  ""elderberry""  )",0
+"  PrInT(  ""apple""  )
+  PrInT(  ""banana""  )
+  PrInT(  ""fig""  )
+  PrInT(  ""banana""  )
+  PrInT(  ""date""  )",0
+"  PrInT(  ""date""  )",0
+"  PrInT(  ""honeydew""  )",0
+"  PrInT(  ""banana""  )
+  PrInT(  ""banana""  )",0
+"  PrInT(  ""honeydew""  )
+  PrInT(  ""fig""  )",0
+"  PrInT(  ""banana""  )
+  PrInT(  ""grape""  )
+  PrInT(  ""banana""  )
+  PrInT(  ""elderberry""  )
+  PrInT(  ""fig""  )",0
+"  PrInT(  ""banana""  )
+  PrInT(  ""apple""  )
+  PrInT(  ""date""  )
+  PrInT(  ""grape""  )
+  PrInT(  ""date""  )",0
+"  PrInT(  ""date""  )",0
+"  PrInT(  ""honeydew""  )
+  PrInT(  ""honeydew""  )
+  PrInT(  ""honeydew""  )
+  PrInT(  ""banana""  )",0
+"  PrInT(  ""apple""  )
+  PrInT(  ""apple""  )
+  PrInT(  ""cherry""  )
+  PrInT(  ""date""  )
+  PrInT(  ""honeydew""  )",0
+"  PrInT(  ""apple""  )
+  PrInT(  ""date""  )",0
+"  PrInT(  ""grape""  )",0
+"  PrInT(  ""fig""  )
+  PrInT(  ""fig""  )
+  PrInT(  ""cherry""  )",0
+"  PrInT(  ""banana""  )
+  PrInT(  ""apple""  )
+  PrInT(  ""fig""  )
+  PrInT(  ""date""  )",0
+"  PrInT(  ""banana""  )
+  PrInT(  ""banana""  )",0
+"  PrInT(  ""elderberry""  )
+  PrInT(  ""fig""  )",0
+"  PrInT(  ""cherry""  )
+  PrInT(  ""apple""  )
+  PrInT(  ""banana""  )",0
+"  PrInT(  ""apple""  )
+  PrInT(  ""elderberry""  )",0
+"  PrInT(  ""banana""  )
+  PrInT(  ""apple""  )",0
+"  PrInT(  ""honeydew""  )
+  PrInT(  ""apple""  )
+  PrInT(  ""fig""  )
+  PrInT(  ""banana""  )
+  PrInT(  ""fig""  )",0
+"  PrInT(  ""date""  )
+  PrInT(  ""elderberry""  )
+  PrInT(  ""fig""  )",0
+"  PrInT(  ""apple""  )",0
+"  PrInT(  ""cherry""  )
+  PrInT(  ""fig""  )
+  PrInT(  ""banana""  )",0
+"  PrInT(  ""grape""  )
+  PrInT(  ""apple""  )
+  PrInT(  ""cherry""  )",0
+"  PrInT(  ""grape""  )
+  PrInT(  ""apple""  )
+  PrInT(  ""fig""  )
+  PrInT(  ""banana""  )",0
+"  PrInT(  ""cherry""  )
+  PrInT(  ""honeydew""  )
+  PrInT(  ""apple""  )
+  PrInT(  ""elderberry""  )",0
+"  PrInT(  ""elderberry""  )
+  PrInT(  ""cherry""  )
+  PrInT(  ""cherry""  )",0
+"  PrInT(  ""cherry""  )
+  PrInT(  ""cherry""  )
+  PrInT(  ""banana""  )
+  PrInT(  ""honeydew""  )",0
+"  PrInT(  ""fig""  )
+  PrInT(  ""elderberry""  )
+  PrInT(  ""honeydew""  )
+  PrInT(  ""apple""  )
+  PrInT(  ""cherry""  )",0
+"  PrInT(  ""fig""  )
+  PrInT(  ""grape""  )
+  PrInT(  ""banana""  )
+  PrInT(  ""grape""  )",0
+"  PrInT(  ""fig""  )
+  PrInT(  ""fig""  )
+  PrInT(  ""cherry""  )",0
+"  PrInT(  ""date""  )
+  PrInT(  ""grape""  )
+  PrInT(  ""fig""  )
+  PrInT(  ""elderberry""  )",0
+"  PrInT(  ""cherry""  )
+  PrInT(  ""grape""  )
+  PrInT(  ""grape""  )
+  PrInT(  ""date""  )",0
+"  PrInT(  ""fig""  )",0
+"  PrInT(  ""honeydew""  )",0
+"  PrInT(  ""banana""  )
+  PrInT(  ""grape""  )
+  PrInT(  ""fig""  )
+  PrInT(  ""date""  )",0
+"  PrInT(  ""grape""  )
+  PrInT(  ""grape""  )
+  PrInT(  ""elderberry""  )
+  PrInT(  ""grape""  )",0
+"  PrInT(  ""cherry""  )",0
+"  PrInT(  ""grape""  )",0
+"  PrInT(  ""date""  )
+  PrInT(  ""banana""  )
+  PrInT(  ""date""  )
+  PrInT(  ""apple""  )
+  PrInT(  ""banana""  )",0
+"  PrInT(  ""honeydew""  )",0
+"  PrInT(  ""apple""  )",0
+"  PrInT(  ""grape""  )",0
+"  PrInT(  ""honeydew""  )",0
+"  PrInT(  ""cherry""  )
+  PrInT(  ""honeydew""  )
+  PrInT(  ""elderberry""  )
+  PrInT(  ""banana""  )
+  PrInT(  ""date""  )",0
+"  PrInT(  ""grape""  )
+  PrInT(  ""banana""  )
+  PrInT(  ""date""  )",0
+"  PrInT(  ""elderberry""  )
+  PrInT(  ""cherry""  )",0
+"  PrInT(  ""elderberry""  )
+  PrInT(  ""cherry""  )
+  PrInT(  ""fig""  )
+  PrInT(  ""cherry""  )
+  PrInT(  ""apple""  )",0
+"  PrInT(  ""date""  )
+  PrInT(  ""apple""  )
+  PrInT(  ""fig""  )
+  PrInT(  ""cherry""  )
+  PrInT(  ""cherry""  )",0
+"  PrInT(  ""cherry""  )
+  PrInT(  ""banana""  )
+  PrInT(  ""cherry""  )
+  PrInT(  ""grape""  )
+  PrInT(  ""grape""  )",0
+"  PrInT(  ""banana""  )",0
+"  PrInT(  ""cherry""  )
+  PrInT(  ""apple""  )
+  PrInT(  ""banana""  )
+  PrInT(  ""date""  )",0
