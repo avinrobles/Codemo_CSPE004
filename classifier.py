@@ -34,27 +34,28 @@ def format_code_black(code):
     except Exception as e:
         return print("Black formatting error")
         
+def temp_file(code):
+    temp_file = tempfile.NamedTemporaryFile(delete=False, suffix=".py", mode="w")
+    temp_file.write(code)
+    temp_file_path = temp_file.name
+    temp_file.close()  # Manually close the temp file before using it
+    return temp_file_path
 
 def check_readability(code, output_filename="readability_report.txt"):
-    #check readability using pulint
     if not code:
         return "No code extracted."
 
-    with tempfile.NamedTemporaryFile(delete=False, suffix=".py", mode="w") as temp_file:
-        temp_file.write(code)
-        temp_file_path = temp_file.name
-
-    #use C and W for the style and readability
-    try:
-        report_path = os.path.join(os.getcwd(), output_filename)
-        with open(report_path, "w") as report_file:
-            result = subprocess.run([PYLINT, "--disable=all", "--enable=C,W",  temp_file_path]
-            , capture_output=True, text=True, check=False)
-            report_file.write(result.stdout if result.stdout else "No issues detected!\n")
-        return f"Readability report saved at {report_path}"
+    report_path = os.path.join(os.getcwd(), output_filename)
     
-    finally:
-        os.remove(temp_file_path)
+    report_file = open(report_path, "w")
+    result = subprocess.run([PYLINT, "--disable=all", "--enable=C,W", temp_file_path],
+                            capture_output=True, text=True, check=False)
+    
+    report_file.write(result.stdout)
+    report_file.close()  # Manually close the report file
+
+    os.remove(temp_file_path)  # Delete temp file after use
+    return f"Readability report saved at {report_path}"
 
 def check_bugs(code, output_filename="bug_report.txt"):
     #check bugs using pylint
@@ -67,6 +68,7 @@ def check_bugs(code, output_filename="bug_report.txt"):
 
     #use E and F daw Avin
     try:
+        """FIX REPORT PATHHHHHHHHHHHHHH"""
         report_path = os.path.join(os.getcwd(), output_filename)
         with open(report_path, "w") as report_file:
             result = subprocess.run([PYLINT, "--disable=all", "--enable=E,F",  temp_file_path]
